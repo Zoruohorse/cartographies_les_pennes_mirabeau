@@ -1,0 +1,1144 @@
+[
+  {
+    "id": "claim_0001",
+    "subject_id": "actor_0002",
+    "project_id": "project_pennes_mirabeau",
+    "claim_type": "position",
+    "topic": "position_globale",
+    "value": "opposed",
+    "summary": "Maintient le recours juridique en cours et exige publiquement davantage de garanties environnementales.",
+    "certainty": "high",
+    "status": "reported_in_provided_material",
+    "evidence_ids": [
+      "evidence_0001"
+    ],
+    "source_position_statements": [
+      "Maintient le recours juridique en cours et exige publiquement davantage de garanties environnementales."
+    ],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-10-09"
+  },
+  {
+    "id": "claim_0002",
+    "subject_id": "actor_0003",
+    "project_id": "project_pennes_mirabeau",
+    "claim_type": "position",
+    "topic": "position_globale",
+    "value": "opposed",
+    "summary": "Partie prenante active du recours collectif contre le permis de construire du site.",
+    "certainty": "high",
+    "status": "reported_in_provided_material",
+    "evidence_ids": [
+      "evidence_0002"
+    ],
+    "source_position_statements": [
+      "Partie prenante active du recours collectif contre le permis de construire du site."
+    ],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-10-09"
+  },
+  {
+    "id": "claim_0003",
+    "subject_id": "actor_0004",
+    "project_id": "project_pennes_mirabeau",
+    "claim_type": "position",
+    "topic": "position_globale",
+    "value": "opposed",
+    "summary": "Mobilisé contre les nuisances immédiates, le traitement de la chaleur fatale et l'absence de garanties de sécurité.",
+    "certainty": "high",
+    "status": "reported_in_provided_material",
+    "evidence_ids": [
+      "evidence_0003"
+    ],
+    "source_position_statements": [
+      "Mobilisé contre les nuisances immédiates, le traitement de la chaleur fatale et l'absence de garanties de sécurité."
+    ],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-10-09"
+  },
+  {
+    "id": "claim_0004",
+    "subject_id": "actor_0005",
+    "project_id": "project_pennes_mirabeau",
+    "claim_type": "position",
+    "topic": "position_globale",
+    "value": "opposed",
+    "summary": "Contestent fermement l’absence de concertation préalable, les risques environnementaux et les futures nuisances.",
+    "certainty": "high",
+    "status": "reported_in_provided_material",
+    "evidence_ids": [
+      "evidence_0004"
+    ],
+    "source_position_statements": [
+      "Contestent fermement l’absence de concertation préalable, les risques environnementaux et les futures nuisances."
+    ],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-10-09"
+  },
+  {
+    "id": "claim_0005",
+    "subject_id": "actor_0006",
+    "project_id": "project_pennes_mirabeau",
+    "claim_type": "position",
+    "topic": "position_globale",
+    "value": "opposed",
+    "summary": "Soutiennent juridiquement l'opposition locale bien que leurs noms ne soient pas tous détaillés.",
+    "certainty": "medium",
+    "status": "reported_in_provided_material",
+    "evidence_ids": [
+      "evidence_0005"
+    ],
+    "source_position_statements": [
+      "Soutiennent juridiquement l'opposition locale bien que leurs noms ne soient pas tous détaillés."
+    ],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-10-09"
+  },
+  {
+    "id": "claim_0006",
+    "subject_id": "actor_0007",
+    "project_id": "project_pennes_mirabeau",
+    "claim_type": "position",
+    "topic": "position_globale",
+    "value": "opposed",
+    "summary": "Affirme avec fermeté que le collectif ne retirera sous aucun prétexte son recours administratif.",
+    "certainty": "high",
+    "status": "reported_in_provided_material",
+    "evidence_ids": [
+      "evidence_0006"
+    ],
+    "source_position_statements": [
+      "Affirme avec fermeté que le collectif ne retirera sous aucun prétexte son recours administratif."
+    ],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-10-09"
+  },
+  {
+    "id": "claim_0007",
+    "subject_id": "actor_0008",
+    "project_id": "project_pennes_mirabeau",
+    "claim_type": "position",
+    "topic": "position_globale",
+    "value": "opposed",
+    "summary": "Maintient le recours pour être formellement entendue, obtenir des réponses et contester le projet tel qu'il est présenté.",
+    "certainty": "high",
+    "status": "reported_in_provided_material",
+    "evidence_ids": [
+      "evidence_0007"
+    ],
+    "source_position_statements": [
+      "Maintient le recours pour être formellement entendue, obtenir des réponses et contester le projet tel qu'il est présenté."
+    ],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-10-09"
+  },
+  {
+    "id": "claim_0008",
+    "subject_id": "actor_0009",
+    "project_id": "project_pennes_mirabeau",
+    "claim_type": "position",
+    "topic": "position_globale",
+    "value": "opposed",
+    "summary": "Alerte de manière répétée sur les excavations, la gestion de la chaleur fatale et les risques sanitaires afférents. Porte-voix des riverains refusant de sacrifier la qualité de vie et l'environnement local pour une infrastructure technologique.",
+    "certainty": "high",
+    "status": "reported_in_provided_material",
+    "evidence_ids": [
+      "evidence_0008",
+      "evidence_0009"
+    ],
+    "source_position_statements": [
+      "Alerte de manière répétée sur les excavations, la gestion de la chaleur fatale et les risques sanitaires afférents.",
+      "Porte-voix des riverains refusant de sacrifier la qualité de vie et l'environnement local pour une infrastructure technologique."
+    ],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-10-09"
+  },
+  {
+    "id": "claim_0009",
+    "subject_id": "actor_0010",
+    "project_id": "project_pennes_mirabeau",
+    "claim_type": "position",
+    "topic": "position_globale",
+    "value": "opposed",
+    "summary": "Critique la rapidité expéditive des projets, le déséquilibre du rapport de force et l’appui aveugle de l'État.",
+    "certainty": "high",
+    "status": "reported_in_provided_material",
+    "evidence_ids": [
+      "evidence_0010"
+    ],
+    "source_position_statements": [
+      "Critique la rapidité expéditive des projets, le déséquilibre du rapport de force et l’appui aveugle de l'État."
+    ],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-10-09"
+  },
+  {
+    "id": "claim_0010",
+    "subject_id": "actor_0011",
+    "project_id": "project_pennes_mirabeau",
+    "claim_type": "position",
+    "topic": "position_globale",
+    "value": "opposed",
+    "summary": "Alerte vigoureusement sur l’empressement des procédures administratives et les futurs conflits d’usage électriques.",
+    "certainty": "high",
+    "status": "reported_in_provided_material",
+    "evidence_ids": [
+      "evidence_0011"
+    ],
+    "source_position_statements": [
+      "Alerte vigoureusement sur l’empressement des procédures administratives et les futurs conflits d’usage électriques."
+    ],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-10-09"
+  },
+  {
+    "id": "claim_0011",
+    "subject_id": "actor_0012",
+    "project_id": "project_pennes_mirabeau",
+    "claim_type": "position",
+    "topic": "position_globale",
+    "value": "opposed",
+    "summary": "Critique la vision et le modèle de société portés par la prolifération des data centers et de leurs usages.",
+    "certainty": "high",
+    "status": "reported_in_provided_material",
+    "evidence_ids": [
+      "evidence_0012"
+    ],
+    "source_position_statements": [
+      "Critique la vision et le modèle de société portés par la prolifération des data centers et de leurs usages."
+    ],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-10-09"
+  },
+  {
+    "id": "claim_0012",
+    "subject_id": "actor_0013",
+    "project_id": "project_pennes_mirabeau",
+    "claim_type": "position",
+    "topic": "position_globale",
+    "value": "opposed",
+    "summary": "Insiste sur la nécessité d'enquêtes publiques, d'un moratoire et de l'organisation d'une convention citoyenne.",
+    "certainty": "high",
+    "status": "reported_in_provided_material",
+    "evidence_ids": [
+      "evidence_0013"
+    ],
+    "source_position_statements": [
+      "Insiste sur la nécessité d'enquêtes publiques, d'un moratoire et de l'organisation d'une convention citoyenne."
+    ],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-10-09"
+  },
+  {
+    "id": "claim_0013",
+    "subject_id": "actor_0014",
+    "project_id": "project_pennes_mirabeau",
+    "claim_type": "position",
+    "topic": "position_globale",
+    "value": "opposed",
+    "summary": "Exprime un intérêt naissant pour l’engagement critique face à ce type d'infrastructures.",
+    "certainty": "medium",
+    "status": "reported_in_provided_material",
+    "evidence_ids": [
+      "evidence_0014"
+    ],
+    "source_position_statements": [
+      "Exprime un intérêt naissant pour l’engagement critique face à ce type d'infrastructures."
+    ],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-10-09"
+  },
+  {
+    "id": "claim_0014",
+    "subject_id": "actor_0015",
+    "project_id": "project_pennes_mirabeau",
+    "claim_type": "position",
+    "topic": "position_globale",
+    "value": "opposed",
+    "summary": "Doute profondément des bénéfices réels du projet et alerte sur les consommations d’électricité et d’eau.",
+    "certainty": "high",
+    "status": "reported_in_provided_material",
+    "evidence_ids": [
+      "evidence_0015"
+    ],
+    "source_position_statements": [
+      "Doute profondément des bénéfices réels du projet et alerte sur les consommations d’électricité et d’eau."
+    ],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-10-09"
+  },
+  {
+    "id": "claim_0015",
+    "subject_id": "actor_0016",
+    "project_id": "project_pennes_mirabeau",
+    "claim_type": "position",
+    "topic": "position_globale",
+    "value": "opposed",
+    "summary": "S’inquiète de la bétonisation, de la perte de l’esprit village et de la formation d'un îlot de chaleur.",
+    "certainty": "high",
+    "status": "reported_in_provided_material",
+    "evidence_ids": [
+      "evidence_0016"
+    ],
+    "source_position_statements": [
+      "S’inquiète de la bétonisation, de la perte de l’esprit village et de la formation d'un îlot de chaleur."
+    ],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-10-09"
+  },
+  {
+    "id": "claim_0016",
+    "subject_id": "actor_0017",
+    "project_id": "project_pennes_mirabeau",
+    "claim_type": "position",
+    "topic": "position_globale",
+    "value": "opposed",
+    "summary": "S’est dit farouchement contre le projet en l’état, mais se heurte au risque juridique et financier d’un retrait du permis.",
+    "certainty": "high",
+    "status": "reported_in_provided_material",
+    "evidence_ids": [
+      "evidence_0017"
+    ],
+    "source_position_statements": [
+      "S’est dit farouchement contre le projet en l’état, mais se heurte au risque juridique et financier d’un retrait du permis."
+    ],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-10-09"
+  },
+  {
+    "id": "claim_0017",
+    "subject_id": "actor_0018",
+    "project_id": "project_pennes_mirabeau",
+    "claim_type": "position",
+    "topic": "position_globale",
+    "value": "opposed",
+    "summary": "Dépose un recours pour obtenir des certitudes sur l’alimentation électrique, les rejets d’eau et les conditions d’implantation.",
+    "certainty": "high",
+    "status": "reported_in_provided_material",
+    "evidence_ids": [
+      "evidence_0018"
+    ],
+    "source_position_statements": [
+      "Dépose un recours pour obtenir des certitudes sur l’alimentation électrique, les rejets d’eau et les conditions d’implantation."
+    ],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-10-09"
+  },
+  {
+    "id": "claim_0018",
+    "subject_id": "actor_0019",
+    "project_id": "project_pennes_mirabeau",
+    "claim_type": "position",
+    "topic": "position_globale",
+    "value": "opposed",
+    "summary": "Alerte de manière globale sur la santé, la tranquillité, les inondations, le paysage et les lignes à haute tension.",
+    "certainty": "high",
+    "status": "reported_in_provided_material",
+    "evidence_ids": [
+      "evidence_0019"
+    ],
+    "source_position_statements": [
+      "Alerte de manière globale sur la santé, la tranquillité, les inondations, le paysage et les lignes à haute tension."
+    ],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-10-09"
+  },
+  {
+    "id": "claim_0019",
+    "subject_id": "actor_0020",
+    "project_id": "project_pennes_mirabeau",
+    "claim_type": "position",
+    "topic": "position_globale",
+    "value": "opposed",
+    "summary": "Estime fermement que le data center n’a rien à faire dans un secteur caractérisé par l'habitat et l’agriculture.",
+    "certainty": "high",
+    "status": "reported_in_provided_material",
+    "evidence_ids": [
+      "evidence_0020"
+    ],
+    "source_position_statements": [
+      "Estime fermement que le data center n’a rien à faire dans un secteur caractérisé par l'habitat et l’agriculture."
+    ],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-10-09"
+  },
+  {
+    "id": "claim_0020",
+    "subject_id": "actor_0021",
+    "project_id": "project_pennes_mirabeau",
+    "claim_type": "position",
+    "topic": "position_globale",
+    "value": "opposed",
+    "summary": "Annonce qu’il attaquera le permis si le préfet l’accorde et critique vertement l’absence d’accord des habitants.",
+    "certainty": "high",
+    "status": "reported_in_provided_material",
+    "evidence_ids": [
+      "evidence_0021"
+    ],
+    "source_position_statements": [
+      "Annonce qu’il attaquera le permis si le préfet l’accorde et critique vertement l’absence d’accord des habitants."
+    ],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-10-09"
+  },
+  {
+    "id": "claim_0021",
+    "subject_id": "actor_0022",
+    "project_id": "project_pennes_mirabeau",
+    "claim_type": "position",
+    "topic": "position_globale",
+    "value": "opposed",
+    "summary": "Se déclare contre le projet industriel Caps et invoque directement le principe de précaution.",
+    "certainty": "high",
+    "status": "reported_in_provided_material",
+    "evidence_ids": [
+      "evidence_0022"
+    ],
+    "source_position_statements": [
+      "Se déclare contre le projet industriel Caps et invoque directement le principe de précaution."
+    ],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-10-09"
+  },
+  {
+    "id": "claim_0022",
+    "subject_id": "actor_0023",
+    "project_id": "project_pennes_mirabeau",
+    "claim_type": "position",
+    "topic": "position_globale",
+    "value": "opposed",
+    "summary": "S’associe au questionnement du CIQ des Pallières et exige de la transparence et une étude de site alternative.",
+    "certainty": "high",
+    "status": "reported_in_provided_material",
+    "evidence_ids": [
+      "evidence_0023"
+    ],
+    "source_position_statements": [
+      "S’associe au questionnement du CIQ des Pallières et exige de la transparence et une étude de site alternative."
+    ],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-10-09"
+  },
+  {
+    "id": "claim_0023",
+    "subject_id": "actor_0024",
+    "project_id": "project_pennes_mirabeau",
+    "claim_type": "position",
+    "topic": "position_globale",
+    "value": "neutral",
+    "summary": "A signé le permis de construire avant les élections, ce qui cristallise désormais une grande partie des critiques locales.",
+    "certainty": "high",
+    "status": "reported_in_provided_material",
+    "evidence_ids": [
+      "evidence_0024"
+    ],
+    "source_position_statements": [
+      "A signé le permis de construire avant les élections, ce qui cristallise désormais une grande partie des critiques locales."
+    ],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-10-09"
+  },
+  {
+    "id": "claim_0024",
+    "subject_id": "actor_0025",
+    "project_id": "project_pennes_mirabeau",
+    "claim_type": "position",
+    "topic": "position_globale",
+    "value": "favorable",
+    "summary": "Seul candidat explicitement favorable dans le débat municipal, justifiant sa position par l'emploi et les recettes fiscales.",
+    "certainty": "high",
+    "status": "reported_in_provided_material",
+    "evidence_ids": [
+      "evidence_0025"
+    ],
+    "source_position_statements": [
+      "Seul candidat explicitement favorable dans le débat municipal, justifiant sa position par l'emploi et les recettes fiscales."
+    ],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-10-09"
+  },
+  {
+    "id": "claim_0025",
+    "subject_id": "actor_0026",
+    "project_id": "project_pennes_mirabeau",
+    "claim_type": "position",
+    "topic": "position_globale",
+    "value": "neutral",
+    "summary": "Plutôt favorable sur le principe à l'accueil d'un data center, mais estime que le secteur choisi est inadéquat.",
+    "certainty": "medium",
+    "status": "reported_in_provided_material",
+    "evidence_ids": [
+      "evidence_0026"
+    ],
+    "source_position_statements": [
+      "Plutôt favorable sur le principe à l'accueil d'un data center, mais estime que le secteur choisi est inadéquat."
+    ],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-10-09"
+  },
+  {
+    "id": "claim_0026",
+    "subject_id": "actor_0027",
+    "project_id": "project_pennes_mirabeau",
+    "claim_type": "position",
+    "topic": "position_globale",
+    "value": "neutral",
+    "summary": "Se montre intéressé par les perspectives du réseau de chaleur fatale, tout en jugeant qu’il est prématuré de conclure.",
+    "certainty": "medium",
+    "status": "reported_in_provided_material",
+    "evidence_ids": [
+      "evidence_0027"
+    ],
+    "source_position_statements": [
+      "Se montre intéressé par les perspectives du réseau de chaleur fatale, tout en jugeant qu’il est prématuré de conclure."
+    ],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-10-09"
+  },
+  {
+    "id": "claim_0027",
+    "subject_id": "actor_0028",
+    "project_id": "project_pennes_mirabeau",
+    "claim_type": "position",
+    "topic": "position_globale",
+    "value": "neutral",
+    "summary": "Cité sur le débat budgétaire général, sans qu'une position centrale sur le data center ne soit détaillée.",
+    "certainty": "low",
+    "status": "reported_in_provided_material",
+    "evidence_ids": [
+      "evidence_0028"
+    ],
+    "source_position_statements": [
+      "Cité sur le débat budgétaire général, sans qu'une position centrale sur le data center ne soit détaillée."
+    ],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-10-09"
+  },
+  {
+    "id": "claim_0028",
+    "subject_id": "actor_0029",
+    "project_id": "project_pennes_mirabeau",
+    "claim_type": "position",
+    "topic": "position_globale",
+    "value": "neutral",
+    "summary": "Intervient sur les délégations sécurité et transition écologique, sans opposition détaillée directement liée au projet.",
+    "certainty": "low",
+    "status": "reported_in_provided_material",
+    "evidence_ids": [
+      "evidence_0029"
+    ],
+    "source_position_statements": [
+      "Intervient sur les délégations sécurité et transition écologique, sans opposition détaillée directement liée au projet."
+    ],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-10-09"
+  },
+  {
+    "id": "claim_0029",
+    "subject_id": "actor_0030",
+    "project_id": "project_pennes_mirabeau",
+    "claim_type": "position",
+    "topic": "position_globale",
+    "value": "favorable",
+    "summary": "Déploie un complexe de huit bâtiments prévus sur environ six hectares, assumant le développement local.",
+    "certainty": "high",
+    "status": "reported_in_provided_material",
+    "evidence_ids": [
+      "evidence_0030"
+    ],
+    "source_position_statements": [
+      "Déploie un complexe de huit bâtiments prévus sur environ six hectares, assumant le développement local."
+    ],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-10-09"
+  },
+  {
+    "id": "claim_0030",
+    "subject_id": "actor_0031",
+    "project_id": "project_pennes_mirabeau",
+    "claim_type": "position",
+    "topic": "position_globale",
+    "value": "favorable",
+    "summary": "Actionnaire de l'acteur industriel et financier indirect, cautionnant la viabilité du projet.",
+    "certainty": "high",
+    "status": "reported_in_provided_material",
+    "evidence_ids": [
+      "evidence_0031"
+    ],
+    "source_position_statements": [
+      "Actionnaire de l'acteur industriel et financier indirect, cautionnant la viabilité du projet."
+    ],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-10-09"
+  },
+  {
+    "id": "claim_0031",
+    "subject_id": "actor_0032",
+    "project_id": "project_pennes_mirabeau",
+    "claim_type": "position",
+    "topic": "position_globale",
+    "value": "neutral",
+    "summary": "Intervient sur le raccordement électrique ; mention d’un enfouissement total des lignes selon les échanges.",
+    "certainty": "high",
+    "status": "reported_in_provided_material",
+    "evidence_ids": [
+      "evidence_0032"
+    ],
+    "source_position_statements": [
+      "Intervient sur le raccordement électrique ; mention d’un enfouissement total des lignes selon les échanges."
+    ],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-10-09"
+  },
+  {
+    "id": "claim_0032",
+    "subject_id": "actor_0033",
+    "project_id": "project_pennes_mirabeau",
+    "claim_type": "position",
+    "topic": "position_globale",
+    "value": "neutral",
+    "summary": "Citée par les riverains pour évaluer les risques sanitaires cumulés dans un territoire déjà très pollué.",
+    "certainty": "high",
+    "status": "reported_in_provided_material",
+    "evidence_ids": [
+      "evidence_0033"
+    ],
+    "source_position_statements": [
+      "Citée par les riverains pour évaluer les risques sanitaires cumulés dans un territoire déjà très pollué."
+    ],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-10-09"
+  },
+  {
+    "id": "claim_0033",
+    "subject_id": "actor_0034",
+    "project_id": "project_pennes_mirabeau",
+    "claim_type": "position",
+    "topic": "position_globale",
+    "value": "neutral",
+    "summary": "A émis un avis favorable sur le dossier malgré les fortes inquiétudes riveraines sur le risque incendie.",
+    "certainty": "high",
+    "status": "reported_in_provided_material",
+    "evidence_ids": [
+      "evidence_0034"
+    ],
+    "source_position_statements": [
+      "A émis un avis favorable sur le dossier malgré les fortes inquiétudes riveraines sur le risque incendie."
+    ],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-10-09"
+  },
+  {
+    "id": "claim_0034",
+    "subject_id": "actor_0035",
+    "project_id": "project_pennes_mirabeau",
+    "claim_type": "position",
+    "topic": "position_globale",
+    "value": "neutral",
+    "summary": "Sollicitée officiellement pour modéliser et réfléchir à un réseau de récupération de chaleur fatale.",
+    "certainty": "high",
+    "status": "reported_in_provided_material",
+    "evidence_ids": [
+      "evidence_0035"
+    ],
+    "source_position_statements": [
+      "Sollicitée officiellement pour modéliser et réfléchir à un réseau de récupération de chaleur fatale."
+    ],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-10-09"
+  },
+  {
+    "id": "claim_0035",
+    "subject_id": "actor_0036",
+    "project_id": "project_pennes_mirabeau",
+    "claim_type": "position",
+    "topic": "position_globale",
+    "value": "neutral",
+    "summary": "Impliquée dans la cession initiale du terrain avant sa revente à l'opérateur Telehouse.",
+    "certainty": "high",
+    "status": "reported_in_provided_material",
+    "evidence_ids": [
+      "evidence_0036"
+    ],
+    "source_position_statements": [
+      "Impliquée dans la cession initiale du terrain avant sa revente à l'opérateur Telehouse."
+    ],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-10-09"
+  },
+  {
+    "id": "claim_0036",
+    "subject_id": "actor_0037",
+    "project_id": "project_pennes_mirabeau",
+    "claim_type": "position",
+    "topic": "position_globale",
+    "value": "neutral",
+    "summary": "Cité face au risque que le représentant de l'État ne ferme unilatéralement la possibilité de négociation locale.",
+    "certainty": "high",
+    "status": "reported_in_provided_material",
+    "evidence_ids": [
+      "evidence_0037"
+    ],
+    "source_position_statements": [
+      "Cité face au risque que le représentant de l'État ne ferme unilatéralement la possibilité de négociation locale."
+    ],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-10-09"
+  },
+  {
+    "id": "claim_0037",
+    "subject_id": "actor_0038",
+    "project_id": "project_pennes_mirabeau",
+    "claim_type": "position",
+    "topic": "position_globale",
+    "value": "neutral",
+    "summary": "Saisie par le recours de la mairie de Saint-Victoret et par le recours collectif des CIQ et habitants.",
+    "certainty": "high",
+    "status": "reported_in_provided_material",
+    "evidence_ids": [
+      "evidence_0038"
+    ],
+    "source_position_statements": [
+      "Saisie par le recours de la mairie de Saint-Victoret et par le recours collectif des CIQ et habitants."
+    ],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-10-09"
+  },
+  {
+    "id": "claim_0038",
+    "subject_id": "actor_0039",
+    "project_id": "project_pennes_mirabeau",
+    "claim_type": "position",
+    "topic": "position_globale",
+    "value": "opposed",
+    "summary": "Mène des enquêtes, formations, balades urbaines et porte une bataille culturelle pour exiger un moratoire.",
+    "certainty": "high",
+    "status": "reported_in_provided_material",
+    "evidence_ids": [
+      "evidence_0039"
+    ],
+    "source_position_statements": [
+      "Mène des enquêtes, formations, balades urbaines et porte une bataille culturelle pour exiger un moratoire."
+    ],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-10-09"
+  },
+  {
+    "id": "claim_0039",
+    "subject_id": "actor_0040",
+    "project_id": "project_pennes_mirabeau",
+    "claim_type": "position",
+    "topic": "position_globale",
+    "value": "opposed",
+    "summary": "Vient en support des oppositions locales, notamment pour disséquer les études d'impact et les failles juridiques.",
+    "certainty": "high",
+    "status": "reported_in_provided_material",
+    "evidence_ids": [
+      "evidence_0040"
+    ],
+    "source_position_statements": [
+      "Vient en support des oppositions locales, notamment pour disséquer les études d'impact et les failles juridiques."
+    ],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-10-09"
+  },
+  {
+    "id": "claim_0040",
+    "subject_id": "actor_0041",
+    "project_id": "project_pennes_mirabeau",
+    "claim_type": "position",
+    "topic": "position_globale",
+    "value": "opposed",
+    "summary": "Cité comme appui essentiel aux collectifs locaux pour chercher des failles juridiques dans les permis et documents d’urbanisme.",
+    "certainty": "high",
+    "status": "reported_in_provided_material",
+    "evidence_ids": [
+      "evidence_0041"
+    ],
+    "source_position_statements": [
+      "Cité comme appui essentiel aux collectifs locaux pour chercher des failles juridiques dans les permis et documents d’urbanisme."
+    ],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-10-09"
+  },
+  {
+    "id": "claim_0041",
+    "subject_id": "actor_0042",
+    "project_id": "project_pennes_mirabeau",
+    "claim_type": "position",
+    "topic": "position_globale",
+    "value": "opposed",
+    "summary": "Mobilisés sur les enjeux de la reconversion industrielle d’une écoplateforme soupçonnée d'accueillir un data center.",
+    "certainty": "high",
+    "status": "reported_in_provided_material",
+    "evidence_ids": [
+      "evidence_0042"
+    ],
+    "source_position_statements": [
+      "Mobilisés sur les enjeux de la reconversion industrielle d’une écoplateforme soupçonnée d'accueillir un data center."
+    ],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-10-09"
+  },
+  {
+    "id": "claim_0042",
+    "subject_id": "actor_0043",
+    "project_id": "project_pennes_mirabeau",
+    "claim_type": "position",
+    "topic": "position_globale",
+    "value": "opposed",
+    "summary": "Mobilisés autour du projet Digital Realty MRS6, avec de fortes inquiétudes sur l’environnement et les nuisances sonores.",
+    "certainty": "high",
+    "status": "reported_in_provided_material",
+    "evidence_ids": [
+      "evidence_0043"
+    ],
+    "source_position_statements": [
+      "Mobilisés autour du projet Digital Realty MRS6, avec de fortes inquiétudes sur l’environnement et les nuisances sonores."
+    ],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-10-09"
+  },
+  {
+    "id": "claim_0043",
+    "subject_id": "actor_0044",
+    "project_id": "project_pennes_mirabeau",
+    "claim_type": "position",
+    "topic": "position_globale",
+    "value": "opposed",
+    "summary": "Mobilisations liées aux très nombreux projets de data centers du 16e arrondissement et à l'accaparement électrique.",
+    "certainty": "high",
+    "status": "reported_in_provided_material",
+    "evidence_ids": [
+      "evidence_0044"
+    ],
+    "source_position_statements": [
+      "Mobilisations liées aux très nombreux projets de data centers du 16e arrondissement et à l'accaparement électrique."
+    ],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-10-09"
+  },
+  {
+    "id": "claim_0044",
+    "subject_id": "actor_0051",
+    "project_id": "project_pennes_mirabeau",
+    "claim_type": "position",
+    "topic": "position_globale",
+    "value": "opposed",
+    "summary": "Redoute publiquement le risque d'incendie inhérent à l'implantation du data center Cézanne.",
+    "certainty": "high",
+    "status": "reported_in_provided_material",
+    "evidence_ids": [
+      "evidence_0045"
+    ],
+    "source_position_statements": [
+      "Redoute publiquement le risque d'incendie inhérent à l'implantation du data center Cézanne."
+    ],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-10-09"
+  },
+  {
+    "id": "claim_0045",
+    "subject_id": "actor_0052",
+    "project_id": "project_pennes_mirabeau",
+    "claim_type": "position",
+    "topic": "position_globale",
+    "value": "opposed",
+    "summary": "Critique le gigantisme aveugle des installations se déployant sans aucune stratégie démocratique globale.",
+    "certainty": "high",
+    "status": "reported_in_provided_material",
+    "evidence_ids": [
+      "evidence_0046"
+    ],
+    "source_position_statements": [
+      "Critique le gigantisme aveugle des installations se déployant sans aucune stratégie démocratique globale."
+    ],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-10-09"
+  },
+  {
+    "id": "claim_0046",
+    "subject_id": "actor_0053",
+    "project_id": "project_pennes_mirabeau",
+    "claim_type": "position",
+    "topic": "position_globale",
+    "value": "opposed",
+    "summary": "Pointe la totale incompatibilité des projets massifs avec les stratégies environnementales et climatiques locales.",
+    "certainty": "high",
+    "status": "reported_in_provided_material",
+    "evidence_ids": [
+      "evidence_0047"
+    ],
+    "source_position_statements": [
+      "Pointe la totale incompatibilité des projets massifs avec les stratégies environnementales et climatiques locales."
+    ],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-10-09"
+  },
+  {
+    "id": "claim_0047",
+    "subject_id": "actor_0054",
+    "project_id": "project_pennes_mirabeau",
+    "claim_type": "position",
+    "topic": "position_globale",
+    "value": "opposed",
+    "summary": "Dénonce l'émergence d'une législation de plus en plus permissive faite sur-mesure pour les opérateurs.",
+    "certainty": "high",
+    "status": "reported_in_provided_material",
+    "evidence_ids": [
+      "evidence_0048"
+    ],
+    "source_position_statements": [
+      "Dénonce l'émergence d'une législation de plus en plus permissive faite sur-mesure pour les opérateurs."
+    ],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-10-09"
+  },
+  {
+    "id": "claim_0048",
+    "subject_id": "actor_0055",
+    "project_id": "project_pennes_mirabeau",
+    "claim_type": "position",
+    "topic": "position_globale",
+    "value": "opposed",
+    "summary": "Alerte de manière documentée sur les futurs conflits d'usage électrique entre les industries et les citoyens.",
+    "certainty": "high",
+    "status": "reported_in_provided_material",
+    "evidence_ids": [
+      "evidence_0049"
+    ],
+    "source_position_statements": [
+      "Alerte de manière documentée sur les futurs conflits d'usage électrique entre les industries et les citoyens."
+    ],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-10-09"
+  },
+  {
+    "id": "claim_0049",
+    "subject_id": "actor_0056",
+    "project_id": "project_pennes_mirabeau",
+    "claim_type": "position",
+    "topic": "position_globale",
+    "value": "opposed",
+    "summary": "Souligne les lourds risques systémiques liés à la priorisation énergétique accordée aux data centers.",
+    "certainty": "high",
+    "status": "reported_in_provided_material",
+    "evidence_ids": [
+      "evidence_0050"
+    ],
+    "source_position_statements": [
+      "Souligne les lourds risques systémiques liés à la priorisation énergétique accordée aux data centers."
+    ],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-10-09"
+  },
+  {
+    "id": "claim_0050",
+    "subject_id": "actor_0057",
+    "project_id": "project_pennes_mirabeau",
+    "claim_type": "position",
+    "topic": "position_globale",
+    "value": "opposed",
+    "summary": "Mènent une action en justice exemplaire contre les stratégies de saucissonnage des projets d'infrastructure.",
+    "certainty": "high",
+    "status": "reported_in_provided_material",
+    "evidence_ids": [
+      "evidence_0051"
+    ],
+    "source_position_statements": [
+      "Mènent une action en justice exemplaire contre les stratégies de saucissonnage des projets d'infrastructure."
+    ],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-10-09"
+  },
+  {
+    "id": "claim_0051",
+    "subject_id": "actor_0058",
+    "project_id": "project_pennes_mirabeau",
+    "claim_type": "position",
+    "topic": "position_globale",
+    "value": "favorable",
+    "summary": "Représente la filière des data centers et promeut leur développement inconditionnel sur le territoire.",
+    "certainty": "high",
+    "status": "reported_in_provided_material",
+    "evidence_ids": [
+      "evidence_0052"
+    ],
+    "source_position_statements": [
+      "Représente la filière des data centers et promeut leur développement inconditionnel sur le territoire."
+    ],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-10-09"
+  },
+  {
+    "id": "claim_0052",
+    "subject_id": "actor_0059",
+    "project_id": "project_pennes_mirabeau",
+    "claim_type": "position",
+    "topic": "position_globale",
+    "value": "favorable",
+    "summary": "Défend avec ferveur l'utilité économique indiscutable de ces projets pour la souveraineté française.",
+    "certainty": "high",
+    "status": "reported_in_provided_material",
+    "evidence_ids": [
+      "evidence_0053"
+    ],
+    "source_position_statements": [
+      "Défend avec ferveur l'utilité économique indiscutable de ces projets pour la souveraineté française."
+    ],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-10-09"
+  },
+  {
+    "id": "claim_0053",
+    "subject_id": "actor_0060",
+    "project_id": "project_pennes_mirabeau",
+    "claim_type": "position",
+    "topic": "position_globale",
+    "value": "neutral",
+    "summary": "Prévoit dans ses études de prospective un quadruplement de la consommation électrique de ces infrastructures.",
+    "certainty": "high",
+    "status": "reported_in_provided_material",
+    "evidence_ids": [
+      "evidence_0054"
+    ],
+    "source_position_statements": [
+      "Prévoit dans ses études de prospective un quadruplement de la consommation électrique de ces infrastructures."
+    ],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-10-09"
+  },
+  {
+    "id": "claim_0054",
+    "subject_id": "actor_0061",
+    "project_id": "project_pennes_mirabeau",
+    "claim_type": "position",
+    "topic": "position_globale",
+    "value": "favorable",
+    "summary": "Soutient activement les investissements massifs dans les giga data centers pour des raisons de compétitivité.",
+    "certainty": "high",
+    "status": "reported_in_provided_material",
+    "evidence_ids": [
+      "evidence_0055"
+    ],
+    "source_position_statements": [
+      "Soutient activement les investissements massifs dans les giga data centers pour des raisons de compétitivité."
+    ],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-10-09"
+  },
+  {
+    "id": "claim_0055",
+    "subject_id": "actor_0062",
+    "project_id": "project_pennes_mirabeau",
+    "claim_type": "position",
+    "topic": "position_globale",
+    "value": "favorable",
+    "summary": "Énergéticien qui a un besoin stratégique du marché des data centers comme nouveau relais de croissance massif.",
+    "certainty": "high",
+    "status": "reported_in_provided_material",
+    "evidence_ids": [
+      "evidence_0056"
+    ],
+    "source_position_statements": [
+      "Énergéticien qui a un besoin stratégique du marché des data centers comme nouveau relais de croissance massif."
+    ],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-10-09"
+  },
+  {
+    "id": "claim_0056",
+    "subject_id": "actor_0064",
+    "project_id": "project_pennes_mirabeau",
+    "claim_type": "position",
+    "topic": "position_globale",
+    "value": "opposed",
+    "summary": "Considère le site comme inadapté et juge que le projet a contourné les procédures, annonçant une judiciarisation accrue.",
+    "certainty": "high",
+    "status": "reported_in_provided_material",
+    "evidence_ids": [
+      "evidence_0057"
+    ],
+    "source_position_statements": [
+      "Considère le site comme inadapté et juge que le projet a contourné les procédures, annonçant une judiciarisation accrue."
+    ],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-10-09"
+  },
+  {
+    "id": "claim_0057",
+    "subject_id": "actor_0065",
+    "project_id": "project_pennes_mirabeau",
+    "claim_type": "position",
+    "topic": "position_globale",
+    "value": "opposed",
+    "summary": "Apporte un soutien juridique et stratégique aux CIQ en déposant un recours contre l'autorisation environnementale.",
+    "certainty": "high",
+    "status": "reported_in_provided_material",
+    "evidence_ids": [
+      "evidence_0058"
+    ],
+    "source_position_statements": [
+      "Apporte un soutien juridique et stratégique aux CIQ en déposant un recours contre l'autorisation environnementale."
+    ],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-10-09"
+  }
+]

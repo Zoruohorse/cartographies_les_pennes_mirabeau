@@ -1,0 +1,57 @@
+{
+  "griefs": [
+    {
+      "title": "🔥 Risque incendie",
+      "text": "Crainte forte des riverains des CIQ et du maire de Saint-Victoret face au dégagement thermique en bordure d'espaces habités et naturels, malgré l'avis favorable du SDIS."
+    },
+    {
+      "title": "💧 Surconsommation d'eau",
+      "text": "Interrogations répétées des riverains (comme Jean-Claude) et des élus sur le volume des rejets d'eau et l'impact hydrique d'une telle infrastructure."
+    },
+    {
+      "title": "⚡ Conflits d'usage électrique",
+      "text": "Alerte experte (Shift Project) et citoyenne (CIQ 16e) sur l'accaparement de la capacité électrique locale par un seul acteur au détriment d'autres besoins (électrification des quais, etc.)."
+    },
+    {
+      "title": "🌡️ Chaleur fatale et îlot de chaleur",
+      "text": "Inquiétude des CIQ (Sybilles-Amphoux) et des riverains concernant la formation potentielle d'un micro-climat local (îlot de chaleur) impactant la qualité de vie."
+    },
+    {
+      "title": "⚖️ Déni de démocratie locale",
+      "text": "Colère des riverains et des CIQ dénonçant un projet imposé dans l'urgence, sans aucune concertation préalable ni transparence sur le permis de construire (signé par l'ancienne municipalité)."
+    },
+    {
+      "title": "📑 Saucissonnage administratif",
+      "text": "Crainte (étayée par les réseaux d'experts FNE / Data for Good) d'une stratégie de fractionnement du projet global pour minorer artificiellement les études d'impact."
+    },
+    {
+      "title": "🔥 Aggravation du risque incendie",
+      "text": "L'implantation à 85 mètres d'une pinède inflammable, combinée à des rejets thermiques équivalant à 70 000 radiateurs, est accusée d'augmenter drastiquement les risques de feux de forêt."
+    },
+    {
+      "title": "⚠️ Stockage de matières à risque",
+      "text": "L'inquiétude monte face au stockage programmé de 17 cuves de carburant, de 26 groupes électrogènes, de fluides réfrigérants et de batteries au lithium sur la parcelle."
+    },
+    {
+      "title": "📑 Incohérence avec les plans de prévention",
+      "text": "Le permis est attaqué pour non-respect présumé du Plan de prévention des risques d'incendie de forêt (PPRIF) et l'imperméabilisation de 4500 m2 aggravant le risque d'inondation."
+    }
+  ],
+  "vigilance": [
+    "<strong>Conflit institutionnel et impasse juridique :</strong> Le maire actuel des Pennes-Mirabeau s'oppose au projet mais se déclare pieds et poings liés face au risque financier (retrait du permis signé par son prédécesseur), forçant les CIQ à porter seuls la charge du recours en annulation.",
+    "<strong>Bataille sur le risque technologique :</strong> Un décalage majeur existe entre l'approbation réglementaire du SDIS (sécurité incendie) et la forte angoisse citoyenne justifiée par les antécédents d'incendies sur ce type de sites.",
+    "<strong>Saturation métropolitaine :</strong> Le projet s'inscrit dans un contexte marseillais (Gardanne, Bouc-Bel-Air, 16e arrondissement) déjà saturé de tensions autour des méga-infrastructures, facilitant la convergence des luttes locales avec des réseaux experts nationaux (Le Nuage était sous nos pieds, Data for Good).",
+    "<strong>Delta de puissance raccordée :</strong> Le décalage entre la puissance « commerciale » annoncée de 48 mégawatts et la demande de raccordement RTE de 70 mégawatts interroge sur la dimension finale réelle du projet et l'ampleur des rejets thermiques à venir."
+  ],
+  "sources": [
+    "<strong>La Provence :</strong> Média local ayant suivi le dossier électoral, les recours, les positions d’élus et les tensions autour de Telehouse.",
+    "<strong>Marsactu :</strong> Média local d’investigation ; cité sur les fuites de gaz fluorés et le recours fragilisant les plans du maire.",
+    "<strong>L’ADN :</strong> Média ayant publié le reportage sur Marseille, hub mondial et luttes locales.",
+    "<strong>France 3 PACA :</strong> Média ayant couvert la résistance d’élus et de riverains aux Pennes-Mirabeau / Saint-Victoret.",
+    "<strong>Mucem :</strong> Institution culturelle ayant abandonné son partenariat avec Digital Realty sous pression du Nuage était sous nos pieds.",
+    "<strong>Grand Port Maritime de Marseille :</strong> Acteur cité dans les conflits d’usage électriques, notamment autour de l’électrification des quais.",
+    "<strong>news.google.com :</strong> Agrégateur ayant relayé l'analyse nationale sur les tensions liées aux data centers.",
+    "<strong>Next.ink :</strong> Expertise sur les recours environnementaux et mise en perspective de la crise climatique (mégafeux/canicules) avec l'implantation de l'infrastructure.",
+    "<strong>La Marseillaise :</strong> Relais des discours associatifs locaux (CIQ, MNLE) et des crispations entourant les promesses de récupération de la chaleur fatale."
+  ]
+}

@@ -1,0 +1,1204 @@
+[
+  {
+    "id": "project_pennes_mirabeau",
+    "type": "project",
+    "name": "Data center Cézanne — Sybilles",
+    "short_name": "Data center Cézanne Sybilles",
+    "description": "Projet Telehouse / KDDI dans la zone des Sybilles, aux Pennes-Mirabeau, à proximité de Saint-Victoret.",
+    "roles": [
+      {
+        "label": "Projet Telehouse / KDDI dans la zone des Sybilles, aux Pennes-Mirabeau, à proximité de Saint-Victoret."
+      }
+    ],
+    "categories": [
+      "project"
+    ],
+    "display_in_cards": false,
+    "source_network_group": "Projet central",
+    "updated_at": "2026-10-09"
+  },
+  {
+    "id": "actor_0002",
+    "type": "organization",
+    "name": "Collectif Non au data center",
+    "short_name": "Collectif « Non au data center »",
+    "description": "Collectif d’habitants opposé au projet Telehouse",
+    "roles": [
+      {
+        "label": "Collectif d’habitants opposé au projet Telehouse"
+      }
+    ],
+    "categories": [
+      "orgs"
+    ],
+    "display_in_cards": true,
+    "source_network_group": "Noyau d’opposition local",
+    "updated_at": "2026-10-09"
+  },
+  {
+    "id": "actor_0003",
+    "type": "organization",
+    "name": "CIQ des Pallières",
+    "short_name": "CIQ des Pallières",
+    "description": "Comité d’intérêt de quartier des Pennes-Mirabeau",
+    "roles": [
+      {
+        "label": "Comité d’intérêt de quartier des Pennes-Mirabeau"
+      }
+    ],
+    "categories": [
+      "orgs"
+    ],
+    "display_in_cards": true,
+    "source_network_group": "Noyau d’opposition local",
+    "updated_at": "2026-10-09"
+  },
+  {
+    "id": "actor_0004",
+    "type": "organization",
+    "name": "CIQ Sybilles-Amphoux",
+    "short_name": "CIQ Sybilles- Amphoux",
+    "description": "Comité d’intérêt de quartier de Saint-Victoret",
+    "roles": [
+      {
+        "label": "Comité d’intérêt de quartier de Saint-Victoret"
+      }
+    ],
+    "categories": [
+      "orgs"
+    ],
+    "display_in_cards": true,
+    "source_network_group": "Noyau d’opposition local",
+    "updated_at": "2026-10-09"
+  },
+  {
+    "id": "actor_0005",
+    "type": "organization",
+    "name": "Habitants pennois et saint-victoriens",
+    "short_name": "Habitants pennois & saint-victoriens",
+    "description": "Riverains mobilisés dans le recours collectif",
+    "roles": [
+      {
+        "label": "Riverains mobilisés dans le recours collectif"
+      }
+    ],
+    "categories": [
+      "orgs",
+      "opposants"
+    ],
+    "display_in_cards": true,
+    "source_network_group": "Noyau d’opposition local",
+    "updated_at": "2026-10-09"
+  },
+  {
+    "id": "actor_0006",
+    "type": "organization",
+    "name": "Associations environnementales",
+    "short_name": "Associations environne- mentales",
+    "description": "Parties prenantes du recours collectif",
+    "roles": [
+      {
+        "label": "Parties prenantes du recours collectif"
+      }
+    ],
+    "categories": [
+      "orgs"
+    ],
+    "display_in_cards": true,
+    "source_network_group": "Noyau d’opposition local",
+    "updated_at": "2026-10-09"
+  },
+  {
+    "id": "actor_0007",
+    "type": "entity",
+    "name": "Martine Mezzo",
+    "short_name": "Martine Mezzo",
+    "description": "Représentante du collectif « Non au data center »",
+    "roles": [
+      {
+        "label": "Représentante du collectif « Non au data center »"
+      }
+    ],
+    "categories": [
+      "opposants"
+    ],
+    "display_in_cards": true,
+    "source_network_group": "Opposants nommés",
+    "updated_at": "2026-10-09"
+  },
+  {
+    "id": "actor_0008",
+    "type": "entity",
+    "name": "Christine Muscat",
+    "short_name": "Christine Muscat",
+    "description": "Présidente du CIQ des Pallières",
+    "roles": [
+      {
+        "label": "Présidente du CIQ des Pallières"
+      }
+    ],
+    "categories": [
+      "opposants"
+    ],
+    "display_in_cards": true,
+    "source_network_group": "Opposants nommés",
+    "updated_at": "2026-10-09"
+  },
+  {
+    "id": "actor_0009",
+    "type": "entity",
+    "name": "Christel Fayette",
+    "short_name": "Christel Fayette",
+    "description": "Présidente du CIQ Sybilles-Amphoux",
+    "roles": [
+      {
+        "label": "Présidente du CIQ Sybilles-Amphoux"
+      }
+    ],
+    "categories": [
+      "opposants"
+    ],
+    "display_in_cards": true,
+    "source_network_group": "Opposants nommés",
+    "updated_at": "2026-10-09"
+  },
+  {
+    "id": "actor_0010",
+    "type": "entity",
+    "name": "Hervé Plisson",
+    "short_name": "Hervé Plisson",
+    "description": "Habitant de Bouc-Bel-Air",
+    "roles": [
+      {
+        "label": "Habitant de Bouc-Bel-Air"
+      }
+    ],
+    "categories": [
+      "opposants"
+    ],
+    "display_in_cards": true,
+    "source_network_group": "Opposants nommés",
+    "updated_at": "2026-10-09"
+  },
+  {
+    "id": "actor_0011",
+    "type": "entity",
+    "name": "Patrick Robert",
+    "short_name": "Patrick Robert",
+    "description": "Vice-président de la fédération des CIQ du 16e arrondissement",
+    "roles": [
+      {
+        "label": "Vice-président de la fédération des CIQ du 16e arrondissement"
+      }
+    ],
+    "categories": [
+      "opposants"
+    ],
+    "display_in_cards": true,
+    "source_network_group": "Opposants nommés",
+    "updated_at": "2026-10-09"
+  },
+  {
+    "id": "actor_0012",
+    "type": "entity",
+    "name": "Arthur",
+    "short_name": "Arthur",
+    "description": "Militant engagé contre le projet de Gardanne",
+    "roles": [
+      {
+        "label": "Militant engagé contre le projet de Gardanne"
+      }
+    ],
+    "categories": [
+      "opposants"
+    ],
+    "display_in_cards": true,
+    "source_network_group": "Opposants nommés",
+    "updated_at": "2026-10-09"
+  },
+  {
+    "id": "actor_0013",
+    "type": "entity",
+    "name": "Antoine Devillet",
+    "short_name": "Antoine Devillet",
+    "description": "Membre du collectif Le Nuage était sous nos pieds",
+    "roles": [
+      {
+        "label": "Membre du collectif Le Nuage était sous nos pieds"
+      }
+    ],
+    "categories": [
+      "opposants"
+    ],
+    "display_in_cards": true,
+    "source_network_group": "Opposants nommés",
+    "updated_at": "2026-10-09"
+  },
+  {
+    "id": "actor_0014",
+    "type": "entity",
+    "name": "Laure",
+    "short_name": "Laure",
+    "description": "Citoyenne rencontrée lors d’une balade",
+    "roles": [
+      {
+        "label": "Citoyenne rencontrée lors d’une balade"
+      }
+    ],
+    "categories": [
+      "opposants"
+    ],
+    "display_in_cards": true,
+    "source_network_group": "Opposants nommés",
+    "updated_at": "2026-10-09"
+  },
+  {
+    "id": "actor_0015",
+    "type": "entity",
+    "name": "Jean-Claude",
+    "short_name": "Jean- Claude",
+    "description": "Habitant cité aux Pennes-Mirabeau",
+    "roles": [
+      {
+        "label": "Habitant cité aux Pennes-Mirabeau"
+      }
+    ],
+    "categories": [
+      "opposants"
+    ],
+    "display_in_cards": true,
+    "source_network_group": "Opposants nommés",
+    "updated_at": "2026-10-09"
+  },
+  {
+    "id": "actor_0016",
+    "type": "entity",
+    "name": "Vanessa",
+    "short_name": "Vanessa",
+    "description": "Habitante citée",
+    "roles": [
+      {
+        "label": "Habitante citée"
+      }
+    ],
+    "categories": [
+      "opposants"
+    ],
+    "display_in_cards": true,
+    "source_network_group": "Opposants nommés",
+    "updated_at": "2026-10-09"
+  },
+  {
+    "id": "actor_0017",
+    "type": "entity",
+    "name": "Romain Amaro",
+    "short_name": "Romain Amaro",
+    "description": "Maire DVD des Pennes-Mirabeau",
+    "roles": [
+      {
+        "label": "Maire DVD des Pennes-Mirabeau"
+      }
+    ],
+    "categories": [
+      "elus-opp"
+    ],
+    "display_in_cards": true,
+    "source_network_group": "Élus critiques ou opposés",
+    "updated_at": "2026-10-09"
+  },
+  {
+    "id": "actor_0018",
+    "type": "entity",
+    "name": "Claude Piccirillo",
+    "short_name": "Claude Piccirillo",
+    "description": "Maire de Saint-Victoret",
+    "roles": [
+      {
+        "label": "Maire de Saint-Victoret"
+      }
+    ],
+    "categories": [
+      "elus-opp"
+    ],
+    "display_in_cards": true,
+    "source_network_group": "Élus critiques ou opposés",
+    "updated_at": "2026-10-09"
+  },
+  {
+    "id": "actor_0019",
+    "type": "entity",
+    "name": "Éric Leotard",
+    "short_name": "Éric Leotard",
+    "description": "Premier adjoint de Saint-Victoret",
+    "roles": [
+      {
+        "label": "Premier adjoint de Saint-Victoret"
+      }
+    ],
+    "categories": [
+      "elus-opp"
+    ],
+    "display_in_cards": true,
+    "source_network_group": "Élus critiques ou opposés",
+    "updated_at": "2026-10-09"
+  },
+  {
+    "id": "actor_0020",
+    "type": "entity",
+    "name": "Pierre Gelsi",
+    "short_name": "Pierre Gelsi",
+    "description": "Élu d’opposition à Saint-Victoret",
+    "roles": [
+      {
+        "label": "Élu d’opposition à Saint-Victoret"
+      }
+    ],
+    "categories": [
+      "elus-opp"
+    ],
+    "display_in_cards": true,
+    "source_network_group": "Élus critiques ou opposés",
+    "updated_at": "2026-10-09"
+  },
+  {
+    "id": "actor_0021",
+    "type": "entity",
+    "name": "Hervé Fabre-Aubrespy",
+    "short_name": "Hervé Fabre- Aubrespy",
+    "description": "Candidat RN",
+    "roles": [
+      {
+        "label": "Candidat RN"
+      }
+    ],
+    "categories": [
+      "elus-opp"
+    ],
+    "display_in_cards": true,
+    "source_network_group": "Élus critiques ou opposés",
+    "updated_at": "2026-10-09"
+  },
+  {
+    "id": "actor_0022",
+    "type": "entity",
+    "name": "Maximilien Fusone",
+    "short_name": "Maximilien Fusone",
+    "description": "Rassemblement pennois",
+    "roles": [
+      {
+        "label": "Rassemblement pennois"
+      }
+    ],
+    "categories": [
+      "elus-opp"
+    ],
+    "display_in_cards": true,
+    "source_network_group": "Élus critiques ou opposés",
+    "updated_at": "2026-10-09"
+  },
+  {
+    "id": "actor_0023",
+    "type": "entity",
+    "name": "PCF des Pennes-Mirabeau",
+    "short_name": "PCF des Pennes- Mirabeau",
+    "description": "Parti politique local",
+    "roles": [
+      {
+        "label": "Parti politique local"
+      }
+    ],
+    "categories": [
+      "elus-opp"
+    ],
+    "display_in_cards": true,
+    "source_network_group": "Élus critiques ou opposés",
+    "updated_at": "2026-10-09"
+  },
+  {
+    "id": "actor_0024",
+    "type": "entity",
+    "name": "Michel Amiel",
+    "short_name": "Michel Amiel",
+    "description": "Ancien maire des Pennes-Mirabeau",
+    "roles": [
+      {
+        "label": "Ancien maire des Pennes-Mirabeau"
+      }
+    ],
+    "categories": [
+      "elus-fav"
+    ],
+    "display_in_cards": true,
+    "source_network_group": "Élus favorables / prudents",
+    "updated_at": "2026-10-09"
+  },
+  {
+    "id": "actor_0025",
+    "type": "entity",
+    "name": "Grégory Bouchet",
+    "short_name": "Grégory Bouchet",
+    "description": "Candidat SE / majorité sortante",
+    "roles": [
+      {
+        "label": "Candidat SE / majorité sortante"
+      }
+    ],
+    "categories": [
+      "elus-fav"
+    ],
+    "display_in_cards": true,
+    "source_network_group": "Élus favorables / prudents",
+    "updated_at": "2026-10-09"
+  },
+  {
+    "id": "actor_0026",
+    "type": "entity",
+    "name": "Jean-Philippe Musso",
+    "short_name": "Jean-Philippe Musso",
+    "description": "Candidat DVG",
+    "roles": [
+      {
+        "label": "Candidat DVG"
+      }
+    ],
+    "categories": [
+      "elus-fav"
+    ],
+    "display_in_cards": true,
+    "source_network_group": "Élus favorables / prudents",
+    "updated_at": "2026-10-09"
+  },
+  {
+    "id": "actor_0027",
+    "type": "entity",
+    "name": "Laurent Simon",
+    "short_name": "Laurent Simon",
+    "description": "Président de la SPL Énergies de Provence",
+    "roles": [
+      {
+        "label": "Président de la SPL Énergies de Provence"
+      }
+    ],
+    "categories": [
+      "elus-fav"
+    ],
+    "display_in_cards": true,
+    "source_network_group": "Élus favorables / prudents",
+    "updated_at": "2026-10-09"
+  },
+  {
+    "id": "actor_0028",
+    "type": "entity",
+    "name": "Jean-Charles Lamathe",
+    "short_name": "Jean-Charles Lamathe",
+    "description": "Quatrième adjoint aux Pennes-Mirabeau",
+    "roles": [
+      {
+        "label": "Quatrième adjoint aux Pennes-Mirabeau"
+      }
+    ],
+    "categories": [
+      "elus-fav"
+    ],
+    "display_in_cards": true,
+    "source_network_group": "Élus favorables / prudents",
+    "updated_at": "2026-10-09"
+  },
+  {
+    "id": "actor_0029",
+    "type": "entity",
+    "name": "Sandrine Gras-Trubert",
+    "short_name": "Sandrine Gras-Trubert",
+    "description": "Conseillère municipale d’opposition",
+    "roles": [
+      {
+        "label": "Conseillère municipale d’opposition"
+      }
+    ],
+    "categories": [
+      "elus-fav"
+    ],
+    "display_in_cards": true,
+    "source_network_group": "Élus favorables / prudents",
+    "updated_at": "2026-10-09"
+  },
+  {
+    "id": "actor_0030",
+    "type": "organization",
+    "name": "Telehouse",
+    "short_name": "Telehouse",
+    "description": "Porteur du projet Cézanne aux Sybilles",
+    "roles": [
+      {
+        "label": "Porteur du projet Cézanne aux Sybilles"
+      }
+    ],
+    "categories": [
+      "institutions",
+      "porteurs"
+    ],
+    "display_in_cards": true,
+    "source_network_group": "Acteurs institutionnels / techniques",
+    "updated_at": "2026-10-09"
+  },
+  {
+    "id": "actor_0031",
+    "type": "organization",
+    "name": "KDDI",
+    "short_name": "KDDI",
+    "description": "Groupe japonais propriétaire de Telehouse",
+    "roles": [
+      {
+        "label": "Groupe japonais propriétaire de Telehouse"
+      }
+    ],
+    "categories": [
+      "institutions",
+      "porteurs"
+    ],
+    "display_in_cards": true,
+    "source_network_group": "Acteurs institutionnels / techniques",
+    "updated_at": "2026-10-09"
+  },
+  {
+    "id": "actor_0032",
+    "type": "organization",
+    "name": "RTE",
+    "short_name": "RTE",
+    "description": "Gestionnaire du réseau",
+    "roles": [
+      {
+        "label": "Gestionnaire du réseau"
+      }
+    ],
+    "categories": [
+      "institutions",
+      "porteurs",
+      "energie"
+    ],
+    "display_in_cards": true,
+    "source_network_group": "Acteurs institutionnels / techniques",
+    "updated_at": "2026-10-09"
+  },
+  {
+    "id": "actor_0033",
+    "type": "organization",
+    "name": "ARS",
+    "short_name": "ARS",
+    "description": "Agence régionale de santé",
+    "roles": [
+      {
+        "label": "Agence régionale de santé"
+      }
+    ],
+    "categories": [
+      "institutions",
+      "orgs"
+    ],
+    "display_in_cards": true,
+    "source_network_group": "Acteurs institutionnels / techniques",
+    "updated_at": "2026-10-09"
+  },
+  {
+    "id": "actor_0034",
+    "type": "organization",
+    "name": "SDIS",
+    "short_name": "SDIS",
+    "description": "Service départemental d'incendie",
+    "roles": [
+      {
+        "label": "Service départemental d'incendie"
+      }
+    ],
+    "categories": [
+      "institutions",
+      "orgs"
+    ],
+    "display_in_cards": true,
+    "source_network_group": "Acteurs institutionnels / techniques",
+    "updated_at": "2026-10-09"
+  },
+  {
+    "id": "actor_0035",
+    "type": "organization",
+    "name": "SPL Énergies de Provence",
+    "short_name": "SPL Énergies de Provence",
+    "description": "Société publique locale",
+    "roles": [
+      {
+        "label": "Société publique locale"
+      }
+    ],
+    "categories": [
+      "institutions",
+      "porteurs",
+      "energie"
+    ],
+    "display_in_cards": true,
+    "source_network_group": "Acteurs institutionnels / techniques",
+    "updated_at": "2026-10-09"
+  },
+  {
+    "id": "actor_0036",
+    "type": "organization",
+    "name": "SPLA Pays d’Aix Territoires",
+    "short_name": "SPLA Pays d’Aix Territoires",
+    "description": "Structure d'aménagement",
+    "roles": [
+      {
+        "label": "Structure d'aménagement"
+      }
+    ],
+    "categories": [
+      "institutions",
+      "porteurs"
+    ],
+    "display_in_cards": true,
+    "source_network_group": "Acteurs institutionnels / techniques",
+    "updated_at": "2026-10-09"
+  },
+  {
+    "id": "actor_0037",
+    "type": "organization",
+    "name": "Préfecture / État",
+    "short_name": "Préfecture / État",
+    "description": "Cadre administratif et décisionnel",
+    "roles": [
+      {
+        "label": "Cadre administratif et décisionnel"
+      }
+    ],
+    "categories": [
+      "institutions",
+      "orgs"
+    ],
+    "display_in_cards": true,
+    "source_network_group": "Acteurs institutionnels / techniques",
+    "updated_at": "2026-10-09"
+  },
+  {
+    "id": "actor_0038",
+    "type": "organization",
+    "name": "Tribunal administratif de Marseille",
+    "short_name": "Tribunal administratif de Marseille",
+    "description": "Instance de justice",
+    "roles": [
+      {
+        "label": "Instance de justice"
+      }
+    ],
+    "categories": [
+      "institutions",
+      "orgs"
+    ],
+    "display_in_cards": true,
+    "source_network_group": "Acteurs institutionnels / techniques",
+    "updated_at": "2026-10-09"
+  },
+  {
+    "id": "actor_0039",
+    "type": "organization",
+    "name": "Le Nuage était sous nos pieds",
+    "short_name": "Le Nuage était sous nos pieds",
+    "description": "Collectif marseillais critique des data centers",
+    "roles": [
+      {
+        "label": "Collectif marseillais critique des data centers"
+      }
+    ],
+    "categories": [
+      "reseau-critique",
+      "orgs"
+    ],
+    "display_in_cards": true,
+    "source_network_group": "Réseau élargi anti-data centers",
+    "updated_at": "2026-10-09"
+  },
+  {
+    "id": "actor_0040",
+    "type": "organization",
+    "name": "Data for Good",
+    "short_name": "Data for Good",
+    "description": "Collectif d'experts",
+    "roles": [
+      {
+        "label": "Collectif d'experts"
+      }
+    ],
+    "categories": [
+      "reseau-critique",
+      "orgs"
+    ],
+    "display_in_cards": true,
+    "source_network_group": "Réseau élargi anti-data centers",
+    "updated_at": "2026-10-09"
+  },
+  {
+    "id": "actor_0041",
+    "type": "organization",
+    "name": "France Nature Environnement",
+    "short_name": "France Nature Environnement",
+    "description": "Réseau associatif national",
+    "roles": [
+      {
+        "label": "Réseau associatif national"
+      }
+    ],
+    "categories": [
+      "reseau-critique",
+      "orgs"
+    ],
+    "display_in_cards": true,
+    "source_network_group": "Réseau élargi anti-data centers",
+    "updated_at": "2026-10-09"
+  },
+  {
+    "id": "actor_0042",
+    "type": "organization",
+    "name": "Collectifs de Gardanne",
+    "short_name": "Collectifs de Gardanne",
+    "description": "Mouvement de contestation locale",
+    "roles": [
+      {
+        "label": "Mouvement de contestation locale"
+      }
+    ],
+    "categories": [
+      "reseau-critique",
+      "orgs"
+    ],
+    "display_in_cards": true,
+    "source_network_group": "Réseau élargi anti-data centers",
+    "updated_at": "2026-10-09"
+  },
+  {
+    "id": "actor_0043",
+    "type": "organization",
+    "name": "Collectifs de Bouc-Bel-Air",
+    "short_name": "Collectifs de Bouc-Bel-Air",
+    "description": "Mouvement de contestation locale",
+    "roles": [
+      {
+        "label": "Mouvement de contestation locale"
+      }
+    ],
+    "categories": [
+      "reseau-critique",
+      "orgs"
+    ],
+    "display_in_cards": true,
+    "source_network_group": "Réseau élargi anti-data centers",
+    "updated_at": "2026-10-09"
+  },
+  {
+    "id": "actor_0044",
+    "type": "organization",
+    "name": "Collectifs Marseille nord / Estaque",
+    "short_name": "Collectifs Marseille nord / Estaque",
+    "description": "Mouvement de contestation locale",
+    "roles": [
+      {
+        "label": "Mouvement de contestation locale"
+      }
+    ],
+    "categories": [
+      "reseau-critique",
+      "orgs"
+    ],
+    "display_in_cards": true,
+    "source_network_group": "Réseau élargi anti-data centers",
+    "updated_at": "2026-10-09"
+  },
+  {
+    "id": "actor_0045",
+    "type": "organization",
+    "name": "La Provence",
+    "short_name": "La Provence",
+    "description": "Média local ayant suivi le dossier électoral, les recours, les positions d’élus et les tensions autour de Telehouse.",
+    "roles": [
+      {
+        "label": "Média local ayant suivi le dossier électoral, les recours, les positions d’élus et les tensions autour de Telehouse."
+      }
+    ],
+    "categories": [
+      "medias"
+    ],
+    "display_in_cards": false,
+    "source_network_group": "Médias / relais / lieux cités",
+    "updated_at": "2026-10-09"
+  },
+  {
+    "id": "actor_0046",
+    "type": "organization",
+    "name": "Marsactu",
+    "short_name": "Marsactu",
+    "description": "Média local d’investigation ; cité sur les fuites de gaz fluorés et le recours fragilisant les plans du maire.",
+    "roles": [
+      {
+        "label": "Média local d’investigation ; cité sur les fuites de gaz fluorés et le recours fragilisant les plans du maire."
+      }
+    ],
+    "categories": [
+      "medias"
+    ],
+    "display_in_cards": false,
+    "source_network_group": "Médias / relais / lieux cités",
+    "updated_at": "2026-10-09"
+  },
+  {
+    "id": "actor_0047",
+    "type": "organization",
+    "name": "L’ADN",
+    "short_name": "L’ADN",
+    "description": "Média ayant publié le reportage sur Marseille, hub mondial et luttes locales.",
+    "roles": [
+      {
+        "label": "Média ayant publié le reportage sur Marseille, hub mondial et luttes locales."
+      }
+    ],
+    "categories": [
+      "medias"
+    ],
+    "display_in_cards": false,
+    "source_network_group": "Médias / relais / lieux cités",
+    "updated_at": "2026-10-09"
+  },
+  {
+    "id": "actor_0048",
+    "type": "organization",
+    "name": "France 3 Provence-Alpes-Côte d’Azur",
+    "short_name": "France 3 PACA",
+    "description": "Média ayant couvert la résistance d’élus et de riverains aux Pennes-Mirabeau / Saint-Victoret.",
+    "roles": [
+      {
+        "label": "Média ayant couvert la résistance d’élus et de riverains aux Pennes-Mirabeau / Saint-Victoret."
+      }
+    ],
+    "categories": [
+      "medias"
+    ],
+    "display_in_cards": false,
+    "source_network_group": "Médias / relais / lieux cités",
+    "updated_at": "2026-10-09"
+  },
+  {
+    "id": "actor_0049",
+    "type": "organization",
+    "name": "Mucem",
+    "short_name": "Mucem",
+    "description": "Institution culturelle ayant abandonné son partenariat avec Digital Realty sous pression du Nuage était sous nos pieds.",
+    "roles": [
+      {
+        "label": "Institution culturelle ayant abandonné son partenariat avec Digital Realty sous pression du Nuage était sous nos pieds."
+      }
+    ],
+    "categories": [
+      "medias"
+    ],
+    "display_in_cards": false,
+    "source_network_group": "Médias / relais / lieux cités",
+    "updated_at": "2026-10-09"
+  },
+  {
+    "id": "actor_0050",
+    "type": "organization",
+    "name": "Grand Port Maritime de Marseille",
+    "short_name": "Grand Port Maritime de Marseille",
+    "description": "Acteur cité dans les conflits d’usage électriques, notamment autour de l’électrification des quais.",
+    "roles": [
+      {
+        "label": "Acteur cité dans les conflits d’usage électriques, notamment autour de l’électrification des quais."
+      }
+    ],
+    "categories": [
+      "medias"
+    ],
+    "display_in_cards": false,
+    "source_network_group": "Médias / relais / lieux cités",
+    "updated_at": "2026-10-09"
+  },
+  {
+    "id": "actor_0051",
+    "type": "entity",
+    "name": "Philippe Chabeaudy",
+    "short_name": "Philippe Chabeaudy",
+    "description": "Habitant des Pennes-Mirabeau",
+    "roles": [
+      {
+        "label": "Habitant des Pennes-Mirabeau"
+      }
+    ],
+    "categories": [
+      "opposants"
+    ],
+    "display_in_cards": true,
+    "source_network_group": "Opposants nommés",
+    "updated_at": "2026-10-09"
+  },
+  {
+    "id": "actor_0052",
+    "type": "organization",
+    "name": "Lou Welgryn",
+    "short_name": "Lou Welgryn",
+    "description": "Coprésidente de Data for Good",
+    "roles": [
+      {
+        "label": "Coprésidente de Data for Good"
+      }
+    ],
+    "categories": [
+      "reseau-critique",
+      "opposants"
+    ],
+    "display_in_cards": true,
+    "source_network_group": "Réseau élargi anti-data centers",
+    "updated_at": "2026-10-09"
+  },
+  {
+    "id": "actor_0053",
+    "type": "organization",
+    "name": "Cécile Diguet",
+    "short_name": "Cécile Diguet",
+    "description": "Urbaniste",
+    "roles": [
+      {
+        "label": "Urbaniste"
+      }
+    ],
+    "categories": [
+      "reseau-critique",
+      "opposants"
+    ],
+    "display_in_cards": true,
+    "source_network_group": "Réseau élargi anti-data centers",
+    "updated_at": "2026-10-09"
+  },
+  {
+    "id": "actor_0054",
+    "type": "organization",
+    "name": "Maxime Colin",
+    "short_name": "Maxime Colin",
+    "description": "Juriste à France Nature Environnement",
+    "roles": [
+      {
+        "label": "Juriste à France Nature Environnement"
+      }
+    ],
+    "categories": [
+      "reseau-critique",
+      "opposants"
+    ],
+    "display_in_cards": true,
+    "source_network_group": "Réseau élargi anti-data centers",
+    "updated_at": "2026-10-09"
+  },
+  {
+    "id": "actor_0055",
+    "type": "organization",
+    "name": "Maxime Efoui-Hess",
+    "short_name": "Maxime Efoui-Hess",
+    "description": "Membre du Shift Project",
+    "roles": [
+      {
+        "label": "Membre du Shift Project"
+      }
+    ],
+    "categories": [
+      "reseau-critique",
+      "opposants"
+    ],
+    "display_in_cards": true,
+    "source_network_group": "Réseau élargi anti-data centers",
+    "updated_at": "2026-10-09"
+  },
+  {
+    "id": "actor_0056",
+    "type": "organization",
+    "name": "Shift Project",
+    "short_name": "Shift Project",
+    "description": "Think tank de la transition carbone",
+    "roles": [
+      {
+        "label": "Think tank de la transition carbone"
+      }
+    ],
+    "categories": [
+      "reseau-critique",
+      "orgs"
+    ],
+    "display_in_cards": true,
+    "source_network_group": "Réseau élargi anti-data centers",
+    "updated_at": "2026-10-09"
+  },
+  {
+    "id": "actor_0057",
+    "type": "organization",
+    "name": "Associations de Wissous",
+    "short_name": "Associations Wissous",
+    "description": "Collectifs citoyens",
+    "roles": [
+      {
+        "label": "Collectifs citoyens"
+      }
+    ],
+    "categories": [
+      "reseau-critique",
+      "orgs"
+    ],
+    "display_in_cards": true,
+    "source_network_group": "Réseau élargi anti-data centers",
+    "updated_at": "2026-10-09"
+  },
+  {
+    "id": "actor_0058",
+    "type": "organization",
+    "name": "France Datacenter",
+    "short_name": "France Datacenter",
+    "description": "Association professionnelle",
+    "roles": [
+      {
+        "label": "Association professionnelle"
+      }
+    ],
+    "categories": [
+      "institutions",
+      "orgs",
+      "porteurs"
+    ],
+    "display_in_cards": true,
+    "source_network_group": "Acteurs institutionnels / techniques",
+    "updated_at": "2026-10-09"
+  },
+  {
+    "id": "actor_0059",
+    "type": "organization",
+    "name": "Michaël Reffay",
+    "short_name": "Michaël Reffay",
+    "description": "Délégué général de France Datacenter",
+    "roles": [
+      {
+        "label": "Délégué général de France Datacenter"
+      }
+    ],
+    "categories": [
+      "institutions",
+      "porteurs"
+    ],
+    "display_in_cards": true,
+    "source_network_group": "Acteurs institutionnels / techniques",
+    "updated_at": "2026-10-09"
+  },
+  {
+    "id": "actor_0060",
+    "type": "organization",
+    "name": "Ademe",
+    "short_name": "Ademe",
+    "description": "Agence environnementale de l'État",
+    "roles": [
+      {
+        "label": "Agence environnementale de l'État"
+      }
+    ],
+    "categories": [
+      "institutions",
+      "orgs"
+    ],
+    "display_in_cards": true,
+    "source_network_group": "Acteurs institutionnels / techniques",
+    "updated_at": "2026-10-09"
+  },
+  {
+    "id": "actor_0061",
+    "type": "organization",
+    "name": "Gouvernement français",
+    "short_name": "Gouvernement français",
+    "description": "Exécutif de l'État",
+    "roles": [
+      {
+        "label": "Exécutif de l'État"
+      }
+    ],
+    "categories": [
+      "institutions",
+      "orgs"
+    ],
+    "display_in_cards": true,
+    "source_network_group": "Acteurs institutionnels / techniques",
+    "updated_at": "2026-10-09"
+  },
+  {
+    "id": "actor_0062",
+    "type": "organization",
+    "name": "EDF",
+    "short_name": "EDF",
+    "description": "Producteur d'énergie",
+    "roles": [
+      {
+        "label": "Producteur d'énergie"
+      }
+    ],
+    "categories": [
+      "institutions",
+      "porteurs",
+      "energie"
+    ],
+    "display_in_cards": true,
+    "source_network_group": "Acteurs institutionnels / techniques",
+    "updated_at": "2026-10-09"
+  },
+  {
+    "id": "actor_0063",
+    "type": "organization",
+    "name": "news.google.com",
+    "short_name": "news.google.com",
+    "description": "Agrégateur ayant relayé l'analyse nationale sur les tensions liées aux data centers.",
+    "roles": [
+      {
+        "label": "Agrégateur ayant relayé l'analyse nationale sur les tensions liées aux data centers."
+      }
+    ],
+    "categories": [
+      "medias"
+    ],
+    "display_in_cards": false,
+    "source_network_group": "Médias / relais / lieux cités",
+    "updated_at": "2026-10-09"
+  },
+  {
+    "id": "actor_0064",
+    "type": "entity",
+    "name": "Christian Pellicani",
+    "short_name": "C. Pellicani (MNLE)",
+    "description": "Président du MNLE",
+    "roles": [
+      {
+        "label": "Président du MNLE"
+      }
+    ],
+    "categories": [
+      "opposants"
+    ],
+    "display_in_cards": true,
+    "source_network_group": "Opposants nommés",
+    "updated_at": "2026-10-09"
+  },
+  {
+    "id": "actor_0065",
+    "type": "organization",
+    "name": "MNLE Réseau Humanité et Nature",
+    "short_name": "MNLE Humanité et Nature",
+    "description": "Association environnementale",
+    "roles": [
+      {
+        "label": "Association environnementale"
+      }
+    ],
+    "categories": [
+      "reseau-critique",
+      "orgs"
+    ],
+    "display_in_cards": true,
+    "source_network_group": "Réseau élargi anti-data centers",
+    "updated_at": "2026-10-09"
+  }
+]

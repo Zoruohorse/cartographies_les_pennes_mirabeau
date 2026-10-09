@@ -1,0 +1,582 @@
+[
+  {
+    "id": "evidence_0001",
+    "type": "reported_summary",
+    "text": "Dépôt d'un recours collectif contre le permis de construire.",
+    "source_id": null,
+    "source_status": "to_qualify",
+    "published_at": null,
+    "accessed_at": null,
+    "related_position": "Maintient le recours juridique en cours et exige publiquement davantage de garanties environnementales."
+  },
+  {
+    "id": "evidence_0002",
+    "type": "reported_summary",
+    "text": "Co-requérant juridique du recours.",
+    "source_id": null,
+    "source_status": "to_qualify",
+    "published_at": null,
+    "accessed_at": null,
+    "related_position": "Partie prenante active du recours collectif contre le permis de construire du site."
+  },
+  {
+    "id": "evidence_0003",
+    "type": "reported_summary",
+    "text": "Inquiétude formalisée sur le risque incendie et les nuisances.",
+    "source_id": null,
+    "source_status": "to_qualify",
+    "published_at": null,
+    "accessed_at": null,
+    "related_position": "Mobilisé contre les nuisances immédiates, le traitement de la chaleur fatale et l'absence de garanties de sécurité."
+  },
+  {
+    "id": "evidence_0004",
+    "type": "reported_summary",
+    "text": "Adhésion massive au recours collectif local.",
+    "source_id": null,
+    "source_status": "to_qualify",
+    "published_at": null,
+    "accessed_at": null,
+    "related_position": "Contestent fermement l’absence de concertation préalable, les risques environnementaux et les futures nuisances."
+  },
+  {
+    "id": "evidence_0005",
+    "type": "reported_summary",
+    "text": "Mentions de soutien associatif au recours.",
+    "source_id": null,
+    "source_status": "to_qualify",
+    "published_at": null,
+    "accessed_at": null,
+    "related_position": "Soutiennent juridiquement l'opposition locale bien que leurs noms ne soient pas tous détaillés."
+  },
+  {
+    "id": "evidence_0006",
+    "type": "reported_summary",
+    "text": "Déclaration de maintien du recours.",
+    "source_id": null,
+    "source_status": "to_qualify",
+    "published_at": null,
+    "accessed_at": null,
+    "related_position": "Affirme avec fermeté que le collectif ne retirera sous aucun prétexte son recours administratif."
+  },
+  {
+    "id": "evidence_0007",
+    "type": "reported_summary",
+    "text": "Demande de réponses claires via le maintien du recours.",
+    "source_id": null,
+    "source_status": "to_qualify",
+    "published_at": null,
+    "accessed_at": null,
+    "related_position": "Maintient le recours pour être formellement entendue, obtenir des réponses et contester le projet tel qu'il est présenté."
+  },
+  {
+    "id": "evidence_0008",
+    "type": "reported_summary",
+    "text": "Alerte documentée sur les travaux d'excavation.",
+    "source_id": null,
+    "source_status": "to_qualify",
+    "published_at": null,
+    "accessed_at": null,
+    "related_position": "Alerte de manière répétée sur les excavations, la gestion de la chaleur fatale et les risques sanitaires afférents."
+  },
+  {
+    "id": "evidence_0009",
+    "type": "reported_summary",
+    "text": "Ne sont pas prêts à partager [leur] espace de vie avec un data center.",
+    "source_id": null,
+    "source_status": "to_qualify",
+    "published_at": null,
+    "accessed_at": null,
+    "related_position": "Porte-voix des riverains refusant de sacrifier la qualité de vie et l'environnement local pour une infrastructure technologique."
+  },
+  {
+    "id": "evidence_0010",
+    "type": "reported_summary",
+    "text": "Dénonce le déséquilibre flagrant du rapport de force.",
+    "source_id": null,
+    "source_status": "to_qualify",
+    "published_at": null,
+    "accessed_at": null,
+    "related_position": "Critique la rapidité expéditive des projets, le déséquilibre du rapport de force et l’appui aveugle de l'État."
+  },
+  {
+    "id": "evidence_0011",
+    "type": "reported_summary",
+    "text": "Met en garde contre les conflits d'usage sur le réseau électrique.",
+    "source_id": null,
+    "source_status": "to_qualify",
+    "published_at": null,
+    "accessed_at": null,
+    "related_position": "Alerte vigoureusement sur l’empressement des procédures administratives et les futurs conflits d’usage électriques."
+  },
+  {
+    "id": "evidence_0012",
+    "type": "reported_summary",
+    "text": "Opposition culturelle et sociétale au modèle numérique.",
+    "source_id": null,
+    "source_status": "to_qualify",
+    "published_at": null,
+    "accessed_at": null,
+    "related_position": "Critique la vision et le modèle de société portés par la prolifération des data centers et de leurs usages."
+  },
+  {
+    "id": "evidence_0013",
+    "type": "reported_summary",
+    "text": "Plaidoyer en faveur d'un moratoire et d'une convention citoyenne.",
+    "source_id": null,
+    "source_status": "to_qualify",
+    "published_at": null,
+    "accessed_at": null,
+    "related_position": "Insiste sur la nécessité d'enquêtes publiques, d'un moratoire et de l'organisation d'une convention citoyenne."
+  },
+  {
+    "id": "evidence_0014",
+    "type": "reported_summary",
+    "text": "Témoignage de terrain lors d'une action de sensibilisation.",
+    "source_id": null,
+    "source_status": "to_qualify",
+    "published_at": null,
+    "accessed_at": null,
+    "related_position": "Exprime un intérêt naissant pour l’engagement critique face à ce type d'infrastructures."
+  },
+  {
+    "id": "evidence_0015",
+    "type": "reported_summary",
+    "text": "Doutes exprimés sur les bilans hydriques et électriques.",
+    "source_id": null,
+    "source_status": "to_qualify",
+    "published_at": null,
+    "accessed_at": null,
+    "related_position": "Doute profondément des bénéfices réels du projet et alerte sur les consommations d’électricité et d’eau."
+  },
+  {
+    "id": "evidence_0016",
+    "type": "reported_summary",
+    "text": "Craintes exprimées sur la création d'îlots de chaleur.",
+    "source_id": null,
+    "source_status": "to_qualify",
+    "published_at": null,
+    "accessed_at": null,
+    "related_position": "S’inquiète de la bétonisation, de la perte de l’esprit village et de la formation d'un îlot de chaleur."
+  },
+  {
+    "id": "evidence_0017",
+    "type": "reported_summary",
+    "text": "Opposition officielle tempérée par le risque de contentieux financier.",
+    "source_id": null,
+    "source_status": "to_qualify",
+    "published_at": null,
+    "accessed_at": null,
+    "related_position": "S’est dit farouchement contre le projet en l’état, mais se heurte au risque juridique et financier d’un retrait du permis."
+  },
+  {
+    "id": "evidence_0018",
+    "type": "reported_summary",
+    "text": "Auteur d'un recours administratif auprès du Tribunal.",
+    "source_id": null,
+    "source_status": "to_qualify",
+    "published_at": null,
+    "accessed_at": null,
+    "related_position": "Dépose un recours pour obtenir des certitudes sur l’alimentation électrique, les rejets d’eau et les conditions d’implantation."
+  },
+  {
+    "id": "evidence_0019",
+    "type": "reported_summary",
+    "text": "Charge multi-critères contre les impacts environnementaux et sanitaires.",
+    "source_id": null,
+    "source_status": "to_qualify",
+    "published_at": null,
+    "accessed_at": null,
+    "related_position": "Alerte de manière globale sur la santé, la tranquillité, les inondations, le paysage et les lignes à haute tension."
+  },
+  {
+    "id": "evidence_0020",
+    "type": "reported_summary",
+    "text": "Opposition sur le zonage et la vocation du secteur.",
+    "source_id": null,
+    "source_status": "to_qualify",
+    "published_at": null,
+    "accessed_at": null,
+    "related_position": "Estime fermement que le data center n’a rien à faire dans un secteur caractérisé par l'habitat et l’agriculture."
+  },
+  {
+    "id": "evidence_0021",
+    "type": "reported_summary",
+    "text": "Menace de poursuites judiciaires ciblées.",
+    "source_id": null,
+    "source_status": "to_qualify",
+    "published_at": null,
+    "accessed_at": null,
+    "related_position": "Annonce qu’il attaquera le permis si le préfet l’accorde et critique vertement l’absence d’accord des habitants."
+  },
+  {
+    "id": "evidence_0022",
+    "type": "reported_summary",
+    "text": "Invocation formelle du principe de précaution.",
+    "source_id": null,
+    "source_status": "to_qualify",
+    "published_at": null,
+    "accessed_at": null,
+    "related_position": "Se déclare contre le projet industriel Caps et invoque directement le principe de précaution."
+  },
+  {
+    "id": "evidence_0023",
+    "type": "reported_summary",
+    "text": "Demande officielle d'études d'implantations alternatives.",
+    "source_id": null,
+    "source_status": "to_qualify",
+    "published_at": null,
+    "accessed_at": null,
+    "related_position": "S’associe au questionnement du CIQ des Pallières et exige de la transparence et une étude de site alternative."
+  },
+  {
+    "id": "evidence_0024",
+    "type": "reported_summary",
+    "text": "Signataire originel du permis de construire litigieux.",
+    "source_id": null,
+    "source_status": "to_qualify",
+    "published_at": null,
+    "accessed_at": null,
+    "related_position": "A signé le permis de construire avant les élections, ce qui cristallise désormais une grande partie des critiques locales."
+  },
+  {
+    "id": "evidence_0025",
+    "type": "reported_summary",
+    "text": "Soutien électoral explicite basé sur les retombées financières.",
+    "source_id": null,
+    "source_status": "to_qualify",
+    "published_at": null,
+    "accessed_at": null,
+    "related_position": "Seul candidat explicitement favorable dans le débat municipal, justifiant sa position par l'emploi et les recettes fiscales."
+  },
+  {
+    "id": "evidence_0026",
+    "type": "reported_summary",
+    "text": "Positionnement favorable soumis à condition de relocalisation.",
+    "source_id": null,
+    "source_status": "to_qualify",
+    "published_at": null,
+    "accessed_at": null,
+    "related_position": "Plutôt favorable sur le principe à l'accueil d'un data center, mais estime que le secteur choisi est inadéquat."
+  },
+  {
+    "id": "evidence_0027",
+    "type": "reported_summary",
+    "text": "Intérêt technique affiché couplé à une réserve de calendrier.",
+    "source_id": null,
+    "source_status": "to_qualify",
+    "published_at": null,
+    "accessed_at": null,
+    "related_position": "Se montre intéressé par les perspectives du réseau de chaleur fatale, tout en jugeant qu’il est prématuré de conclure."
+  },
+  {
+    "id": "evidence_0028",
+    "type": "reported_summary",
+    "text": "Intervention périphérique sur les aspects budgétaires.",
+    "source_id": null,
+    "source_status": "to_qualify",
+    "published_at": null,
+    "accessed_at": null,
+    "related_position": "Cité sur le débat budgétaire général, sans qu'une position centrale sur le data center ne soit détaillée."
+  },
+  {
+    "id": "evidence_0029",
+    "type": "reported_summary",
+    "text": "Implication politique sans posture explicite sur le dossier.",
+    "source_id": null,
+    "source_status": "to_qualify",
+    "published_at": null,
+    "accessed_at": null,
+    "related_position": "Intervient sur les délégations sécurité et transition écologique, sans opposition détaillée directement liée au projet."
+  },
+  {
+    "id": "evidence_0030",
+    "type": "reported_summary",
+    "text": "Maître d'ouvrage et opérateur du site projeté.",
+    "source_id": null,
+    "source_status": "to_qualify",
+    "published_at": null,
+    "accessed_at": null,
+    "related_position": "Déploie un complexe de huit bâtiments prévus sur environ six hectares, assumant le développement local."
+  },
+  {
+    "id": "evidence_0031",
+    "type": "reported_summary",
+    "text": "Structure actionnariale mère de l'opérateur local.",
+    "source_id": null,
+    "source_status": "to_qualify",
+    "published_at": null,
+    "accessed_at": null,
+    "related_position": "Actionnaire de l'acteur industriel et financier indirect, cautionnant la viabilité du projet."
+  },
+  {
+    "id": "evidence_0032",
+    "type": "reported_summary",
+    "text": "Responsable technique de l'alimentation HT/THT.",
+    "source_id": null,
+    "source_status": "to_qualify",
+    "published_at": null,
+    "accessed_at": null,
+    "related_position": "Intervient sur le raccordement électrique ; mention d’un enfouissement total des lignes selon les échanges."
+  },
+  {
+    "id": "evidence_0033",
+    "type": "reported_summary",
+    "text": "Ciblée comme autorité de contrôle sanitaire par les requérants.",
+    "source_id": null,
+    "source_status": "to_qualify",
+    "published_at": null,
+    "accessed_at": null,
+    "related_position": "Citée par les riverains pour évaluer les risques sanitaires cumulés dans un territoire déjà très pollué."
+  },
+  {
+    "id": "evidence_0034",
+    "type": "reported_summary",
+    "text": "Avis consultatif officiel favorable au permis.",
+    "source_id": null,
+    "source_status": "to_qualify",
+    "published_at": null,
+    "accessed_at": null,
+    "related_position": "A émis un avis favorable sur le dossier malgré les fortes inquiétudes riveraines sur le risque incendie."
+  },
+  {
+    "id": "evidence_0035",
+    "type": "reported_summary",
+    "text": "Intégrée à la réflexion de compensation énergétique.",
+    "source_id": null,
+    "source_status": "to_qualify",
+    "published_at": null,
+    "accessed_at": null,
+    "related_position": "Sollicitée officiellement pour modéliser et réfléchir à un réseau de récupération de chaleur fatale."
+  },
+  {
+    "id": "evidence_0036",
+    "type": "reported_summary",
+    "text": "Acteur de la transaction foncière d'origine.",
+    "source_id": null,
+    "source_status": "to_qualify",
+    "published_at": null,
+    "accessed_at": null,
+    "related_position": "Impliquée dans la cession initiale du terrain avant sa revente à l'opérateur Telehouse."
+  },
+  {
+    "id": "evidence_0037",
+    "type": "reported_summary",
+    "text": "Autorité de dernier recours sur les autorisations d'urbanisme.",
+    "source_id": null,
+    "source_status": "to_qualify",
+    "published_at": null,
+    "accessed_at": null,
+    "related_position": "Cité face au risque que le représentant de l'État ne ferme unilatéralement la possibilité de négociation locale."
+  },
+  {
+    "id": "evidence_0038",
+    "type": "reported_summary",
+    "text": "Juridiction officiellement saisie des recours d'annulation.",
+    "source_id": null,
+    "source_status": "to_qualify",
+    "published_at": null,
+    "accessed_at": null,
+    "related_position": "Saisie par le recours de la mairie de Saint-Victoret et par le recours collectif des CIQ et habitants."
+  },
+  {
+    "id": "evidence_0039",
+    "type": "reported_summary",
+    "text": "Organisation de la contestation et demande formelle de moratoire.",
+    "source_id": null,
+    "source_status": "to_qualify",
+    "published_at": null,
+    "accessed_at": null,
+    "related_position": "Mène des enquêtes, formations, balades urbaines et porte une bataille culturelle pour exiger un moratoire."
+  },
+  {
+    "id": "evidence_0040",
+    "type": "reported_summary",
+    "text": "Apport d'une expertise critique de contre-pouvoir.",
+    "source_id": null,
+    "source_status": "to_qualify",
+    "published_at": null,
+    "accessed_at": null,
+    "related_position": "Vient en support des oppositions locales, notamment pour disséquer les études d'impact et les failles juridiques."
+  },
+  {
+    "id": "evidence_0041",
+    "type": "reported_summary",
+    "text": "Soutien juridique structurel aux requérants locaux.",
+    "source_id": null,
+    "source_status": "to_qualify",
+    "published_at": null,
+    "accessed_at": null,
+    "related_position": "Cité comme appui essentiel aux collectifs locaux pour chercher des failles juridiques dans les permis et documents d’urbanisme."
+  },
+  {
+    "id": "evidence_0042",
+    "type": "reported_summary",
+    "text": "Foyer de contestation parallèle en lien avec le réseau global.",
+    "source_id": null,
+    "source_status": "to_qualify",
+    "published_at": null,
+    "accessed_at": null,
+    "related_position": "Mobilisés sur les enjeux de la reconversion industrielle d’une écoplateforme soupçonnée d'accueillir un data center."
+  },
+  {
+    "id": "evidence_0043",
+    "type": "reported_summary",
+    "text": "Autre front de mobilisation environnementale régionale.",
+    "source_id": null,
+    "source_status": "to_qualify",
+    "published_at": null,
+    "accessed_at": null,
+    "related_position": "Mobilisés autour du projet Digital Realty MRS6, avec de fortes inquiétudes sur l’environnement et les nuisances sonores."
+  },
+  {
+    "id": "evidence_0044",
+    "type": "reported_summary",
+    "text": "Mobilisation dénonçant la densification des infrastructures.",
+    "source_id": null,
+    "source_status": "to_qualify",
+    "published_at": null,
+    "accessed_at": null,
+    "related_position": "Mobilisations liées aux très nombreux projets de data centers du 16e arrondissement et à l'accaparement électrique."
+  },
+  {
+    "id": "evidence_0045",
+    "type": "reported_summary",
+    "text": "Prise de position ciblée sur le risque d'incendie.",
+    "source_id": null,
+    "source_status": "to_qualify",
+    "published_at": null,
+    "accessed_at": null,
+    "related_position": "Redoute publiquement le risque d'incendie inhérent à l'implantation du data center Cézanne."
+  },
+  {
+    "id": "evidence_0046",
+    "type": "reported_summary",
+    "text": "Dénonciation de l'absence de planification stratégique.",
+    "source_id": null,
+    "source_status": "to_qualify",
+    "published_at": null,
+    "accessed_at": null,
+    "related_position": "Critique le gigantisme aveugle des installations se déployant sans aucune stratégie démocratique globale."
+  },
+  {
+    "id": "evidence_0047",
+    "type": "reported_summary",
+    "text": "Analyse technique démontrant l'incompatibilité avec les plans climats.",
+    "source_id": null,
+    "source_status": "to_qualify",
+    "published_at": null,
+    "accessed_at": null,
+    "related_position": "Pointe la totale incompatibilité des projets massifs avec les stratégies environnementales et climatiques locales."
+  },
+  {
+    "id": "evidence_0048",
+    "type": "reported_summary",
+    "text": "Dénonciation des reculs de la réglementation d'urbanisme.",
+    "source_id": null,
+    "source_status": "to_qualify",
+    "published_at": null,
+    "accessed_at": null,
+    "related_position": "Dénonce l'émergence d'une législation de plus en plus permissive faite sur-mesure pour les opérateurs."
+  },
+  {
+    "id": "evidence_0049",
+    "type": "reported_summary",
+    "text": "Analyse de prospective sur la saturation des réseaux électriques.",
+    "source_id": null,
+    "source_status": "to_qualify",
+    "published_at": null,
+    "accessed_at": null,
+    "related_position": "Alerte de manière documentée sur les futurs conflits d'usage électrique entre les industries et les citoyens."
+  },
+  {
+    "id": "evidence_0050",
+    "type": "reported_summary",
+    "text": "Expertise macro-économique versée au débat critique.",
+    "source_id": null,
+    "source_status": "to_qualify",
+    "published_at": null,
+    "accessed_at": null,
+    "related_position": "Souligne les lourds risques systémiques liés à la priorisation énergétique accordée aux data centers."
+  },
+  {
+    "id": "evidence_0051",
+    "type": "reported_summary",
+    "text": "Jurisprudence militante citée comme modèle par les opposants.",
+    "source_id": null,
+    "source_status": "to_qualify",
+    "published_at": null,
+    "accessed_at": null,
+    "related_position": "Mènent une action en justice exemplaire contre les stratégies de saucissonnage des projets d'infrastructure."
+  },
+  {
+    "id": "evidence_0052",
+    "type": "reported_summary",
+    "text": "Lobbying actif pour faciliter les implantations industrielles.",
+    "source_id": null,
+    "source_status": "to_qualify",
+    "published_at": null,
+    "accessed_at": null,
+    "related_position": "Représente la filière des data centers et promeut leur développement inconditionnel sur le territoire."
+  },
+  {
+    "id": "evidence_0053",
+    "type": "reported_summary",
+    "text": "Argumentaire axé sur la souveraineté économique nationale.",
+    "source_id": null,
+    "source_status": "to_qualify",
+    "published_at": null,
+    "accessed_at": null,
+    "related_position": "Défend avec ferveur l'utilité économique indiscutable de ces projets pour la souveraineté française."
+  },
+  {
+    "id": "evidence_0054",
+    "type": "reported_summary",
+    "text": "Modélisation publique des hausses de consommation à venir.",
+    "source_id": null,
+    "source_status": "to_qualify",
+    "published_at": null,
+    "accessed_at": null,
+    "related_position": "Prévoit dans ses études de prospective un quadruplement de la consommation électrique de ces infrastructures."
+  },
+  {
+    "id": "evidence_0055",
+    "type": "reported_summary",
+    "text": "Soutien politique assumé au niveau national.",
+    "source_id": null,
+    "source_status": "to_qualify",
+    "published_at": null,
+    "accessed_at": null,
+    "related_position": "Soutient activement les investissements massifs dans les giga data centers pour des raisons de compétitivité."
+  },
+  {
+    "id": "evidence_0056",
+    "type": "reported_summary",
+    "text": "Filiation d'intérêts commerciaux pointée par la filière.",
+    "source_id": null,
+    "source_status": "to_qualify",
+    "published_at": null,
+    "accessed_at": null,
+    "related_position": "Énergéticien qui a un besoin stratégique du marché des data centers comme nouveau relais de croissance massif."
+  },
+  {
+    "id": "evidence_0057",
+    "type": "reported_summary",
+    "text": "Le site n’est pas adapté, ils ont simplement contourné les difficultés de procédure.",
+    "source_id": null,
+    "source_status": "to_qualify",
+    "published_at": null,
+    "accessed_at": null,
+    "related_position": "Considère le site comme inadapté et juge que le projet a contourné les procédures, annonçant une judiciarisation accrue."
+  },
+  {
+    "id": "evidence_0058",
+    "type": "reported_summary",
+    "text": "Dépose un recours environnemental contre l’autorisation préfectorale.",
+    "source_id": null,
+    "source_status": "to_qualify",
+    "published_at": null,
+    "accessed_at": null,
+    "related_position": "Apporte un soutien juridique et stratégique aux CIQ en déposant un recours contre l'autorisation environnementale."
+  }
+]

@@ -1,0 +1,83 @@
+[
+  {
+    "id": "source_0001",
+    "title": "La Provence : Média local ayant suivi le dossier électoral, les recours, les positions d’élus et les tensions autour de Telehouse.",
+    "publisher": "La Provence",
+    "url": null,
+    "source_type": "corpus_secondary_reference",
+    "published_at": null,
+    "status": "url_to_add"
+  },
+  {
+    "id": "source_0002",
+    "title": "Marsactu : Média local d’investigation ; cité sur les fuites de gaz fluorés et le recours fragilisant les plans du maire.",
+    "publisher": "Marsactu",
+    "url": null,
+    "source_type": "corpus_secondary_reference",
+    "published_at": null,
+    "status": "url_to_add"
+  },
+  {
+    "id": "source_0003",
+    "title": "L’ADN : Média ayant publié le reportage sur Marseille, hub mondial et luttes locales.",
+    "publisher": "L’ADN",
+    "url": null,
+    "source_type": "corpus_secondary_reference",
+    "published_at": null,
+    "status": "url_to_add"
+  },
+  {
+    "id": "source_0004",
+    "title": "France 3 PACA : Média ayant couvert la résistance d’élus et de riverains aux Pennes-Mirabeau / Saint-Victoret.",
+    "publisher": "France 3 PACA",
+    "url": null,
+    "source_type": "corpus_secondary_reference",
+    "published_at": null,
+    "status": "url_to_add"
+  },
+  {
+    "id": "source_0005",
+    "title": "Mucem : Institution culturelle ayant abandonné son partenariat avec Digital Realty sous pression du Nuage était sous nos pieds.",
+    "publisher": "Mucem",
+    "url": null,
+    "source_type": "corpus_secondary_reference",
+    "published_at": null,
+    "status": "url_to_add"
+  },
+  {
+    "id": "source_0006",
+    "title": "Grand Port Maritime de Marseille : Acteur cité dans les conflits d’usage électriques, notamment autour de l’électrification des quais.",
+    "publisher": "Grand Port Maritime de Marseille",
+    "url": null,
+    "source_type": "corpus_secondary_reference",
+    "published_at": null,
+    "status": "url_to_add"
+  },
+  {
+    "id": "source_0007",
+    "title": "news.google.com : Agrégateur ayant relayé l'analyse nationale sur les tensions liées aux data centers.",
+    "publisher": "news.google.com",
+    "url": null,
+    "source_type": "corpus_secondary_reference",
+    "published_at": null,
+    "status": "url_to_add"
+  },
+  {
+    "id": "source_0008",
+    "title": "Next.ink : Expertise sur les recours environnementaux et mise en perspective de la crise climatique (mégafeux/canicules) avec l'implantation de l'infrastructure.",
+    "publisher": "Next.ink",
+    "url": null,
+    "source_type": "corpus_secondary_reference",
+    "published_at": null,
+    "status": "url_to_add"
+  },
+  {
+    "id": "source_0009",
+    "title": "La Marseillaise : Relais des discours associatifs locaux (CIQ, MNLE) et des crispations entourant les promesses de récupération de la chaleur fatale.",
+    "publisher": "La Marseillaise",
+    "url": null,
+    "source_type": "corpus_secondary_reference",
+    "published_at": null,
+    "status": "url_to_add"
+  }
+]
