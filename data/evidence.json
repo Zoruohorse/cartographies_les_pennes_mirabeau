@@ -992,5 +992,49 @@
     "accessed_at": "2026-11-07",
     "source_location": "Article, paragraphes 1 à 9",
     "qualification_method": "résumé fidèle du fait explicite, non verbatim"
+  },
+  {
+    "id": "evidence_pennes_20261107_061",
+    "type": "reported_summary",
+    "text": "Marsactu indique que Boris Tachtchian était directeur de cabinet de Michel Amiel de 2020 à 2025, puis a rejoint Telehouse; la date exacte de son entrée dans l'entreprise n'est pas précisée.",
+    "source_id": "source_pennes_20261107_tacht",
+    "source_status": "url_checked",
+    "published_at": "2025-12-15",
+    "accessed_at": "2026-11-07",
+    "source_location": "Article du 15 décembre 2025, titre et introduction en libre accès",
+    "qualification_method": "Résumé fidèle de l'article consulté, non verbatim"
+  },
+  {
+    "id": "evidence_pennes_20261107_062",
+    "type": "reported_summary",
+    "text": "Marsactu rapporte une vente du terrain de six hectares à Telehouse le 8 janvier 2025 pour 48 M€ et une acquisition antérieure par la société LPM pour environ 7 M€.",
+    "source_id": "source_pennes_20261107_foncier",
+    "source_status": "url_checked",
+    "published_at": "2026-01-14",
+    "accessed_at": "2026-11-07",
+    "source_location": "Article du 14 janvier 2026, titre et introduction en libre accès",
+    "qualification_method": "Résumé fidèle de l'article consulté, non verbatim"
+  },
+  {
+    "id": "evidence_pennes_20261107_063",
+    "type": "reported_summary",
+    "text": "Marsactu décrit le soutien appuyé du maire Michel Amiel à Telehouse lors de la réunion de concertation du 10 décembre 2025, sans inférer un quelconque intérêt personnel.",
+    "source_id": "source_pennes_20261107_tacht",
+    "source_status": "url_checked",
+    "published_at": "2025-12-15",
+    "accessed_at": "2026-11-07",
+    "source_location": "Article du 15 décembre 2025, titre et introduction en libre accès",
+    "qualification_method": "Résumé fidèle de l'article consulté, non verbatim"
+  },
+  {
+    "id": "evidence_pennes_20261107_064",
+    "type": "reported_summary",
+    "text": "La Marseillaise rappelle une annonce d'investissement de 2 Md€ lors de Choose France 2024 pour le projet Cézanne, montant annoncé et non engagement décaissé prouvé.",
+    "source_id": "source_pennes_20261107_investissement",
+    "source_status": "url_checked",
+    "published_at": null,
+    "accessed_at": "2026-11-07",
+    "source_location": "Texte transmis dans Pennes-Mirabeau.xlsx, ligne 10",
+    "qualification_method": "Résumé fidèle de l'article consulté, non verbatim"
   }
 ]

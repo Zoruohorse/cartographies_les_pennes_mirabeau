@@ -1,5 +1,47 @@
 [
   {
+    "id": "timeline_pennes_actor_0024",
+    "actor_id": "actor_0024",
+    "event_type": "first_documented_position",
+    "date": "2025-12-15",
+    "date_precision": "day",
+    "source_ids": [
+      "source_pennes_20261107_tacht"
+    ],
+    "confidence": "high",
+    "status": "confirmed",
+    "date_basis": "article du 15 décembre 2025 portant explicitement sur le soutien de Michel Amiel lors de la réunion du 10 décembre",
+    "summary": "En décembre 2025, Michel Amiel est décrit par Marsactu comme soutenant activement le projet Telehouse lors de la concertation; le permis qu'il a signé relève aussi de son mandat."
+  },
+  {
+    "id": "timeline_pennes_actor_0070",
+    "actor_id": "actor_0070",
+    "event_type": "first_documented_position",
+    "date": "2025-12-15",
+    "date_precision": "day",
+    "source_ids": [
+      "source_pennes_20261107_tacht"
+    ],
+    "confidence": "high",
+    "status": "confirmed",
+    "date_basis": "date de la publication mentionnant l'acteur, non date de la transition professionnelle",
+    "summary": "Marsactu documente son passage de la mairie chez Telehouse, sans établir une prise de position personnelle sur le projet."
+  },
+  {
+    "id": "timeline_pennes_actor_0071",
+    "actor_id": "actor_0071",
+    "event_type": "first_documented_position",
+    "date": "2026-01-14",
+    "date_precision": "day",
+    "source_ids": [
+      "source_pennes_20261107_foncier"
+    ],
+    "confidence": "medium",
+    "status": "confirmed",
+    "date_basis": "date de la publication mentionnant l'acteur, non date de la transition professionnelle",
+    "summary": "Marsactu identifie LPM comme société cédante du terrain; aucun soutien ou opposition politique explicite documenté."
+  },
+  {
     "id": "timeline_pennes_actor_0030",
     "actor_id": "actor_0030",
     "event_type": "first_documented_position",
@@ -96,20 +138,6 @@
     "status": "confirmed",
     "date_basis": "première source datée rattachée dans le lot traité ; ne signifie pas première expression historique",
     "summary": "Christine Muscat, présidente du CIQ des Pallières, conteste le projet à cet emplacement et demande une expertise sur la chaleur rejetée."
-  },
-  {
-    "id": "timeline_pennes_actor_0024",
-    "actor_id": "actor_0024",
-    "event_type": "first_documented_position",
-    "date": "2026-04-18",
-    "date_precision": "day",
-    "source_ids": [
-      "source_pennes_20261107_mars"
-    ],
-    "confidence": "high",
-    "status": "confirmed",
-    "date_basis": "première source datée rattachée dans le lot traité ; ne signifie pas première expression historique",
-    "summary": "Michel Amiel a délivré le permis de construire avant la fin de son mandat; cet acte administratif ne suffit pas à établir à lui seul une position personnelle favorable sans réserve."
   },
   {
     "id": "timeline_pennes_actor_0037",

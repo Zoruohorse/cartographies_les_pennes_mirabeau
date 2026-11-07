@@ -8,18 +8,20 @@
     "sources_without_url": 9
   },
   "result": {
-    "actors": 69,
-    "claims": 61,
-    "evidence": 89,
-    "relations": 99,
-    "qualified_sources": 15,
-    "timeline": 19,
+    "actors": 71,
+    "claims": 63,
+    "evidence": 93,
+    "relations": 103,
+    "qualified_sources": 18,
+    "timeline": 21,
     "qualified_existing_positions": 28,
     "new_actor_ids": [
       "actor_0066",
       "actor_0067",
       "actor_0068",
-      "actor_0069"
+      "actor_0069",
+      "actor_0070",
+      "actor_0071"
     ],
     "new_relation_ids": [
       "relation_0088",
@@ -33,7 +35,11 @@
       "relation_0096",
       "relation_0097",
       "relation_0098",
-      "relation_0099"
+      "relation_0099",
+      "relation_0100",
+      "relation_0101",
+      "relation_0102",
+      "relation_0103"
     ],
     "modified_relation_ids": [
       "relation_0001",
@@ -60,7 +66,8 @@
       "relation_0036",
       "relation_0037",
       "relation_0038",
-      "relation_0039"
+      "relation_0039",
+      "relation_0023"
     ],
     "hidden_context_actor_ids": [
       "actor_0010",
@@ -85,7 +92,20 @@
       "actor_0061",
       "actor_0062"
     ],
-    "unqualified_evidence_remaining": 29
+    "unqualified_evidence_remaining": 29,
+    "modified_claim_ids": [
+      "claim_0023"
+    ],
+    "stance_changes": [
+      {
+        "id": "claim_0023",
+        "actor": "Michel Amiel",
+        "before": "neutral",
+        "after": "favorable",
+        "source": "https://marsactu.fr/pennes-mirabeau-lex-dircab-du-maire-pantoufle-chez-le-porteur-de-projet-du-data-center/",
+        "reason": "Soutien explicite rapporté en décembre 2025"
+      }
+    ]
   },
   "modified_claims": [
     {
@@ -295,14 +315,15 @@
         "summary": "A signé le permis de construire avant les élections, ce qui cristallise désormais une grande partie des critiques locales."
       },
       "new_value": {
-        "value": "neutral",
+        "value": "favorable",
         "certainty": "high",
-        "summary": "Michel Amiel a délivré le permis de construire avant la fin de son mandat; cet acte administratif ne suffit pas à établir à lui seul une position personnelle favorable sans réserve.",
+        "summary": "En décembre 2025, Michel Amiel est décrit par Marsactu comme soutenant activement le projet Telehouse lors de la concertation; le permis qu'il a signé relève aussi de son mandat.",
         "evidence_ids": [
-          "evidence_pennes_20261107_012"
+          "evidence_pennes_20261107_012",
+          "evidence_pennes_20261107_063"
         ]
       },
-      "source": "https://marsactu.fr/un-recours-contre-le-projet-de-data-center-aux-pennes-mirabeau-fragilise-les-plans-du-maire/"
+      "source": "https://marsactu.fr/pennes-mirabeau-lex-dircab-du-maire-pantoufle-chez-le-porteur-de-projet-du-data-center/"
     },
     {
       "id": "claim_0024",
@@ -1230,5 +1251,10 @@
     "Les positions antérieures non étayées et leurs relations génériques subsistent dans le JSON historique mais sont écartées de la vue réseau/documentée à mettre en place.",
     "Les rubriques de positions de l'ARS, de l'ADEME, du gouvernement ou d'autres acteurs ne sauraient être déduites de simples mentions.",
     "Le nombre de modules annoncé (huit) et la surface du bâtiment de 22 177 m² au dossier décrivent des périmètres distincts à ne pas confondre."
+  ],
+  "additional_notes": [
+    "Ajout de deux enquêtes Marsactu accessibles concernant la transaction foncière LPM et la mobilité professionnelle de Boris Tachtchian.",
+    "Ancien maire Michel Amiel reclassé comme favorable sur la base de son soutien explicitement décrit en décembre 2025.",
+    "Le prix de revente moins le prix d'achat ne constitue pas une plus-value nette juridiquement ou comptablement auditée."
   ]
 }

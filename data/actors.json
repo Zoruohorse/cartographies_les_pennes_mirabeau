@@ -1297,5 +1297,41 @@
     "display_in_cards": true,
     "source_network_group": "Projet Cézanne — acteurs documentés",
     "updated_at": "2026-11-07"
+  },
+  {
+    "id": "actor_0070",
+    "type": "person",
+    "name": "Boris Tachtchian",
+    "short_name": "Boris Tachtchian",
+    "description": "Ancien directeur de cabinet du maire Michel Amiel (2020-2025), passé chez Telehouse.",
+    "roles": [
+      {
+        "label": "Ancien directeur de cabinet, puis salarié de Telehouse; aucun soutien personnel explicite au projet qualifié."
+      }
+    ],
+    "categories": [
+      "porteurs"
+    ],
+    "display_in_cards": true,
+    "source_network_group": "Gouvernance et foncier — projet Cézanne",
+    "updated_at": "2026-11-07"
+  },
+  {
+    "id": "actor_0071",
+    "type": "organization",
+    "name": "LPM (société foncière)",
+    "short_name": "LPM (société foncière)",
+    "description": "Société présentée par Marsactu comme propriétaire-venderesse du terrain acquis par Telehouse le 8 janvier 2025.",
+    "roles": [
+      {
+        "label": "Cédante du terrain à Telehouse ; identité juridique précise (SIREN, bénéficiaires) non vérifiée."
+      }
+    ],
+    "categories": [
+      "porteurs"
+    ],
+    "display_in_cards": true,
+    "source_network_group": "Gouvernance et foncier — projet Cézanne",
+    "updated_at": "2026-11-07"
   }
 ]

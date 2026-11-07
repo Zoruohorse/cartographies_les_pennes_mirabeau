@@ -689,12 +689,13 @@
     "project_id": "project_pennes_mirabeau",
     "claim_type": "position",
     "topic": "position_globale",
-    "value": "neutral",
-    "summary": "Michel Amiel a délivré le permis de construire avant la fin de son mandat; cet acte administratif ne suffit pas à établir à lui seul une position personnelle favorable sans réserve.",
+    "value": "favorable",
+    "summary": "En décembre 2025, Michel Amiel est décrit par Marsactu comme soutenant activement le projet Telehouse lors de la concertation; le permis qu'il a signé relève aussi de son mandat.",
     "certainty": "high",
     "status": "qualified_source",
     "evidence_ids": [
-      "evidence_pennes_20261107_012"
+      "evidence_pennes_20261107_012",
+      "evidence_pennes_20261107_063"
     ],
     "source_position_statements": [
       "A signé le permis de construire avant les élections, ce qui cristallise désormais une grande partie des critiques locales."
@@ -722,6 +723,27 @@
           ]
         },
         "reason": "Qualification documentaire sur la ressource du lot courant"
+      },
+      {
+        "at": "2026-11-07",
+        "old": {
+          "value": "neutral",
+          "summary": "Michel Amiel a délivré le permis de construire avant la fin de son mandat; cet acte administratif ne suffit pas à établir à lui seul une position personnelle favorable sans réserve.",
+          "certainty": "high",
+          "evidence_ids": [
+            "evidence_pennes_20261107_012"
+          ]
+        },
+        "new": {
+          "value": "favorable",
+          "summary": "En décembre 2025, Michel Amiel est décrit par Marsactu comme soutenant activement le projet Telehouse lors de la concertation; le permis qu'il a signé relève aussi de son mandat.",
+          "certainty": "high",
+          "evidence_ids": [
+            "evidence_pennes_20261107_012",
+            "evidence_pennes_20261107_063"
+          ]
+        },
+        "reason": "Témoignage de presse indépendant attribuant explicitement un soutien au maire (Marsactu, 15 décembre 2025); la simple signature de permis ne suffisait pas."
       }
     ]
   },
@@ -1832,6 +1854,46 @@
     ],
     "source_position_statements": [
       "Sami Slim présente pour Telehouse les engagements envisagés sur la valorisation de chaleur, les panneaux photovoltaïques et la gestion du raccordement."
+    ],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-11-07"
+  },
+  {
+    "id": "claim_0062",
+    "subject_id": "actor_0070",
+    "project_id": "project_pennes_mirabeau",
+    "claim_type": "position",
+    "topic": "position_globale",
+    "value": "neutral",
+    "summary": "Marsactu documente son passage de la mairie chez Telehouse, sans établir une prise de position personnelle sur le projet.",
+    "certainty": "high",
+    "status": "qualified_source",
+    "evidence_ids": [
+      "evidence_pennes_20261107_061"
+    ],
+    "source_position_statements": [
+      "Marsactu documente son passage de la mairie chez Telehouse, sans établir une prise de position personnelle sur le projet."
+    ],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-11-07"
+  },
+  {
+    "id": "claim_0063",
+    "subject_id": "actor_0071",
+    "project_id": "project_pennes_mirabeau",
+    "claim_type": "position",
+    "topic": "position_globale",
+    "value": "neutral",
+    "summary": "Marsactu identifie LPM comme société cédante du terrain; aucun soutien ou opposition politique explicite documenté.",
+    "certainty": "medium",
+    "status": "qualified_source",
+    "evidence_ids": [
+      "evidence_pennes_20261107_062"
+    ],
+    "source_position_statements": [
+      "Marsactu identifie LPM comme société cédante du terrain; aucun soutien ou opposition politique explicite documenté."
     ],
     "valid_from": null,
     "valid_to": null,

@@ -178,5 +178,41 @@
     "status": "source_text_from_user_workbook",
     "location": "Texte transmis dans Pennes-Mirabeau.xlsx, ligne 27",
     "accessed_at": null
+  },
+  {
+    "id": "source_pennes_20261107_tacht",
+    "title": "Pennes-Mirabeau : l’ex-dircab du maire pantoufle chez le porteur de projet du data center",
+    "publisher": "Marsactu",
+    "author": "Quentin Mallet",
+    "published_at": "2025-12-15",
+    "url": "https://marsactu.fr/pennes-mirabeau-lex-dircab-du-maire-pantoufle-chez-le-porteur-de-projet-du-data-center/",
+    "source_type": "press_verified",
+    "status": "url_checked",
+    "location": "Article du 15 décembre 2025, titre et introduction en libre accès",
+    "accessed_at": "2026-11-07"
+  },
+  {
+    "id": "source_pennes_20261107_foncier",
+    "title": "Derrière la création du data center des Pennes-Mirabeau, une folle plus-value de 40 millions",
+    "publisher": "Marsactu",
+    "author": "Quentin Mallet",
+    "published_at": "2026-01-14",
+    "url": "https://marsactu.fr/derriere-la-creation-du-data-center-des-pennes-mirabeau-une-folle-plus-value-de-40-millions/",
+    "source_type": "press_verified",
+    "status": "url_checked",
+    "location": "Article du 14 janvier 2026, titre et introduction en libre accès",
+    "accessed_at": "2026-11-07"
+  },
+  {
+    "id": "source_pennes_20261107_investissement",
+    "title": "La région face à l’IA : Les Pennes à la peine face à son data center",
+    "publisher": "La Marseillaise",
+    "author": null,
+    "published_at": null,
+    "url": "https://www.lamarseillaise.fr/economie/la-region-face-a-l-ia-les-pennes-a-la-peine-face-a-son-data-center-AB20302244",
+    "source_type": "press_verified",
+    "status": "url_checked",
+    "location": "Texte transmis dans Pennes-Mirabeau.xlsx, ligne 10",
+    "accessed_at": "2026-11-07"
   }
 ]

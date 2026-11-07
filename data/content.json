@@ -48,6 +48,15 @@
         "evidence_pennes_20261107_001",
         "evidence_pennes_20261107_023"
       ]
+    },
+    {
+      "title": "Gouvernance foncière et mobilité professionnelle",
+      "icon": "🏛️",
+      "text": "Marsactu interroge la gouvernance du dossier après le départ de l'ancien directeur de cabinet de Michel Amiel pour Telehouse et la plus-value foncière apparente de LPM. Ces enquêtes ne démontrent pas à elles seules une irrégularité ou un conflit d'intérêts.",
+      "evidence_ids": [
+        "evidence_pennes_20261107_061",
+        "evidence_pennes_20261107_062"
+      ]
     }
   ],
   "vigilance": [
@@ -92,9 +101,33 @@
       "title": "Acteurs hors territoire et noms incomplets",
       "text": "Les personnes identifiées uniquement par un prénom ou intervenant sur MRS6, Gardanne ou Wissous ne sont pas présentées comme opposants directs à Cézanne sans preuve propre.",
       "evidence_ids": []
+    },
+    {
+      "title": "Mobilité public-privé et déclarations de conflits d'intérêts",
+      "text": "Marsactu s'interroge sur l'éventuelle saisine de la HATVP concernant Boris Tachtchian. Aucun manquement juridique, décision administrative ou conflit d'intérêts établi n'est démontré dans ce lot.",
+      "evidence_ids": [
+        "evidence_pennes_20261107_061"
+      ]
+    },
+    {
+      "title": "LPM : propriétaire foncier distinct du maître d'ouvrage",
+      "text": "Marsactu cite LPM comme cédante du foncier. L'identité juridique complète et les bénéficiaires effectifs de LPM restent à vérifier; la différence entre prix d'achat et de revente ne démontre pas un gain net.",
+      "evidence_ids": [
+        "evidence_pennes_20261107_062"
+      ]
     }
   ],
   "milestones": [
+    {
+      "date": "2025-01-08",
+      "period_precision": "day",
+      "title": "Telehouse acquiert le foncier des Sybilles",
+      "details": "Selon Marsactu, Telehouse achète environ six hectares à la société LPM pour 48 M€; LPM aurait elle-même acquis ce terrain auparavant pour environ 7 M€.",
+      "status": "reported",
+      "evidence_ids": [
+        "evidence_pennes_20261107_062"
+      ]
+    },
     {
       "date": "2025-09-22",
       "period_precision": "day",
@@ -103,6 +136,16 @@
       "status": "documented",
       "evidence_ids": [
         "evidence_pennes_20261107_046"
+      ]
+    },
+    {
+      "date": "2025-12-15",
+      "period_precision": "day",
+      "title": "Enquête sur la mobilité du cabinet municipal vers Telehouse",
+      "details": "Marsactu révèle le passage de Boris Tachtchian de la mairie chez Telehouse et soulève des questions de déontologie; aucune infraction n'est démontrée.",
+      "status": "reported",
+      "evidence_ids": [
+        "evidence_pennes_20261107_061"
       ]
     },
     {
@@ -231,6 +274,30 @@
       "qualifier": "Puissance demandée à RTE, et non consommation annuelle ou raccordement effectivement réalisé.",
       "evidence_ids": [
         "evidence_pennes_20261107_060"
+      ]
+    },
+    {
+      "label": "Prix de cession du terrain à Telehouse",
+      "value": "48 M€",
+      "qualifier": "Transaction du 8 janvier 2025 rapportée par Marsactu, pour environ six hectares; montant foncier, distinct de l'investissement industriel.",
+      "evidence_ids": [
+        "evidence_pennes_20261107_062"
+      ]
+    },
+    {
+      "label": "Prix d'acquisition antérieure par LPM",
+      "value": "Environ 7 M€",
+      "qualifier": "Valeur rapportée par Marsactu. L'écart arithmétique de 41 M€ est brut et ne démontre pas un bénéfice net.",
+      "evidence_ids": [
+        "evidence_pennes_20261107_062"
+      ]
+    },
+    {
+      "label": "Investissement industriel annoncé",
+      "value": "2 Md€",
+      "qualifier": "Annonce rapportée à Choose France 2024, non dépense constatée ni budget définitivement engagé.",
+      "evidence_ids": [
+        "evidence_pennes_20261107_064"
       ]
     }
   ]

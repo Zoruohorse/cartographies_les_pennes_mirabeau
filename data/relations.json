@@ -586,12 +586,13 @@
     "id": "relation_0023",
     "source_id": "actor_0024",
     "target_id": "project_pennes_mirabeau",
-    "type": "position_on",
-    "summary": "Michel Amiel a délivré le permis de construire avant la fin de son mandat; cet acte administratif ne suffit pas à établir à lui seul une position personnelle favorable sans réserve.",
+    "type": "supports",
+    "summary": "Soutien politique de Michel Amiel à l'implantation de Telehouse, selon l'enquête Marsactu du 15 décembre 2025.",
     "certainty": "high",
     "status": "qualified_source",
     "evidence_ids": [
-      "evidence_pennes_20261107_012"
+      "evidence_pennes_20261107_012",
+      "evidence_pennes_20261107_063"
     ],
     "valid_from": null,
     "valid_to": null,
@@ -618,6 +619,25 @@
           ]
         },
         "reason": "Relation générique non sourcée remplacée par relation qualifiée au projet"
+      },
+      {
+        "at": "2026-11-07",
+        "old": {
+          "type": "position_on",
+          "summary": "Michel Amiel a délivré le permis de construire avant la fin de son mandat; cet acte administratif ne suffit pas à établir à lui seul une position personnelle favorable sans réserve.",
+          "evidence_ids": [
+            "evidence_pennes_20261107_012"
+          ]
+        },
+        "new": {
+          "type": "supports",
+          "summary": "Soutien politique de Michel Amiel à l'implantation de Telehouse, selon l'enquête Marsactu du 15 décembre 2025.",
+          "evidence_ids": [
+            "evidence_pennes_20261107_012",
+            "evidence_pennes_20261107_063"
+          ]
+        },
+        "reason": "Prise de position explicitement rapportée par Marsactu"
       }
     ]
   },
@@ -2017,6 +2037,66 @@
     "status": "qualified_source",
     "evidence_ids": [
       "evidence_pennes_20261107_044"
+    ],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-11-07"
+  },
+  {
+    "id": "relation_0100",
+    "source_id": "actor_0070",
+    "target_id": "actor_0030",
+    "type": "works_for",
+    "summary": "Boris Tachtchian a rejoint Telehouse après ses fonctions au cabinet du maire Michel Amiel.",
+    "certainty": "high",
+    "status": "qualified_source",
+    "evidence_ids": [
+      "evidence_pennes_20261107_061"
+    ],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-11-07"
+  },
+  {
+    "id": "relation_0101",
+    "source_id": "actor_0070",
+    "target_id": "project_pennes_mirabeau",
+    "type": "associated_with",
+    "summary": "La mobilité professionnelle de Boris Tachtchian est évoquée dans une enquête consacrée au dossier Cézanne; aucun conflit d'intérêts n'est établi par le seul article.",
+    "certainty": "medium",
+    "status": "qualified_source",
+    "evidence_ids": [
+      "evidence_pennes_20261107_061"
+    ],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-11-07"
+  },
+  {
+    "id": "relation_0102",
+    "source_id": "actor_0071",
+    "target_id": "actor_0030",
+    "type": "contracts_with",
+    "summary": "Marsactu attribue à LPM la cession du foncier à Telehouse pour 48 M€ le 8 janvier 2025.",
+    "certainty": "high",
+    "status": "qualified_source",
+    "evidence_ids": [
+      "evidence_pennes_20261107_062"
+    ],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-11-07"
+  },
+  {
+    "id": "relation_0103",
+    "source_id": "actor_0071",
+    "target_id": "project_pennes_mirabeau",
+    "type": "associated_with",
+    "summary": "LPM est citée comme société foncière cédante du site des Sybilles.",
+    "certainty": "medium",
+    "status": "qualified_source",
+    "evidence_ids": [
+      "evidence_pennes_20261107_062"
     ],
     "valid_from": null,
     "valid_to": null,
