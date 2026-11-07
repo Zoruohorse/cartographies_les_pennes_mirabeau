@@ -66,8 +66,7 @@
       "relation_0036",
       "relation_0037",
       "relation_0038",
-      "relation_0039",
-      "relation_0023"
+      "relation_0039"
     ],
     "hidden_context_actor_ids": [
       "actor_0010",
@@ -105,7 +104,10 @@
         "source": "https://marsactu.fr/pennes-mirabeau-lex-dircab-du-maire-pantoufle-chez-le-porteur-de-projet-du-data-center/",
         "reason": "Soutien explicite rapporté en décembre 2025"
       }
-    ]
+    ],
+    "qualified_claims": 34,
+    "qualified_relations": 41,
+    "visible_qualified_actor_cards": 34
   },
   "modified_claims": [
     {
@@ -1256,5 +1258,6 @@
     "Ajout de deux enquêtes Marsactu accessibles concernant la transaction foncière LPM et la mobilité professionnelle de Boris Tachtchian.",
     "Ancien maire Michel Amiel reclassé comme favorable sur la base de son soutien explicitement décrit en décembre 2025.",
     "Le prix de revente moins le prix d'achat ne constitue pas une plus-value nette juridiquement ou comptablement auditée."
-  ]
+  ],
+  "method_note": "Données historiques non qualifiées conservées pour audit, mais non exposées dans les vues cartes/réseau; les sources métier exportées ont toutes une URL."
 }
