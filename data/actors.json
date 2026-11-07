@@ -33,7 +33,7 @@
     ],
     "display_in_cards": true,
     "source_network_group": "Noyau d’opposition local",
-    "updated_at": "2026-10-09"
+    "updated_at": "2026-11-07"
   },
   {
     "id": "actor_0003",
@@ -51,7 +51,7 @@
     ],
     "display_in_cards": true,
     "source_network_group": "Noyau d’opposition local",
-    "updated_at": "2026-10-09"
+    "updated_at": "2026-11-07"
   },
   {
     "id": "actor_0004",
@@ -69,7 +69,7 @@
     ],
     "display_in_cards": true,
     "source_network_group": "Noyau d’opposition local",
-    "updated_at": "2026-10-09"
+    "updated_at": "2026-11-07"
   },
   {
     "id": "actor_0005",
@@ -88,7 +88,7 @@
     ],
     "display_in_cards": true,
     "source_network_group": "Noyau d’opposition local",
-    "updated_at": "2026-10-09"
+    "updated_at": "2026-11-07"
   },
   {
     "id": "actor_0006",
@@ -142,7 +142,7 @@
     ],
     "display_in_cards": true,
     "source_network_group": "Opposants nommés",
-    "updated_at": "2026-10-09"
+    "updated_at": "2026-11-07"
   },
   {
     "id": "actor_0009",
@@ -160,7 +160,7 @@
     ],
     "display_in_cards": true,
     "source_network_group": "Opposants nommés",
-    "updated_at": "2026-10-09"
+    "updated_at": "2026-11-07"
   },
   {
     "id": "actor_0010",
@@ -176,9 +176,10 @@
     "categories": [
       "opposants"
     ],
-    "display_in_cards": true,
+    "display_in_cards": false,
     "source_network_group": "Opposants nommés",
-    "updated_at": "2026-10-09"
+    "updated_at": "2026-11-07",
+    "audit_status": "out_of_scope_or_unqualified_for_cezanne"
   },
   {
     "id": "actor_0011",
@@ -194,9 +195,10 @@
     "categories": [
       "opposants"
     ],
-    "display_in_cards": true,
+    "display_in_cards": false,
     "source_network_group": "Opposants nommés",
-    "updated_at": "2026-10-09"
+    "updated_at": "2026-11-07",
+    "audit_status": "out_of_scope_or_unqualified_for_cezanne"
   },
   {
     "id": "actor_0012",
@@ -212,9 +214,10 @@
     "categories": [
       "opposants"
     ],
-    "display_in_cards": true,
+    "display_in_cards": false,
     "source_network_group": "Opposants nommés",
-    "updated_at": "2026-10-09"
+    "updated_at": "2026-11-07",
+    "audit_status": "out_of_scope_or_unqualified_for_cezanne"
   },
   {
     "id": "actor_0013",
@@ -230,9 +233,10 @@
     "categories": [
       "opposants"
     ],
-    "display_in_cards": true,
+    "display_in_cards": false,
     "source_network_group": "Opposants nommés",
-    "updated_at": "2026-10-09"
+    "updated_at": "2026-11-07",
+    "audit_status": "out_of_scope_or_unqualified_for_cezanne"
   },
   {
     "id": "actor_0014",
@@ -248,9 +252,10 @@
     "categories": [
       "opposants"
     ],
-    "display_in_cards": true,
+    "display_in_cards": false,
     "source_network_group": "Opposants nommés",
-    "updated_at": "2026-10-09"
+    "updated_at": "2026-11-07",
+    "audit_status": "out_of_scope_or_unqualified_for_cezanne"
   },
   {
     "id": "actor_0015",
@@ -266,9 +271,10 @@
     "categories": [
       "opposants"
     ],
-    "display_in_cards": true,
+    "display_in_cards": false,
     "source_network_group": "Opposants nommés",
-    "updated_at": "2026-10-09"
+    "updated_at": "2026-11-07",
+    "audit_status": "out_of_scope_or_unqualified_for_cezanne"
   },
   {
     "id": "actor_0016",
@@ -284,9 +290,10 @@
     "categories": [
       "opposants"
     ],
-    "display_in_cards": true,
+    "display_in_cards": false,
     "source_network_group": "Opposants nommés",
-    "updated_at": "2026-10-09"
+    "updated_at": "2026-11-07",
+    "audit_status": "out_of_scope_or_unqualified_for_cezanne"
   },
   {
     "id": "actor_0017",
@@ -304,7 +311,7 @@
     ],
     "display_in_cards": true,
     "source_network_group": "Élus critiques ou opposés",
-    "updated_at": "2026-10-09"
+    "updated_at": "2026-11-07"
   },
   {
     "id": "actor_0018",
@@ -340,7 +347,7 @@
     ],
     "display_in_cards": true,
     "source_network_group": "Élus critiques ou opposés",
-    "updated_at": "2026-10-09"
+    "updated_at": "2026-11-07"
   },
   {
     "id": "actor_0020",
@@ -358,7 +365,7 @@
     ],
     "display_in_cards": true,
     "source_network_group": "Élus critiques ou opposés",
-    "updated_at": "2026-10-09"
+    "updated_at": "2026-11-07"
   },
   {
     "id": "actor_0021",
@@ -376,7 +383,7 @@
     ],
     "display_in_cards": true,
     "source_network_group": "Élus critiques ou opposés",
-    "updated_at": "2026-10-09"
+    "updated_at": "2026-11-07"
   },
   {
     "id": "actor_0022",
@@ -394,7 +401,7 @@
     ],
     "display_in_cards": true,
     "source_network_group": "Élus critiques ou opposés",
-    "updated_at": "2026-10-09"
+    "updated_at": "2026-11-07"
   },
   {
     "id": "actor_0023",
@@ -430,7 +437,7 @@
     ],
     "display_in_cards": true,
     "source_network_group": "Élus favorables / prudents",
-    "updated_at": "2026-10-09"
+    "updated_at": "2026-11-07"
   },
   {
     "id": "actor_0025",
@@ -448,7 +455,7 @@
     ],
     "display_in_cards": true,
     "source_network_group": "Élus favorables / prudents",
-    "updated_at": "2026-10-09"
+    "updated_at": "2026-11-07"
   },
   {
     "id": "actor_0026",
@@ -466,7 +473,7 @@
     ],
     "display_in_cards": true,
     "source_network_group": "Élus favorables / prudents",
-    "updated_at": "2026-10-09"
+    "updated_at": "2026-11-07"
   },
   {
     "id": "actor_0027",
@@ -484,7 +491,7 @@
     ],
     "display_in_cards": true,
     "source_network_group": "Élus favorables / prudents",
-    "updated_at": "2026-10-09"
+    "updated_at": "2026-11-07"
   },
   {
     "id": "actor_0028",
@@ -539,7 +546,7 @@
     ],
     "display_in_cards": true,
     "source_network_group": "Acteurs institutionnels / techniques",
-    "updated_at": "2026-10-09"
+    "updated_at": "2026-11-07"
   },
   {
     "id": "actor_0031",
@@ -558,7 +565,7 @@
     ],
     "display_in_cards": true,
     "source_network_group": "Acteurs institutionnels / techniques",
-    "updated_at": "2026-10-09"
+    "updated_at": "2026-11-07"
   },
   {
     "id": "actor_0032",
@@ -578,7 +585,7 @@
     ],
     "display_in_cards": true,
     "source_network_group": "Acteurs institutionnels / techniques",
-    "updated_at": "2026-10-09"
+    "updated_at": "2026-11-07"
   },
   {
     "id": "actor_0033",
@@ -616,7 +623,7 @@
     ],
     "display_in_cards": true,
     "source_network_group": "Acteurs institutionnels / techniques",
-    "updated_at": "2026-10-09"
+    "updated_at": "2026-11-07"
   },
   {
     "id": "actor_0035",
@@ -636,7 +643,7 @@
     ],
     "display_in_cards": true,
     "source_network_group": "Acteurs institutionnels / techniques",
-    "updated_at": "2026-10-09"
+    "updated_at": "2026-11-07"
   },
   {
     "id": "actor_0036",
@@ -655,7 +662,7 @@
     ],
     "display_in_cards": true,
     "source_network_group": "Acteurs institutionnels / techniques",
-    "updated_at": "2026-10-09"
+    "updated_at": "2026-11-07"
   },
   {
     "id": "actor_0037",
@@ -674,7 +681,7 @@
     ],
     "display_in_cards": true,
     "source_network_group": "Acteurs institutionnels / techniques",
-    "updated_at": "2026-10-09"
+    "updated_at": "2026-11-07"
   },
   {
     "id": "actor_0038",
@@ -693,7 +700,7 @@
     ],
     "display_in_cards": true,
     "source_network_group": "Acteurs institutionnels / techniques",
-    "updated_at": "2026-10-09"
+    "updated_at": "2026-11-07"
   },
   {
     "id": "actor_0039",
@@ -712,7 +719,7 @@
     ],
     "display_in_cards": true,
     "source_network_group": "Réseau élargi anti-data centers",
-    "updated_at": "2026-10-09"
+    "updated_at": "2026-11-07"
   },
   {
     "id": "actor_0040",
@@ -731,7 +738,7 @@
     ],
     "display_in_cards": true,
     "source_network_group": "Réseau élargi anti-data centers",
-    "updated_at": "2026-10-09"
+    "updated_at": "2026-11-07"
   },
   {
     "id": "actor_0041",
@@ -748,9 +755,10 @@
       "reseau-critique",
       "orgs"
     ],
-    "display_in_cards": true,
+    "display_in_cards": false,
     "source_network_group": "Réseau élargi anti-data centers",
-    "updated_at": "2026-10-09"
+    "updated_at": "2026-10-09",
+    "audit_status": "parent_entity_not_same_as_FNE13"
   },
   {
     "id": "actor_0042",
@@ -767,9 +775,10 @@
       "reseau-critique",
       "orgs"
     ],
-    "display_in_cards": true,
+    "display_in_cards": false,
     "source_network_group": "Réseau élargi anti-data centers",
-    "updated_at": "2026-10-09"
+    "updated_at": "2026-11-07",
+    "audit_status": "out_of_scope_or_unqualified_for_cezanne"
   },
   {
     "id": "actor_0043",
@@ -786,9 +795,10 @@
       "reseau-critique",
       "orgs"
     ],
-    "display_in_cards": true,
+    "display_in_cards": false,
     "source_network_group": "Réseau élargi anti-data centers",
-    "updated_at": "2026-10-09"
+    "updated_at": "2026-11-07",
+    "audit_status": "out_of_scope_or_unqualified_for_cezanne"
   },
   {
     "id": "actor_0044",
@@ -805,9 +815,10 @@
       "reseau-critique",
       "orgs"
     ],
-    "display_in_cards": true,
+    "display_in_cards": false,
     "source_network_group": "Réseau élargi anti-data centers",
-    "updated_at": "2026-10-09"
+    "updated_at": "2026-11-07",
+    "audit_status": "out_of_scope_or_unqualified_for_cezanne"
   },
   {
     "id": "actor_0045",
@@ -933,7 +944,7 @@
     ],
     "display_in_cards": true,
     "source_network_group": "Opposants nommés",
-    "updated_at": "2026-10-09"
+    "updated_at": "2026-11-07"
   },
   {
     "id": "actor_0052",
@@ -950,9 +961,10 @@
       "reseau-critique",
       "opposants"
     ],
-    "display_in_cards": true,
+    "display_in_cards": false,
     "source_network_group": "Réseau élargi anti-data centers",
-    "updated_at": "2026-10-09"
+    "updated_at": "2026-11-07",
+    "audit_status": "out_of_scope_or_unqualified_for_cezanne"
   },
   {
     "id": "actor_0053",
@@ -969,9 +981,10 @@
       "reseau-critique",
       "opposants"
     ],
-    "display_in_cards": true,
+    "display_in_cards": false,
     "source_network_group": "Réseau élargi anti-data centers",
-    "updated_at": "2026-10-09"
+    "updated_at": "2026-11-07",
+    "audit_status": "out_of_scope_or_unqualified_for_cezanne"
   },
   {
     "id": "actor_0054",
@@ -988,9 +1001,10 @@
       "reseau-critique",
       "opposants"
     ],
-    "display_in_cards": true,
+    "display_in_cards": false,
     "source_network_group": "Réseau élargi anti-data centers",
-    "updated_at": "2026-10-09"
+    "updated_at": "2026-11-07",
+    "audit_status": "out_of_scope_or_unqualified_for_cezanne"
   },
   {
     "id": "actor_0055",
@@ -1007,9 +1021,10 @@
       "reseau-critique",
       "opposants"
     ],
-    "display_in_cards": true,
+    "display_in_cards": false,
     "source_network_group": "Réseau élargi anti-data centers",
-    "updated_at": "2026-10-09"
+    "updated_at": "2026-11-07",
+    "audit_status": "out_of_scope_or_unqualified_for_cezanne"
   },
   {
     "id": "actor_0056",
@@ -1026,9 +1041,10 @@
       "reseau-critique",
       "orgs"
     ],
-    "display_in_cards": true,
+    "display_in_cards": false,
     "source_network_group": "Réseau élargi anti-data centers",
-    "updated_at": "2026-10-09"
+    "updated_at": "2026-11-07",
+    "audit_status": "out_of_scope_or_unqualified_for_cezanne"
   },
   {
     "id": "actor_0057",
@@ -1045,9 +1061,10 @@
       "reseau-critique",
       "orgs"
     ],
-    "display_in_cards": true,
+    "display_in_cards": false,
     "source_network_group": "Réseau élargi anti-data centers",
-    "updated_at": "2026-10-09"
+    "updated_at": "2026-11-07",
+    "audit_status": "out_of_scope_or_unqualified_for_cezanne"
   },
   {
     "id": "actor_0058",
@@ -1065,9 +1082,10 @@
       "orgs",
       "porteurs"
     ],
-    "display_in_cards": true,
+    "display_in_cards": false,
     "source_network_group": "Acteurs institutionnels / techniques",
-    "updated_at": "2026-10-09"
+    "updated_at": "2026-11-07",
+    "audit_status": "out_of_scope_or_unqualified_for_cezanne"
   },
   {
     "id": "actor_0059",
@@ -1084,9 +1102,10 @@
       "institutions",
       "porteurs"
     ],
-    "display_in_cards": true,
+    "display_in_cards": false,
     "source_network_group": "Acteurs institutionnels / techniques",
-    "updated_at": "2026-10-09"
+    "updated_at": "2026-11-07",
+    "audit_status": "out_of_scope_or_unqualified_for_cezanne"
   },
   {
     "id": "actor_0060",
@@ -1103,9 +1122,10 @@
       "institutions",
       "orgs"
     ],
-    "display_in_cards": true,
+    "display_in_cards": false,
     "source_network_group": "Acteurs institutionnels / techniques",
-    "updated_at": "2026-10-09"
+    "updated_at": "2026-11-07",
+    "audit_status": "out_of_scope_or_unqualified_for_cezanne"
   },
   {
     "id": "actor_0061",
@@ -1122,9 +1142,10 @@
       "institutions",
       "orgs"
     ],
-    "display_in_cards": true,
+    "display_in_cards": false,
     "source_network_group": "Acteurs institutionnels / techniques",
-    "updated_at": "2026-10-09"
+    "updated_at": "2026-11-07",
+    "audit_status": "out_of_scope_or_unqualified_for_cezanne"
   },
   {
     "id": "actor_0062",
@@ -1142,9 +1163,10 @@
       "porteurs",
       "energie"
     ],
-    "display_in_cards": true,
+    "display_in_cards": false,
     "source_network_group": "Acteurs institutionnels / techniques",
-    "updated_at": "2026-10-09"
+    "updated_at": "2026-11-07",
+    "audit_status": "out_of_scope_or_unqualified_for_cezanne"
   },
   {
     "id": "actor_0063",
@@ -1180,7 +1202,7 @@
     ],
     "display_in_cards": true,
     "source_network_group": "Opposants nommés",
-    "updated_at": "2026-10-09"
+    "updated_at": "2026-11-07"
   },
   {
     "id": "actor_0065",
@@ -1199,6 +1221,81 @@
     ],
     "display_in_cards": true,
     "source_network_group": "Réseau élargi anti-data centers",
-    "updated_at": "2026-10-09"
+    "updated_at": "2026-11-07"
+  },
+  {
+    "id": "actor_0066",
+    "type": "organization",
+    "name": "Commune de Saint-Victoret",
+    "short_name": "Commune de Saint-Victoret",
+    "description": "Commune riveraine ; des élus ont exprimé une volonté de contester le permis du projet.",
+    "roles": [
+      {
+        "label": "Commune riveraine ; des élus ont exprimé une volonté de contester le permis du projet."
+      }
+    ],
+    "categories": [
+      "institutions",
+      "elus-opp"
+    ],
+    "display_in_cards": true,
+    "source_network_group": "Projet Cézanne — acteurs documentés",
+    "updated_at": "2026-11-07"
+  },
+  {
+    "id": "actor_0067",
+    "type": "organization",
+    "name": "France Nature Environnement Bouches-du-Rhône (FNE 13)",
+    "short_name": "France Nature Environnement Bouches-du-Rhône (FNE 13)",
+    "description": "Association locale requérante contre l'autorisation environnementale de Telehouse.",
+    "roles": [
+      {
+        "label": "Association locale requérante contre l'autorisation environnementale de Telehouse."
+      }
+    ],
+    "categories": [
+      "orgs",
+      "reseau-critique"
+    ],
+    "display_in_cards": true,
+    "source_network_group": "Projet Cézanne — acteurs documentés",
+    "updated_at": "2026-11-07"
+  },
+  {
+    "id": "actor_0068",
+    "type": "organization",
+    "name": "Commune des Pennes-Mirabeau",
+    "short_name": "Commune des Pennes-Mirabeau",
+    "description": "Collectivité ayant approuvé une étude de récupération de chaleur et une déclaration d'intention avec Telehouse.",
+    "roles": [
+      {
+        "label": "Collectivité ayant approuvé une étude de récupération de chaleur et une déclaration d'intention avec Telehouse."
+      }
+    ],
+    "categories": [
+      "institutions",
+      "energie"
+    ],
+    "display_in_cards": true,
+    "source_network_group": "Projet Cézanne — acteurs documentés",
+    "updated_at": "2026-11-07"
+  },
+  {
+    "id": "actor_0069",
+    "type": "person",
+    "name": "Sami Slim",
+    "short_name": "Sami Slim",
+    "description": "Représentant de Telehouse en France, intervenant sur les caractéristiques techniques du projet.",
+    "roles": [
+      {
+        "label": "Représentant de Telehouse en France, intervenant sur les caractéristiques techniques du projet."
+      }
+    ],
+    "categories": [
+      "porteurs"
+    ],
+    "display_in_cards": true,
+    "source_network_group": "Projet Cézanne — acteurs documentés",
+    "updated_at": "2026-11-07"
   }
 ]

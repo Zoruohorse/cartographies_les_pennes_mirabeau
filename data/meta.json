@@ -2,6 +2,9 @@
   "id": "project_pennes_mirabeau",
   "title": "Cartographie interactive — Data Center Cézanne — Sybilles",
   "subtitle": "Projet de data center porté par Telehouse (KDDI) aux Pennes-Mirabeau, cristallisant une forte opposition citoyenne et politique (recours judiciaires) face aux risques de nuisances, d'incendie et de saturation des réseaux.",
-  "last_updated": "2026-10-09",
-  "data_notice": "Données issues du code fourni pour Les Pennes-Mirabeau. Les preuves sont des synthèses fournies, non des citations littérales vérifiées. Les URL individuelles et justificatifs documentaires restent à qualifier."
+  "last_updated": "2026-11-07",
+  "data_notice": "Veille arrêtée au 7 novembre 2026. Les positions qualifiées disposent de preuves reliées à une URL. Certains textes de presse proviennent du classeur transmis et n'ont pas été rouverts en intégralité; les sources sans URL et les relations non documentées sont exclues de la vue qualifiée. Les recours ne préjugent d'aucune décision de justice. Le réseau de chaleur et le raccordement RTE sont à l'étude.",
+  "audit_date": "2026-11-07",
+  "source_workbook": "Pennes-Mirabeau.xlsx, 27 ressources",
+  "qualification_scope": "Projet Cézanne aux Pennes-Mirabeau ; les contextes régionaux ne sont pas des positions locales"
 }

@@ -163,5 +163,42 @@
       "label": "Recours ou opposition juridique citée",
       "directed": false
     }
+  },
+  "timeline": {
+    "grouping": "month",
+    "default_mode": "new",
+    "event_type": "first_documented_position",
+    "categories": [
+      {
+        "id": "elus",
+        "label": "Élus et collectivités",
+        "color": "#d66b9c"
+      },
+      {
+        "id": "associations",
+        "label": "Associations et CIQ",
+        "color": "#ef9e3c"
+      },
+      {
+        "id": "entreprises",
+        "label": "Entreprises et porteurs",
+        "color": "#17a38f"
+      },
+      {
+        "id": "institutions",
+        "label": "Institutions et réseau",
+        "color": "#8b6bc8"
+      },
+      {
+        "id": "other",
+        "label": "Autres acteurs",
+        "color": "#64748b"
+      }
+    ],
+    "fallback_category": "other",
+    "excluded_actor_categories": [
+      "project",
+      "medias"
+    ]
   }
 }

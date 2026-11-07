@@ -1,0 +1,268 @@
+[
+  {
+    "id": "timeline_pennes_actor_0030",
+    "actor_id": "actor_0030",
+    "event_type": "first_documented_position",
+    "date": "2026-02-06",
+    "date_precision": "day",
+    "source_ids": [
+      "source_pennes_20261107_report"
+    ],
+    "confidence": "high",
+    "status": "confirmed",
+    "date_basis": "première source datée rattachée dans le lot traité ; ne signifie pas première expression historique",
+    "summary": "Telehouse est le maître d'ouvrage du centre de données et porte sa demande d'autorisation environnementale."
+  },
+  {
+    "id": "timeline_pennes_actor_0031",
+    "actor_id": "actor_0031",
+    "event_type": "first_documented_position",
+    "date": "2026-02-06",
+    "date_precision": "day",
+    "source_ids": [
+      "source_pennes_20261107_report"
+    ],
+    "confidence": "high",
+    "status": "confirmed",
+    "date_basis": "première source datée rattachée dans le lot traité ; ne signifie pas première expression historique",
+    "summary": "KDDI est la société mère japonaise de Telehouse; ce rattachement capitalistique est établi, sans présumer de son rôle opérationnel direct dans chaque autorisation."
+  },
+  {
+    "id": "timeline_pennes_actor_0038",
+    "actor_id": "actor_0038",
+    "event_type": "first_documented_position",
+    "date": "2026-02-06",
+    "date_precision": "day",
+    "source_ids": [
+      "source_pennes_20261107_report"
+    ],
+    "confidence": "high",
+    "status": "confirmed",
+    "date_basis": "première source datée rattachée dans le lot traité ; ne signifie pas première expression historique",
+    "summary": "Le tribunal administratif de Marseille a désigné le commissaire enquêteur chargé de la consultation; le résultat des recours contentieux n'est pas établi."
+  },
+  {
+    "id": "timeline_pennes_actor_0020",
+    "actor_id": "actor_0020",
+    "event_type": "first_documented_position",
+    "date": "2026-04-16",
+    "date_precision": "day",
+    "source_ids": [
+      "source_pennes_20261107_dcd"
+    ],
+    "confidence": "high",
+    "status": "confirmed",
+    "date_basis": "première source datée rattachée dans le lot traité ; ne signifie pas première expression historique",
+    "summary": "Pierre Gelsi critique le site et a publiquement annoncé une opposition aux conséquences du projet sur les riverains de Saint-Victoret."
+  },
+  {
+    "id": "timeline_pennes_actor_0066",
+    "actor_id": "actor_0066",
+    "event_type": "first_documented_position",
+    "date": "2026-04-16",
+    "date_precision": "day",
+    "source_ids": [
+      "source_pennes_20261107_dcd"
+    ],
+    "confidence": "medium",
+    "status": "confirmed",
+    "date_basis": "première source datée rattachée dans le lot traité ; ne signifie pas première expression historique",
+    "summary": "Des responsables municipaux de Saint-Victoret ont souhaité contester le projet; le dépôt effectif du recours, rapporté dans le classeur, doit être confirmé par une URL canonique."
+  },
+  {
+    "id": "timeline_pennes_actor_0003",
+    "actor_id": "actor_0003",
+    "event_type": "first_documented_position",
+    "date": "2026-04-18",
+    "date_precision": "day",
+    "source_ids": [
+      "source_pennes_20261107_mars"
+    ],
+    "confidence": "high",
+    "status": "confirmed",
+    "date_basis": "première source datée rattachée dans le lot traité ; ne signifie pas première expression historique",
+    "summary": "Le CIQ des Pallières est requérant contre le permis; il demande une évaluation des risques liés à la chaleur et aux incendies."
+  },
+  {
+    "id": "timeline_pennes_actor_0008",
+    "actor_id": "actor_0008",
+    "event_type": "first_documented_position",
+    "date": "2026-04-18",
+    "date_precision": "day",
+    "source_ids": [
+      "source_pennes_20261107_mars"
+    ],
+    "confidence": "high",
+    "status": "confirmed",
+    "date_basis": "première source datée rattachée dans le lot traité ; ne signifie pas première expression historique",
+    "summary": "Christine Muscat, présidente du CIQ des Pallières, conteste le projet à cet emplacement et demande une expertise sur la chaleur rejetée."
+  },
+  {
+    "id": "timeline_pennes_actor_0024",
+    "actor_id": "actor_0024",
+    "event_type": "first_documented_position",
+    "date": "2026-04-18",
+    "date_precision": "day",
+    "source_ids": [
+      "source_pennes_20261107_mars"
+    ],
+    "confidence": "high",
+    "status": "confirmed",
+    "date_basis": "première source datée rattachée dans le lot traité ; ne signifie pas première expression historique",
+    "summary": "Michel Amiel a délivré le permis de construire avant la fin de son mandat; cet acte administratif ne suffit pas à établir à lui seul une position personnelle favorable sans réserve."
+  },
+  {
+    "id": "timeline_pennes_actor_0037",
+    "actor_id": "actor_0037",
+    "event_type": "first_documented_position",
+    "date": "2026-04-27",
+    "date_precision": "day",
+    "source_ids": [
+      "source_pennes_20261107_pref"
+    ],
+    "confidence": "high",
+    "status": "confirmed",
+    "date_basis": "première source datée rattachée dans le lot traité ; ne signifie pas première expression historique",
+    "summary": "La préfecture des Bouches-du-Rhône a délivré l'autorisation environnementale le 27 avril 2026; cette décision administrative ne constitue pas un soutien politique."
+  },
+  {
+    "id": "timeline_pennes_actor_0035",
+    "actor_id": "actor_0035",
+    "event_type": "first_documented_position",
+    "date": "2026-07-06",
+    "date_precision": "day",
+    "source_ids": [
+      "source_pennes_20261107_municipal129"
+    ],
+    "confidence": "high",
+    "status": "confirmed",
+    "date_basis": "première source datée rattachée dans le lot traité ; ne signifie pas première expression historique",
+    "summary": "La SPL Énergies de Provence s'est vu confier un mandat d'études de faisabilité de réseau de chaleur, sans engagement de réalisation du réseau."
+  },
+  {
+    "id": "timeline_pennes_actor_0068",
+    "actor_id": "actor_0068",
+    "event_type": "first_documented_position",
+    "date": "2026-07-06",
+    "date_precision": "day",
+    "source_ids": [
+      "source_pennes_20261107_municipal129"
+    ],
+    "confidence": "high",
+    "status": "confirmed",
+    "date_basis": "première source datée rattachée dans le lot traité ; ne signifie pas première expression historique",
+    "summary": "La commune engage des études de valorisation de chaleur fatale, sans approbation sans réserve de l'implantation industrielle."
+  },
+  {
+    "id": "timeline_pennes_actor_0032",
+    "actor_id": "actor_0032",
+    "event_type": "first_documented_position",
+    "date": "2026-07-15",
+    "date_precision": "day",
+    "source_ids": [
+      "source_pennes_20261107_rte"
+    ],
+    "confidence": "high",
+    "status": "confirmed",
+    "date_basis": "première source datée rattachée dans le lot traité ; ne signifie pas première expression historique",
+    "summary": "RTE conduit des études préalables à un éventuel raccordement de Telehouse, après autorisation préfectorale d'accès aux terrains; le raccordement réalisé n'est pas démontré."
+  },
+  {
+    "id": "timeline_pennes_actor_0005",
+    "actor_id": "actor_0005",
+    "event_type": "first_documented_position",
+    "date": "2026-07-28",
+    "date_precision": "day",
+    "source_ids": [
+      "source_pennes_20261107_communique"
+    ],
+    "confidence": "medium",
+    "status": "confirmed",
+    "date_basis": "première source datée rattachée dans le lot traité ; ne signifie pas première expression historique",
+    "summary": "Des riverains des Pennes-Mirabeau et de Saint-Victoret soutiennent les recours contre le projet."
+  },
+  {
+    "id": "timeline_pennes_actor_0039",
+    "actor_id": "actor_0039",
+    "event_type": "first_documented_position",
+    "date": "2026-07-28",
+    "date_precision": "day",
+    "source_ids": [
+      "source_pennes_20261107_communique"
+    ],
+    "confidence": "high",
+    "status": "confirmed",
+    "date_basis": "première source datée rattachée dans le lot traité ; ne signifie pas première expression historique",
+    "summary": "Le collectif Le Nuage était sous nos pieds relaie et soutient les recours environnementaux contre Telehouse."
+  },
+  {
+    "id": "timeline_pennes_actor_0004",
+    "actor_id": "actor_0004",
+    "event_type": "first_documented_position",
+    "date": "2026-07-29",
+    "date_precision": "day",
+    "source_ids": [
+      "source_pennes_20261107_next"
+    ],
+    "confidence": "high",
+    "status": "confirmed",
+    "date_basis": "première source datée rattachée dans le lot traité ; ne signifie pas première expression historique",
+    "summary": "Le CIQ des Sybilles-Amphoux conteste le projet, évoquant proximité de la colline, chaleur et qualité de vie."
+  },
+  {
+    "id": "timeline_pennes_actor_0009",
+    "actor_id": "actor_0009",
+    "event_type": "first_documented_position",
+    "date": "2026-07-29",
+    "date_precision": "day",
+    "source_ids": [
+      "source_pennes_20261107_next"
+    ],
+    "confidence": "high",
+    "status": "confirmed",
+    "date_basis": "première source datée rattachée dans le lot traité ; ne signifie pas première expression historique",
+    "summary": "Christel Fayette, présidente du CIQ Sybilles-Amphoux, s'oppose à l'implantation à proximité des habitations et de la colline."
+  },
+  {
+    "id": "timeline_pennes_actor_0040",
+    "actor_id": "actor_0040",
+    "event_type": "first_documented_position",
+    "date": "2026-07-29",
+    "date_precision": "day",
+    "source_ids": [
+      "source_pennes_20261107_next"
+    ],
+    "confidence": "high",
+    "status": "confirmed",
+    "date_basis": "première source datée rattachée dans le lot traité ; ne signifie pas première expression historique",
+    "summary": "Data for Good figure parmi les requérants contre l'autorisation environnementale du site Telehouse."
+  },
+  {
+    "id": "timeline_pennes_actor_0065",
+    "actor_id": "actor_0065",
+    "event_type": "first_documented_position",
+    "date": "2026-07-29",
+    "date_precision": "day",
+    "source_ids": [
+      "source_pennes_20261107_next"
+    ],
+    "confidence": "high",
+    "status": "confirmed",
+    "date_basis": "première source datée rattachée dans le lot traité ; ne signifie pas première expression historique",
+    "summary": "Le MNLE Réseau Humanité et Nature participe, avec son comité départemental, à un recours environnemental distinct."
+  },
+  {
+    "id": "timeline_pennes_actor_0067",
+    "actor_id": "actor_0067",
+    "event_type": "first_documented_position",
+    "date": "2026-07-29",
+    "date_precision": "day",
+    "source_ids": [
+      "source_pennes_20261107_next"
+    ],
+    "confidence": "high",
+    "status": "confirmed",
+    "date_basis": "première source datée rattachée dans le lot traité ; ne signifie pas première expression historique",
+    "summary": "FNE Bouches-du-Rhône est requérante à un recours environnemental contre l'autorisation du site Cézanne."
+  }
+]

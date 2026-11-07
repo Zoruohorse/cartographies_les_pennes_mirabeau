@@ -1,0 +1,237 @@
+{
+  "grievances": null,
+  "grievances_note": "Les formulations expriment des griefs attribués, et non des risques avérés.",
+  "grievances_legacy_source": "Données antérieures non sourcées exclues des preuves documentaires",
+  "griefs": [
+    {
+      "title": "Incendie, chaleur fatale et proximité des habitants",
+      "icon": "🔥",
+      "text": "Les CIQ et associations redoutent un accroissement du risque d'incendie à proximité d'espaces boisés. L'effet thermique réel du projet n'est pas démontré par ces prises de position.",
+      "evidence_ids": [
+        "evidence_pennes_20261107_005",
+        "evidence_pennes_20261107_006"
+      ]
+    },
+    {
+      "title": "Recours contre les autorisations",
+      "icon": "⚖️",
+      "text": "Le recours contre le permis et les actions environnementales reposent sur des démarches distinctes; aucun jugement définitif n'est documenté dans le présent lot.",
+      "evidence_ids": [
+        "evidence_pennes_20261107_002",
+        "evidence_pennes_20261107_025",
+        "evidence_pennes_20261107_028"
+      ]
+    },
+    {
+      "title": "Gestion de l'eau et du foncier",
+      "icon": "💧",
+      "text": "Des élus et riverains contestent l'implantation et demandent des réponses sur les réseaux et les effets sur le voisinage; leurs interrogations ne prouvent pas de pollution effective.",
+      "evidence_ids": [
+        "evidence_pennes_20261107_009",
+        "evidence_pennes_20261107_008"
+      ]
+    },
+    {
+      "title": "Récupération de chaleur et coûts publics",
+      "icon": "♨️",
+      "text": "La commune et la SPL ont engagé des études; ni le tracé ni le montage financier ni la réalisation d'un réseau de chaleur ne sont définitivement arrêtés.",
+      "evidence_ids": [
+        "evidence_pennes_20261107_020",
+        "evidence_pennes_20261107_031"
+      ]
+    },
+    {
+      "title": "Concertation et légitimité locale",
+      "icon": "🗣️",
+      "text": "Les CIQ critiquent les conditions d'information et de consultation; le rapport officiel atteste une procédure de consultation publique de septembre à décembre 2025.",
+      "evidence_ids": [
+        "evidence_pennes_20261107_001",
+        "evidence_pennes_20261107_023"
+      ]
+    }
+  ],
+  "vigilance": [
+    {
+      "title": "Recours de la commune de Saint-Victoret",
+      "text": "Le classeur reproduit un article de La Provence affirmant le dépôt effectif en mai 2026, mais uniquement via un lien Google News; seule l'intention antérieure a ici une URL indépendante contrôlée. Ne pas présenter le dépôt comme judiciairement vérifié.",
+      "evidence_ids": [
+        "evidence_pennes_20261107_029"
+      ]
+    },
+    {
+      "title": "Ne pas confondre puissances",
+      "text": "48 MW de puissance commerciale annoncée et 70 MW de demande de raccordement ne décrivent ni le même périmètre ni une consommation annuelle constatée.",
+      "evidence_ids": [
+        "evidence_pennes_20261107_045"
+      ]
+    },
+    {
+      "title": "Réseau de chaleur encore incertain",
+      "text": "Les délibérations 129x26 et 130x26 portent sur un mandat d'étude et une déclaration d'intention, pas sur un réseau déjà réalisé.",
+      "evidence_ids": [
+        "evidence_pennes_20261107_020",
+        "evidence_pennes_20261107_031"
+      ]
+    },
+    {
+      "title": "Évolution des projets de raccordement",
+      "text": "L'arrêté du 15 juillet 2026 autorise des investigations RTE, sans démontrer une ligne construite, son tracé final ou sa mise en service.",
+      "evidence_ids": [
+        "evidence_pennes_20261107_018"
+      ]
+    },
+    {
+      "title": "Émetteurs d'avis et acteurs administratifs",
+      "text": "La délivrance d'une autorisation ou un avis administratif ne justifie pas un classement politique favorable pour la préfecture, RTE ou le SDIS.",
+      "evidence_ids": [
+        "evidence_pennes_20261107_022",
+        "evidence_pennes_20261107_019"
+      ]
+    },
+    {
+      "title": "Acteurs hors territoire et noms incomplets",
+      "text": "Les personnes identifiées uniquement par un prénom ou intervenant sur MRS6, Gardanne ou Wissous ne sont pas présentées comme opposants directs à Cézanne sans preuve propre.",
+      "evidence_ids": []
+    }
+  ],
+  "milestones": [
+    {
+      "date": "2025-09-22",
+      "period_precision": "day",
+      "title": "Ouverture de la consultation publique",
+      "details": "Consultation électronique relative à l'autorisation environnementale du projet Telehouse, jusqu'au 22 décembre 2025.",
+      "status": "documented",
+      "evidence_ids": [
+        "evidence_pennes_20261107_046"
+      ]
+    },
+    {
+      "date": "2026-02-18",
+      "period_precision": "day",
+      "title": "Permis de construire délivré",
+      "details": "Le précédent maire Michel Amiel a signé le permis; cet acte ne constitue pas l'autorisation environnementale.",
+      "status": "documented",
+      "evidence_ids": [
+        "evidence_pennes_20261107_047"
+      ]
+    },
+    {
+      "date": "2026-04-18",
+      "period_precision": "day",
+      "title": "Recours porté par les CIQ",
+      "details": "Les CIQ des Pallières et des Sybilles, avec des riverains, engagent une contestation du permis de construire.",
+      "status": "documented",
+      "evidence_ids": [
+        "evidence_pennes_20261107_048"
+      ]
+    },
+    {
+      "date": "2026-04-27",
+      "period_precision": "day",
+      "title": "Autorisation environnementale préfectorale",
+      "details": "Arrêté préfectoral accordant l'autorisation environnementale du projet Telehouse.",
+      "status": "documented",
+      "evidence_ids": [
+        "evidence_pennes_20261107_049"
+      ]
+    },
+    {
+      "date": "2026-06-02",
+      "period_precision": "day",
+      "title": "Le maire ne retire pas le permis",
+      "details": "Romain Amaro indique que le risque contentieux ne permet pas de retirer le permis sans conséquences; ses réserves sur le projet demeurent.",
+      "status": "documented",
+      "evidence_ids": [
+        "evidence_pennes_20261107_050"
+      ]
+    },
+    {
+      "date": "2026-07-06",
+      "period_precision": "day",
+      "title": "Étude de récupération de chaleur",
+      "details": "Le conseil municipal délibère sur l'étude confiée à la SPL Énergies de Provence et une déclaration d'intention avec Telehouse.",
+      "status": "documented",
+      "evidence_ids": [
+        "evidence_pennes_20261107_051"
+      ]
+    },
+    {
+      "date": "2026-07-15",
+      "period_precision": "day",
+      "title": "Études RTE autorisées",
+      "details": "Arrêté préfectoral permettant l'accès à certaines propriétés pour les études de raccordement; travaux et tracé définitif non établis.",
+      "status": "documented",
+      "evidence_ids": [
+        "evidence_pennes_20261107_052"
+      ]
+    },
+    {
+      "date": "2026-07-28",
+      "period_precision": "day",
+      "title": "Recours environnementaux associatifs",
+      "details": "Annonce de recours distincts impliquant des CIQ, FNE 13, Data for Good et le MNLE.",
+      "status": "documented",
+      "evidence_ids": [
+        "evidence_pennes_20261107_053"
+      ]
+    }
+  ],
+  "fact_sheet": [
+    {
+      "label": "Terrain du projet",
+      "value": "60 335 m²",
+      "qualifier": "Emprise décrite dans le rapport du commissaire enquêteur, sans préjuger des surfaces imperméabilisées.",
+      "evidence_ids": [
+        "evidence_pennes_20261107_054"
+      ]
+    },
+    {
+      "label": "Bâtiment décrit au dossier",
+      "value": "22 177 m²",
+      "qualifier": "Surface indiquée pour un bâtiment dans le dossier de consultation, distincte de la présentation commerciale de huit modules.",
+      "evidence_ids": [
+        "evidence_pennes_20261107_055"
+      ]
+    },
+    {
+      "label": "Espaces verts",
+      "value": "17 890 m²",
+      "qualifier": "Surface projetée au dossier, non une surface constatée après construction.",
+      "evidence_ids": [
+        "evidence_pennes_20261107_056"
+      ]
+    },
+    {
+      "label": "Voiries et parkings",
+      "value": "10 395 m²",
+      "qualifier": "Surface projetée au dossier, non une emprise routière à l'échelle de la commune.",
+      "evidence_ids": [
+        "evidence_pennes_20261107_057"
+      ]
+    },
+    {
+      "label": "Terrain prévu pour RTE",
+      "value": "5 000 m²",
+      "qualifier": "Rétrocession prévue au dossier du commissaire enquêteur; ne prouve pas un transfert juridique déjà réalisé.",
+      "evidence_ids": [
+        "evidence_pennes_20261107_058"
+      ]
+    },
+    {
+      "label": "Puissance commerciale annoncée",
+      "value": "48 MW",
+      "qualifier": "D'après les déclarations du porteur reprises par Next; à distinguer de la demande de raccordement.",
+      "evidence_ids": [
+        "evidence_pennes_20261107_059"
+      ]
+    },
+    {
+      "label": "Demande de raccordement électrique",
+      "value": "70 MW",
+      "qualifier": "Puissance demandée à RTE, et non consommation annuelle ou raccordement effectivement réalisé.",
+      "evidence_ids": [
+        "evidence_pennes_20261107_060"
+      ]
+    }
+  ]
+}

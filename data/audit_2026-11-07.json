@@ -1,0 +1,1234 @@
+{
+  "date": "2026-11-07",
+  "baseline": {
+    "actors": 65,
+    "claims": 57,
+    "evidence": 58,
+    "relations": 87,
+    "sources_without_url": 9
+  },
+  "result": {
+    "actors": 69,
+    "claims": 61,
+    "evidence": 89,
+    "relations": 99,
+    "qualified_sources": 15,
+    "timeline": 19,
+    "qualified_existing_positions": 28,
+    "new_actor_ids": [
+      "actor_0066",
+      "actor_0067",
+      "actor_0068",
+      "actor_0069"
+    ],
+    "new_relation_ids": [
+      "relation_0088",
+      "relation_0089",
+      "relation_0090",
+      "relation_0091",
+      "relation_0092",
+      "relation_0093",
+      "relation_0094",
+      "relation_0095",
+      "relation_0096",
+      "relation_0097",
+      "relation_0098",
+      "relation_0099"
+    ],
+    "modified_relation_ids": [
+      "relation_0001",
+      "relation_0002",
+      "relation_0003",
+      "relation_0004",
+      "relation_0007",
+      "relation_0008",
+      "relation_0016",
+      "relation_0018",
+      "relation_0019",
+      "relation_0020",
+      "relation_0021",
+      "relation_0023",
+      "relation_0024",
+      "relation_0025",
+      "relation_0026",
+      "relation_0029",
+      "relation_0030",
+      "relation_0031",
+      "relation_0033",
+      "relation_0034",
+      "relation_0035",
+      "relation_0036",
+      "relation_0037",
+      "relation_0038",
+      "relation_0039"
+    ],
+    "hidden_context_actor_ids": [
+      "actor_0010",
+      "actor_0011",
+      "actor_0012",
+      "actor_0013",
+      "actor_0014",
+      "actor_0015",
+      "actor_0016",
+      "actor_0042",
+      "actor_0043",
+      "actor_0044",
+      "actor_0052",
+      "actor_0053",
+      "actor_0054",
+      "actor_0055",
+      "actor_0056",
+      "actor_0057",
+      "actor_0058",
+      "actor_0059",
+      "actor_0060",
+      "actor_0061",
+      "actor_0062"
+    ],
+    "unqualified_evidence_remaining": 29
+  },
+  "modified_claims": [
+    {
+      "id": "claim_0001",
+      "actor_id": "actor_0002",
+      "previous": {
+        "value": "opposed",
+        "certainty": "high",
+        "summary": "Maintient le recours juridique en cours et exige publiquement davantage de garanties environnementales."
+      },
+      "new_value": {
+        "value": "opposed",
+        "certainty": "high",
+        "summary": "Le collectif local participe aux recours contre le permis et conteste le choix du site des Sybilles.",
+        "evidence_ids": [
+          "evidence_pennes_20261107_001"
+        ]
+      },
+      "source": "https://www.lamarseillaise.fr/environnement/les-opposants-au-data-center-durcissent-le-ton-MG20510509"
+    },
+    {
+      "id": "claim_0002",
+      "actor_id": "actor_0003",
+      "previous": {
+        "value": "opposed",
+        "certainty": "high",
+        "summary": "Partie prenante active du recours collectif contre le permis de construire du site."
+      },
+      "new_value": {
+        "value": "opposed",
+        "certainty": "high",
+        "summary": "Le CIQ des Pallières est requérant contre le permis; il demande une évaluation des risques liés à la chaleur et aux incendies.",
+        "evidence_ids": [
+          "evidence_pennes_20261107_002"
+        ]
+      },
+      "source": "https://marsactu.fr/un-recours-contre-le-projet-de-data-center-aux-pennes-mirabeau-fragilise-les-plans-du-maire/"
+    },
+    {
+      "id": "claim_0003",
+      "actor_id": "actor_0004",
+      "previous": {
+        "value": "opposed",
+        "certainty": "high",
+        "summary": "Mobilisé contre les nuisances immédiates, le traitement de la chaleur fatale et l'absence de garanties de sécurité."
+      },
+      "new_value": {
+        "value": "opposed",
+        "certainty": "high",
+        "summary": "Le CIQ des Sybilles-Amphoux conteste le projet, évoquant proximité de la colline, chaleur et qualité de vie.",
+        "evidence_ids": [
+          "evidence_pennes_20261107_003"
+        ]
+      },
+      "source": "https://next.ink/brief-article/face-aux-risques-dincendie-trois-associations-sopposent-a-un-projet-de-data-center/"
+    },
+    {
+      "id": "claim_0004",
+      "actor_id": "actor_0005",
+      "previous": {
+        "value": "opposed",
+        "certainty": "high",
+        "summary": "Contestent fermement l’absence de concertation préalable, les risques environnementaux et les futures nuisances."
+      },
+      "new_value": {
+        "value": "opposed",
+        "certainty": "medium",
+        "summary": "Des riverains des Pennes-Mirabeau et de Saint-Victoret soutiennent les recours contre le projet.",
+        "evidence_ids": [
+          "evidence_pennes_20261107_004"
+        ]
+      },
+      "source": "https://lenuageetaitsousnospieds.org/articles/2026-07-28-data-center-aux-pennes-mirabeau-nos-vies-plutot-que-leurs-incendies.html"
+    },
+    {
+      "id": "claim_0007",
+      "actor_id": "actor_0008",
+      "previous": {
+        "value": "opposed",
+        "certainty": "high",
+        "summary": "Maintient le recours pour être formellement entendue, obtenir des réponses et contester le projet tel qu'il est présenté."
+      },
+      "new_value": {
+        "value": "opposed",
+        "certainty": "high",
+        "summary": "Christine Muscat, présidente du CIQ des Pallières, conteste le projet à cet emplacement et demande une expertise sur la chaleur rejetée.",
+        "evidence_ids": [
+          "evidence_pennes_20261107_005"
+        ]
+      },
+      "source": "https://marsactu.fr/un-recours-contre-le-projet-de-data-center-aux-pennes-mirabeau-fragilise-les-plans-du-maire/"
+    },
+    {
+      "id": "claim_0008",
+      "actor_id": "actor_0009",
+      "previous": {
+        "value": "opposed",
+        "certainty": "high",
+        "summary": "Alerte de manière répétée sur les excavations, la gestion de la chaleur fatale et les risques sanitaires afférents. Porte-voix des riverains refusant de sacrifier la qualité de vie et l'environnement local pour une infrastructure technologique."
+      },
+      "new_value": {
+        "value": "opposed",
+        "certainty": "high",
+        "summary": "Christel Fayette, présidente du CIQ Sybilles-Amphoux, s'oppose à l'implantation à proximité des habitations et de la colline.",
+        "evidence_ids": [
+          "evidence_pennes_20261107_006"
+        ]
+      },
+      "source": "https://next.ink/brief-article/face-aux-risques-dincendie-trois-associations-sopposent-a-un-projet-de-data-center/"
+    },
+    {
+      "id": "claim_0016",
+      "actor_id": "actor_0017",
+      "previous": {
+        "value": "opposed",
+        "certainty": "high",
+        "summary": "S’est dit farouchement contre le projet en l’état, mais se heurte au risque juridique et financier d’un retrait du permis."
+      },
+      "new_value": {
+        "value": "opposed",
+        "certainty": "high",
+        "summary": "Romain Amaro conteste le projet en l'état, mais n'a pas retiré le permis; il a engagé une démarche d'étude de récupération de chaleur.",
+        "evidence_ids": [
+          "evidence_pennes_20261107_007"
+        ]
+      },
+      "source": "https://www.ici.fr/provence-alpes-cote-d-azur/bouches-du-rhone-13/les-pennes-mirabeau/data-center-des-pennes-mirabeau-le-maire-renonce-a-retirer-le-permis-de-construire-1992800"
+    },
+    {
+      "id": "claim_0018",
+      "actor_id": "actor_0019",
+      "previous": {
+        "value": "opposed",
+        "certainty": "high",
+        "summary": "Alerte de manière globale sur la santé, la tranquillité, les inondations, le paysage et les lignes à haute tension."
+      },
+      "new_value": {
+        "value": "opposed",
+        "certainty": "medium",
+        "summary": "Éric Léotard estime nécessaire un recours pour conserver une possibilité de négocier sur les incidences du projet.",
+        "evidence_ids": [
+          "evidence_pennes_20261107_008"
+        ]
+      },
+      "source": "https://france3-regions.franceinfo.fr/provence-alpes-cote-d-azur/bouches-du-rhone/marseille/vous-etes-deja-fortement-pollues-donc-un-peu-plus-un-peu-moins-un-projet-de-data-center-declenche-la-resistance-d-elus-et-de-riverains-3337127.html"
+    },
+    {
+      "id": "claim_0019",
+      "actor_id": "actor_0020",
+      "previous": {
+        "value": "opposed",
+        "certainty": "high",
+        "summary": "Estime fermement que le data center n’a rien à faire dans un secteur caractérisé par l'habitat et l’agriculture."
+      },
+      "new_value": {
+        "value": "opposed",
+        "certainty": "high",
+        "summary": "Pierre Gelsi critique le site et a publiquement annoncé une opposition aux conséquences du projet sur les riverains de Saint-Victoret.",
+        "evidence_ids": [
+          "evidence_pennes_20261107_009"
+        ]
+      },
+      "source": "https://www.datacenterdynamics.com/en/news/change-of-mayor-prompts-appeal-against-data-center-planned-in-provence-france/"
+    },
+    {
+      "id": "claim_0020",
+      "actor_id": "actor_0021",
+      "previous": {
+        "value": "opposed",
+        "certainty": "high",
+        "summary": "Annonce qu’il attaquera le permis si le préfet l’accorde et critique vertement l’absence d’accord des habitants."
+      },
+      "new_value": {
+        "value": "opposed",
+        "certainty": "high",
+        "summary": "Hervé Fabre-Aubrespy se déclare opposé au projet et critique l'absence de consultation des habitants.",
+        "evidence_ids": [
+          "evidence_pennes_20261107_010"
+        ]
+      },
+      "source": "https://www.laprovence.com/article/region/27788085798666/municipales-2026-aux-pennes-mirabeau-le-data-center-et-l-extension-de-plan-de-campagne-au-centre-du-scrutin?id=27788085798666"
+    },
+    {
+      "id": "claim_0021",
+      "actor_id": "actor_0022",
+      "previous": {
+        "value": "opposed",
+        "certainty": "high",
+        "summary": "Se déclare contre le projet industriel Caps et invoque directement le principe de précaution."
+      },
+      "new_value": {
+        "value": "opposed",
+        "certainty": "high",
+        "summary": "Maximilien Fusone se déclare contre le projet et invoque le principe de précaution; les risques avancés sont ses préoccupations, non des faits démontrés.",
+        "evidence_ids": [
+          "evidence_pennes_20261107_011"
+        ]
+      },
+      "source": "https://www.laprovence.com/article/region/27788085798666/municipales-2026-aux-pennes-mirabeau-le-data-center-et-l-extension-de-plan-de-campagne-au-centre-du-scrutin?id=27788085798666"
+    },
+    {
+      "id": "claim_0023",
+      "actor_id": "actor_0024",
+      "previous": {
+        "value": "neutral",
+        "certainty": "high",
+        "summary": "A signé le permis de construire avant les élections, ce qui cristallise désormais une grande partie des critiques locales."
+      },
+      "new_value": {
+        "value": "neutral",
+        "certainty": "high",
+        "summary": "Michel Amiel a délivré le permis de construire avant la fin de son mandat; cet acte administratif ne suffit pas à établir à lui seul une position personnelle favorable sans réserve.",
+        "evidence_ids": [
+          "evidence_pennes_20261107_012"
+        ]
+      },
+      "source": "https://marsactu.fr/un-recours-contre-le-projet-de-data-center-aux-pennes-mirabeau-fragilise-les-plans-du-maire/"
+    },
+    {
+      "id": "claim_0024",
+      "actor_id": "actor_0025",
+      "previous": {
+        "value": "favorable",
+        "certainty": "high",
+        "summary": "Seul candidat explicitement favorable dans le débat municipal, justifiant sa position par l'emploi et les recettes fiscales."
+      },
+      "new_value": {
+        "value": "favorable",
+        "certainty": "high",
+        "summary": "Grégory Bouchet a défendu l'implantation au cours de la campagne municipale, en avançant des retombées financières et des emplois prévisionnels.",
+        "evidence_ids": [
+          "evidence_pennes_20261107_013"
+        ]
+      },
+      "source": "https://www.laprovence.com/article/region/27788085798666/municipales-2026-aux-pennes-mirabeau-le-data-center-et-l-extension-de-plan-de-campagne-au-centre-du-scrutin?id=27788085798666"
+    },
+    {
+      "id": "claim_0025",
+      "actor_id": "actor_0026",
+      "previous": {
+        "value": "neutral",
+        "certainty": "medium",
+        "summary": "Plutôt favorable sur le principe à l'accueil d'un data center, mais estime que le secteur choisi est inadéquat."
+      },
+      "new_value": {
+        "value": "neutral",
+        "certainty": "medium",
+        "summary": "Jean-Philippe Musso reconnaît le besoin possible de data centers, mais estime inadapté le site des Sybilles et défend une localisation différente.",
+        "evidence_ids": [
+          "evidence_pennes_20261107_014"
+        ]
+      },
+      "source": "https://www.laprovence.com/article/societe/3952108706065314/data-center-aux-pennes-mirabeau-telehouse-veut-rassurer?id=3952108706065314"
+    },
+    {
+      "id": "claim_0026",
+      "actor_id": "actor_0027",
+      "previous": {
+        "value": "neutral",
+        "certainty": "medium",
+        "summary": "Se montre intéressé par les perspectives du réseau de chaleur fatale, tout en jugeant qu’il est prématuré de conclure."
+      },
+      "new_value": {
+        "value": "neutral",
+        "certainty": "high",
+        "summary": "Laurent Simon évoque l'intérêt potentiel de la chaleur fatale pour un réseau, tout en soulignant la nécessité d'études et de l'accord des collectivités.",
+        "evidence_ids": [
+          "evidence_pennes_20261107_015"
+        ]
+      },
+      "source": "https://www.laprovence.com/article/region/1147517383055515/data-center-des-pennes-mirabeau-relations-glaciales-entre-le-maire-et-la-societe-japonaise-telehouse?id=1147517383055515"
+    },
+    {
+      "id": "claim_0029",
+      "actor_id": "actor_0030",
+      "previous": {
+        "value": "favorable",
+        "certainty": "high",
+        "summary": "Déploie un complexe de huit bâtiments prévus sur environ six hectares, assumant le développement local."
+      },
+      "new_value": {
+        "value": "favorable",
+        "certainty": "high",
+        "summary": "Telehouse est le maître d'ouvrage du centre de données et porte sa demande d'autorisation environnementale.",
+        "evidence_ids": [
+          "evidence_pennes_20261107_016"
+        ]
+      },
+      "source": "https://www.registre-dematerialise.fr/upload/boxes/6580/documents/69ea1a79cfbb9_TELEHOUSE%20-%20Rapport%20du%20Commissaire%20enque%CC%82teur.pdf"
+    },
+    {
+      "id": "claim_0030",
+      "actor_id": "actor_0031",
+      "previous": {
+        "value": "favorable",
+        "certainty": "high",
+        "summary": "Actionnaire de l'acteur industriel et financier indirect, cautionnant la viabilité du projet."
+      },
+      "new_value": {
+        "value": "favorable",
+        "certainty": "high",
+        "summary": "KDDI est la société mère japonaise de Telehouse; ce rattachement capitalistique est établi, sans présumer de son rôle opérationnel direct dans chaque autorisation.",
+        "evidence_ids": [
+          "evidence_pennes_20261107_017"
+        ]
+      },
+      "source": "https://www.registre-dematerialise.fr/upload/boxes/6580/documents/69ea1a79cfbb9_TELEHOUSE%20-%20Rapport%20du%20Commissaire%20enque%CC%82teur.pdf"
+    },
+    {
+      "id": "claim_0031",
+      "actor_id": "actor_0032",
+      "previous": {
+        "value": "neutral",
+        "certainty": "high",
+        "summary": "Intervient sur le raccordement électrique ; mention d’un enfouissement total des lignes selon les échanges."
+      },
+      "new_value": {
+        "value": "neutral",
+        "certainty": "high",
+        "summary": "RTE conduit des études préalables à un éventuel raccordement de Telehouse, après autorisation préfectorale d'accès aux terrains; le raccordement réalisé n'est pas démontré.",
+        "evidence_ids": [
+          "evidence_pennes_20261107_018"
+        ]
+      },
+      "source": "https://politique.pappers.fr/commune/document/7bb9436be808c101faf6fba238c440fe"
+    },
+    {
+      "id": "claim_0033",
+      "actor_id": "actor_0034",
+      "previous": {
+        "value": "neutral",
+        "certainty": "high",
+        "summary": "A émis un avis favorable sur le dossier malgré les fortes inquiétudes riveraines sur le risque incendie."
+      },
+      "new_value": {
+        "value": "neutral",
+        "certainty": "medium",
+        "summary": "Le SDIS 13 est présenté comme ayant rendu un avis favorable sur les dispositifs de sécurité dans la communication de Telehouse; cela ne vaut pas preuve d'absence de risque.",
+        "evidence_ids": [
+          "evidence_pennes_20261107_019"
+        ]
+      },
+      "source": "https://www.laprovence.com/article/societe/3952108706065314/data-center-aux-pennes-mirabeau-telehouse-veut-rassurer?id=3952108706065314"
+    },
+    {
+      "id": "claim_0034",
+      "actor_id": "actor_0035",
+      "previous": {
+        "value": "neutral",
+        "certainty": "high",
+        "summary": "Sollicitée officiellement pour modéliser et réfléchir à un réseau de récupération de chaleur fatale."
+      },
+      "new_value": {
+        "value": "neutral",
+        "certainty": "high",
+        "summary": "La SPL Énergies de Provence s'est vu confier un mandat d'études de faisabilité de réseau de chaleur, sans engagement de réalisation du réseau.",
+        "evidence_ids": [
+          "evidence_pennes_20261107_020"
+        ]
+      },
+      "source": "https://www.pennes-mirabeau.org/images/pdf/ville/delib2026/07/129x26.pdf"
+    },
+    {
+      "id": "claim_0035",
+      "actor_id": "actor_0036",
+      "previous": {
+        "value": "neutral",
+        "certainty": "high",
+        "summary": "Impliquée dans la cession initiale du terrain avant sa revente à l'opérateur Telehouse."
+      },
+      "new_value": {
+        "value": "neutral",
+        "certainty": "medium",
+        "summary": "SPLA Pays d'Aix Territoires est citée dans la cession foncière initiale, sans rôle démontré dans l'exploitation du data center.",
+        "evidence_ids": [
+          "evidence_pennes_20261107_021"
+        ]
+      },
+      "source": "https://www.laprovence.com/article/region/1147517383055515/data-center-des-pennes-mirabeau-relations-glaciales-entre-le-maire-et-la-societe-japonaise-telehouse?id=1147517383055515"
+    },
+    {
+      "id": "claim_0036",
+      "actor_id": "actor_0037",
+      "previous": {
+        "value": "neutral",
+        "certainty": "high",
+        "summary": "Cité face au risque que le représentant de l'État ne ferme unilatéralement la possibilité de négociation locale."
+      },
+      "new_value": {
+        "value": "neutral",
+        "certainty": "high",
+        "summary": "La préfecture des Bouches-du-Rhône a délivré l'autorisation environnementale le 27 avril 2026; cette décision administrative ne constitue pas un soutien politique.",
+        "evidence_ids": [
+          "evidence_pennes_20261107_022"
+        ]
+      },
+      "source": "https://www.bouches-du-rhone.gouv.fr/Publications/Publications-environnementales/Installations-Classees-pour-la-Protection-de-l-Environnement-ICPE/Installations-Classees-soumises-a-autorisation-et-a-enregistrement-Carrieres-et-Geothermie/Les-Pennes-Mirabeau"
+    },
+    {
+      "id": "claim_0037",
+      "actor_id": "actor_0038",
+      "previous": {
+        "value": "neutral",
+        "certainty": "high",
+        "summary": "Saisie par le recours de la mairie de Saint-Victoret et par le recours collectif des CIQ et habitants."
+      },
+      "new_value": {
+        "value": "neutral",
+        "certainty": "high",
+        "summary": "Le tribunal administratif de Marseille a désigné le commissaire enquêteur chargé de la consultation; le résultat des recours contentieux n'est pas établi.",
+        "evidence_ids": [
+          "evidence_pennes_20261107_023"
+        ]
+      },
+      "source": "https://www.registre-dematerialise.fr/upload/boxes/6580/documents/69ea1a79cfbb9_TELEHOUSE%20-%20Rapport%20du%20Commissaire%20enque%CC%82teur.pdf"
+    },
+    {
+      "id": "claim_0038",
+      "actor_id": "actor_0039",
+      "previous": {
+        "value": "opposed",
+        "certainty": "high",
+        "summary": "Mène des enquêtes, formations, balades urbaines et porte une bataille culturelle pour exiger un moratoire."
+      },
+      "new_value": {
+        "value": "opposed",
+        "certainty": "high",
+        "summary": "Le collectif Le Nuage était sous nos pieds relaie et soutient les recours environnementaux contre Telehouse.",
+        "evidence_ids": [
+          "evidence_pennes_20261107_024"
+        ]
+      },
+      "source": "https://lenuageetaitsousnospieds.org/articles/2026-07-28-data-center-aux-pennes-mirabeau-nos-vies-plutot-que-leurs-incendies.html"
+    },
+    {
+      "id": "claim_0039",
+      "actor_id": "actor_0040",
+      "previous": {
+        "value": "opposed",
+        "certainty": "high",
+        "summary": "Vient en support des oppositions locales, notamment pour disséquer les études d'impact et les failles juridiques."
+      },
+      "new_value": {
+        "value": "opposed",
+        "certainty": "high",
+        "summary": "Data for Good figure parmi les requérants contre l'autorisation environnementale du site Telehouse.",
+        "evidence_ids": [
+          "evidence_pennes_20261107_025"
+        ]
+      },
+      "source": "https://next.ink/brief-article/face-aux-risques-dincendie-trois-associations-sopposent-a-un-projet-de-data-center/"
+    },
+    {
+      "id": "claim_0044",
+      "actor_id": "actor_0051",
+      "previous": {
+        "value": "opposed",
+        "certainty": "high",
+        "summary": "Redoute publiquement le risque d'incendie inhérent à l'implantation du data center Cézanne."
+      },
+      "new_value": {
+        "value": "opposed",
+        "certainty": "high",
+        "summary": "Philippe Chabeaudy, lié aux CIQ requérants, critique notamment la récupération de chaleur annoncée et les risques perçus de chaleur et d'incendie.",
+        "evidence_ids": [
+          "evidence_pennes_20261107_026"
+        ]
+      },
+      "source": "https://www.lamarseillaise.fr/environnement/les-opposants-au-data-center-durcissent-le-ton-MG20510509"
+    },
+    {
+      "id": "claim_0056",
+      "actor_id": "actor_0064",
+      "previous": {
+        "value": "opposed",
+        "certainty": "high",
+        "summary": "Considère le site comme inadapté et juge que le projet a contourné les procédures, annonçant une judiciarisation accrue."
+      },
+      "new_value": {
+        "value": "opposed",
+        "certainty": "high",
+        "summary": "Christian Pellicani, représentant du MNLE, juge inadapté l'emplacement et soutient les démarches associatives.",
+        "evidence_ids": [
+          "evidence_pennes_20261107_027"
+        ]
+      },
+      "source": "https://www.lamarseillaise.fr/environnement/les-opposants-au-data-center-durcissent-le-ton-MG20510509"
+    },
+    {
+      "id": "claim_0057",
+      "actor_id": "actor_0065",
+      "previous": {
+        "value": "opposed",
+        "certainty": "high",
+        "summary": "Apporte un soutien juridique et stratégique aux CIQ en déposant un recours contre l'autorisation environnementale."
+      },
+      "new_value": {
+        "value": "opposed",
+        "certainty": "high",
+        "summary": "Le MNLE Réseau Humanité et Nature participe, avec son comité départemental, à un recours environnemental distinct.",
+        "evidence_ids": [
+          "evidence_pennes_20261107_028"
+        ]
+      },
+      "source": "https://next.ink/brief-article/face-aux-risques-dincendie-trois-associations-sopposent-a-un-projet-de-data-center/"
+    }
+  ],
+  "modified_relations": [
+    {
+      "id": "relation_0001",
+      "old": {
+        "type": "associated_with",
+        "source_id": "project_pennes_mirabeau",
+        "target_id": "actor_0002",
+        "summary": "position / rôle — relation représentée dans le réseau source des Pennes-Mirabeau ; la nature précise du lien reste à qualifier par une preuve documentaire individuelle.",
+        "certainty": "medium",
+        "evidence_ids": []
+      },
+      "new": {
+        "type": "opposes",
+        "source_id": "actor_0002",
+        "target_id": "project_pennes_mirabeau",
+        "summary": "Le collectif local participe aux recours contre le permis et conteste le choix du site des Sybilles.",
+        "evidence_ids": [
+          "evidence_pennes_20261107_001"
+        ]
+      }
+    },
+    {
+      "id": "relation_0002",
+      "old": {
+        "type": "associated_with",
+        "source_id": "project_pennes_mirabeau",
+        "target_id": "actor_0003",
+        "summary": "position / rôle — relation représentée dans le réseau source des Pennes-Mirabeau ; la nature précise du lien reste à qualifier par une preuve documentaire individuelle.",
+        "certainty": "medium",
+        "evidence_ids": []
+      },
+      "new": {
+        "type": "opposes",
+        "source_id": "actor_0003",
+        "target_id": "project_pennes_mirabeau",
+        "summary": "Le CIQ des Pallières est requérant contre le permis; il demande une évaluation des risques liés à la chaleur et aux incendies.",
+        "evidence_ids": [
+          "evidence_pennes_20261107_002"
+        ]
+      }
+    },
+    {
+      "id": "relation_0003",
+      "old": {
+        "type": "associated_with",
+        "source_id": "project_pennes_mirabeau",
+        "target_id": "actor_0004",
+        "summary": "position / rôle — relation représentée dans le réseau source des Pennes-Mirabeau ; la nature précise du lien reste à qualifier par une preuve documentaire individuelle.",
+        "certainty": "medium",
+        "evidence_ids": []
+      },
+      "new": {
+        "type": "opposes",
+        "source_id": "actor_0004",
+        "target_id": "project_pennes_mirabeau",
+        "summary": "Le CIQ des Sybilles-Amphoux conteste le projet, évoquant proximité de la colline, chaleur et qualité de vie.",
+        "evidence_ids": [
+          "evidence_pennes_20261107_003"
+        ]
+      }
+    },
+    {
+      "id": "relation_0004",
+      "old": {
+        "type": "associated_with",
+        "source_id": "project_pennes_mirabeau",
+        "target_id": "actor_0005",
+        "summary": "position / rôle — relation représentée dans le réseau source des Pennes-Mirabeau ; la nature précise du lien reste à qualifier par une preuve documentaire individuelle.",
+        "certainty": "medium",
+        "evidence_ids": []
+      },
+      "new": {
+        "type": "opposes",
+        "source_id": "actor_0005",
+        "target_id": "project_pennes_mirabeau",
+        "summary": "Des riverains des Pennes-Mirabeau et de Saint-Victoret soutiennent les recours contre le projet.",
+        "evidence_ids": [
+          "evidence_pennes_20261107_004"
+        ]
+      }
+    },
+    {
+      "id": "relation_0007",
+      "old": {
+        "type": "associated_with",
+        "source_id": "project_pennes_mirabeau",
+        "target_id": "actor_0008",
+        "summary": "position / rôle — relation représentée dans le réseau source des Pennes-Mirabeau ; la nature précise du lien reste à qualifier par une preuve documentaire individuelle.",
+        "certainty": "medium",
+        "evidence_ids": []
+      },
+      "new": {
+        "type": "opposes",
+        "source_id": "actor_0008",
+        "target_id": "project_pennes_mirabeau",
+        "summary": "Christine Muscat, présidente du CIQ des Pallières, conteste le projet à cet emplacement et demande une expertise sur la chaleur rejetée.",
+        "evidence_ids": [
+          "evidence_pennes_20261107_005"
+        ]
+      }
+    },
+    {
+      "id": "relation_0008",
+      "old": {
+        "type": "associated_with",
+        "source_id": "project_pennes_mirabeau",
+        "target_id": "actor_0009",
+        "summary": "position / rôle — relation représentée dans le réseau source des Pennes-Mirabeau ; la nature précise du lien reste à qualifier par une preuve documentaire individuelle.",
+        "certainty": "medium",
+        "evidence_ids": []
+      },
+      "new": {
+        "type": "opposes",
+        "source_id": "actor_0009",
+        "target_id": "project_pennes_mirabeau",
+        "summary": "Christel Fayette, présidente du CIQ Sybilles-Amphoux, s'oppose à l'implantation à proximité des habitations et de la colline.",
+        "evidence_ids": [
+          "evidence_pennes_20261107_006"
+        ]
+      }
+    },
+    {
+      "id": "relation_0016",
+      "old": {
+        "type": "associated_with",
+        "source_id": "project_pennes_mirabeau",
+        "target_id": "actor_0017",
+        "summary": "position / rôle — relation représentée dans le réseau source des Pennes-Mirabeau ; la nature précise du lien reste à qualifier par une preuve documentaire individuelle.",
+        "certainty": "medium",
+        "evidence_ids": []
+      },
+      "new": {
+        "type": "opposes",
+        "source_id": "actor_0017",
+        "target_id": "project_pennes_mirabeau",
+        "summary": "Romain Amaro conteste le projet en l'état, mais n'a pas retiré le permis; il a engagé une démarche d'étude de récupération de chaleur.",
+        "evidence_ids": [
+          "evidence_pennes_20261107_007"
+        ]
+      }
+    },
+    {
+      "id": "relation_0018",
+      "old": {
+        "type": "associated_with",
+        "source_id": "project_pennes_mirabeau",
+        "target_id": "actor_0019",
+        "summary": "position / rôle — relation représentée dans le réseau source des Pennes-Mirabeau ; la nature précise du lien reste à qualifier par une preuve documentaire individuelle.",
+        "certainty": "medium",
+        "evidence_ids": []
+      },
+      "new": {
+        "type": "opposes",
+        "source_id": "actor_0019",
+        "target_id": "project_pennes_mirabeau",
+        "summary": "Éric Léotard estime nécessaire un recours pour conserver une possibilité de négocier sur les incidences du projet.",
+        "evidence_ids": [
+          "evidence_pennes_20261107_008"
+        ]
+      }
+    },
+    {
+      "id": "relation_0019",
+      "old": {
+        "type": "associated_with",
+        "source_id": "project_pennes_mirabeau",
+        "target_id": "actor_0020",
+        "summary": "position / rôle — relation représentée dans le réseau source des Pennes-Mirabeau ; la nature précise du lien reste à qualifier par une preuve documentaire individuelle.",
+        "certainty": "medium",
+        "evidence_ids": []
+      },
+      "new": {
+        "type": "opposes",
+        "source_id": "actor_0020",
+        "target_id": "project_pennes_mirabeau",
+        "summary": "Pierre Gelsi critique le site et a publiquement annoncé une opposition aux conséquences du projet sur les riverains de Saint-Victoret.",
+        "evidence_ids": [
+          "evidence_pennes_20261107_009"
+        ]
+      }
+    },
+    {
+      "id": "relation_0020",
+      "old": {
+        "type": "associated_with",
+        "source_id": "project_pennes_mirabeau",
+        "target_id": "actor_0021",
+        "summary": "position / rôle — relation représentée dans le réseau source des Pennes-Mirabeau ; la nature précise du lien reste à qualifier par une preuve documentaire individuelle.",
+        "certainty": "medium",
+        "evidence_ids": []
+      },
+      "new": {
+        "type": "opposes",
+        "source_id": "actor_0021",
+        "target_id": "project_pennes_mirabeau",
+        "summary": "Hervé Fabre-Aubrespy se déclare opposé au projet et critique l'absence de consultation des habitants.",
+        "evidence_ids": [
+          "evidence_pennes_20261107_010"
+        ]
+      }
+    },
+    {
+      "id": "relation_0021",
+      "old": {
+        "type": "associated_with",
+        "source_id": "project_pennes_mirabeau",
+        "target_id": "actor_0022",
+        "summary": "position / rôle — relation représentée dans le réseau source des Pennes-Mirabeau ; la nature précise du lien reste à qualifier par une preuve documentaire individuelle.",
+        "certainty": "medium",
+        "evidence_ids": []
+      },
+      "new": {
+        "type": "opposes",
+        "source_id": "actor_0022",
+        "target_id": "project_pennes_mirabeau",
+        "summary": "Maximilien Fusone se déclare contre le projet et invoque le principe de précaution; les risques avancés sont ses préoccupations, non des faits démontrés.",
+        "evidence_ids": [
+          "evidence_pennes_20261107_011"
+        ]
+      }
+    },
+    {
+      "id": "relation_0023",
+      "old": {
+        "type": "associated_with",
+        "source_id": "project_pennes_mirabeau",
+        "target_id": "actor_0024",
+        "summary": "position / rôle — relation représentée dans le réseau source des Pennes-Mirabeau ; la nature précise du lien reste à qualifier par une preuve documentaire individuelle.",
+        "certainty": "medium",
+        "evidence_ids": []
+      },
+      "new": {
+        "type": "position_on",
+        "source_id": "actor_0024",
+        "target_id": "project_pennes_mirabeau",
+        "summary": "Michel Amiel a délivré le permis de construire avant la fin de son mandat; cet acte administratif ne suffit pas à établir à lui seul une position personnelle favorable sans réserve.",
+        "evidence_ids": [
+          "evidence_pennes_20261107_012"
+        ]
+      }
+    },
+    {
+      "id": "relation_0024",
+      "old": {
+        "type": "associated_with",
+        "source_id": "project_pennes_mirabeau",
+        "target_id": "actor_0025",
+        "summary": "position / rôle — relation représentée dans le réseau source des Pennes-Mirabeau ; la nature précise du lien reste à qualifier par une preuve documentaire individuelle.",
+        "certainty": "medium",
+        "evidence_ids": []
+      },
+      "new": {
+        "type": "participates_in",
+        "source_id": "actor_0025",
+        "target_id": "project_pennes_mirabeau",
+        "summary": "Grégory Bouchet a défendu l'implantation au cours de la campagne municipale, en avançant des retombées financières et des emplois prévisionnels.",
+        "evidence_ids": [
+          "evidence_pennes_20261107_013"
+        ]
+      }
+    },
+    {
+      "id": "relation_0025",
+      "old": {
+        "type": "associated_with",
+        "source_id": "project_pennes_mirabeau",
+        "target_id": "actor_0026",
+        "summary": "position / rôle — relation représentée dans le réseau source des Pennes-Mirabeau ; la nature précise du lien reste à qualifier par une preuve documentaire individuelle.",
+        "certainty": "medium",
+        "evidence_ids": []
+      },
+      "new": {
+        "type": "position_on",
+        "source_id": "actor_0026",
+        "target_id": "project_pennes_mirabeau",
+        "summary": "Jean-Philippe Musso reconnaît le besoin possible de data centers, mais estime inadapté le site des Sybilles et défend une localisation différente.",
+        "evidence_ids": [
+          "evidence_pennes_20261107_014"
+        ]
+      }
+    },
+    {
+      "id": "relation_0026",
+      "old": {
+        "type": "associated_with",
+        "source_id": "project_pennes_mirabeau",
+        "target_id": "actor_0027",
+        "summary": "position / rôle — relation représentée dans le réseau source des Pennes-Mirabeau ; la nature précise du lien reste à qualifier par une preuve documentaire individuelle.",
+        "certainty": "medium",
+        "evidence_ids": []
+      },
+      "new": {
+        "type": "position_on",
+        "source_id": "actor_0027",
+        "target_id": "project_pennes_mirabeau",
+        "summary": "Laurent Simon évoque l'intérêt potentiel de la chaleur fatale pour un réseau, tout en soulignant la nécessité d'études et de l'accord des collectivités.",
+        "evidence_ids": [
+          "evidence_pennes_20261107_015"
+        ]
+      }
+    },
+    {
+      "id": "relation_0029",
+      "old": {
+        "type": "associated_with",
+        "source_id": "project_pennes_mirabeau",
+        "target_id": "actor_0030",
+        "summary": "position / rôle — relation représentée dans le réseau source des Pennes-Mirabeau ; la nature précise du lien reste à qualifier par une preuve documentaire individuelle.",
+        "certainty": "medium",
+        "evidence_ids": []
+      },
+      "new": {
+        "type": "participates_in",
+        "source_id": "actor_0030",
+        "target_id": "project_pennes_mirabeau",
+        "summary": "Telehouse est le maître d'ouvrage du centre de données et porte sa demande d'autorisation environnementale.",
+        "evidence_ids": [
+          "evidence_pennes_20261107_016"
+        ]
+      }
+    },
+    {
+      "id": "relation_0030",
+      "old": {
+        "type": "associated_with",
+        "source_id": "project_pennes_mirabeau",
+        "target_id": "actor_0031",
+        "summary": "position / rôle — relation représentée dans le réseau source des Pennes-Mirabeau ; la nature précise du lien reste à qualifier par une preuve documentaire individuelle.",
+        "certainty": "medium",
+        "evidence_ids": []
+      },
+      "new": {
+        "type": "participates_in",
+        "source_id": "actor_0031",
+        "target_id": "project_pennes_mirabeau",
+        "summary": "KDDI est la société mère japonaise de Telehouse; ce rattachement capitalistique est établi, sans présumer de son rôle opérationnel direct dans chaque autorisation.",
+        "evidence_ids": [
+          "evidence_pennes_20261107_017"
+        ]
+      }
+    },
+    {
+      "id": "relation_0031",
+      "old": {
+        "type": "associated_with",
+        "source_id": "project_pennes_mirabeau",
+        "target_id": "actor_0032",
+        "summary": "position / rôle — relation représentée dans le réseau source des Pennes-Mirabeau ; la nature précise du lien reste à qualifier par une preuve documentaire individuelle.",
+        "certainty": "medium",
+        "evidence_ids": []
+      },
+      "new": {
+        "type": "position_on",
+        "source_id": "actor_0032",
+        "target_id": "project_pennes_mirabeau",
+        "summary": "RTE conduit des études préalables à un éventuel raccordement de Telehouse, après autorisation préfectorale d'accès aux terrains; le raccordement réalisé n'est pas démontré.",
+        "evidence_ids": [
+          "evidence_pennes_20261107_018"
+        ]
+      }
+    },
+    {
+      "id": "relation_0033",
+      "old": {
+        "type": "associated_with",
+        "source_id": "project_pennes_mirabeau",
+        "target_id": "actor_0034",
+        "summary": "position / rôle — relation représentée dans le réseau source des Pennes-Mirabeau ; la nature précise du lien reste à qualifier par une preuve documentaire individuelle.",
+        "certainty": "medium",
+        "evidence_ids": []
+      },
+      "new": {
+        "type": "position_on",
+        "source_id": "actor_0034",
+        "target_id": "project_pennes_mirabeau",
+        "summary": "Le SDIS 13 est présenté comme ayant rendu un avis favorable sur les dispositifs de sécurité dans la communication de Telehouse; cela ne vaut pas preuve d'absence de risque.",
+        "evidence_ids": [
+          "evidence_pennes_20261107_019"
+        ]
+      }
+    },
+    {
+      "id": "relation_0034",
+      "old": {
+        "type": "associated_with",
+        "source_id": "project_pennes_mirabeau",
+        "target_id": "actor_0035",
+        "summary": "position / rôle — relation représentée dans le réseau source des Pennes-Mirabeau ; la nature précise du lien reste à qualifier par une preuve documentaire individuelle.",
+        "certainty": "medium",
+        "evidence_ids": []
+      },
+      "new": {
+        "type": "position_on",
+        "source_id": "actor_0035",
+        "target_id": "project_pennes_mirabeau",
+        "summary": "La SPL Énergies de Provence s'est vu confier un mandat d'études de faisabilité de réseau de chaleur, sans engagement de réalisation du réseau.",
+        "evidence_ids": [
+          "evidence_pennes_20261107_020"
+        ]
+      }
+    },
+    {
+      "id": "relation_0035",
+      "old": {
+        "type": "associated_with",
+        "source_id": "project_pennes_mirabeau",
+        "target_id": "actor_0036",
+        "summary": "position / rôle — relation représentée dans le réseau source des Pennes-Mirabeau ; la nature précise du lien reste à qualifier par une preuve documentaire individuelle.",
+        "certainty": "medium",
+        "evidence_ids": []
+      },
+      "new": {
+        "type": "position_on",
+        "source_id": "actor_0036",
+        "target_id": "project_pennes_mirabeau",
+        "summary": "SPLA Pays d'Aix Territoires est citée dans la cession foncière initiale, sans rôle démontré dans l'exploitation du data center.",
+        "evidence_ids": [
+          "evidence_pennes_20261107_021"
+        ]
+      }
+    },
+    {
+      "id": "relation_0036",
+      "old": {
+        "type": "associated_with",
+        "source_id": "project_pennes_mirabeau",
+        "target_id": "actor_0037",
+        "summary": "position / rôle — relation représentée dans le réseau source des Pennes-Mirabeau ; la nature précise du lien reste à qualifier par une preuve documentaire individuelle.",
+        "certainty": "medium",
+        "evidence_ids": []
+      },
+      "new": {
+        "type": "position_on",
+        "source_id": "actor_0037",
+        "target_id": "project_pennes_mirabeau",
+        "summary": "La préfecture des Bouches-du-Rhône a délivré l'autorisation environnementale le 27 avril 2026; cette décision administrative ne constitue pas un soutien politique.",
+        "evidence_ids": [
+          "evidence_pennes_20261107_022"
+        ]
+      }
+    },
+    {
+      "id": "relation_0037",
+      "old": {
+        "type": "associated_with",
+        "source_id": "project_pennes_mirabeau",
+        "target_id": "actor_0038",
+        "summary": "position / rôle — relation représentée dans le réseau source des Pennes-Mirabeau ; la nature précise du lien reste à qualifier par une preuve documentaire individuelle.",
+        "certainty": "medium",
+        "evidence_ids": []
+      },
+      "new": {
+        "type": "position_on",
+        "source_id": "actor_0038",
+        "target_id": "project_pennes_mirabeau",
+        "summary": "Le tribunal administratif de Marseille a désigné le commissaire enquêteur chargé de la consultation; le résultat des recours contentieux n'est pas établi.",
+        "evidence_ids": [
+          "evidence_pennes_20261107_023"
+        ]
+      }
+    },
+    {
+      "id": "relation_0038",
+      "old": {
+        "type": "associated_with",
+        "source_id": "project_pennes_mirabeau",
+        "target_id": "actor_0039",
+        "summary": "position / rôle — relation représentée dans le réseau source des Pennes-Mirabeau ; la nature précise du lien reste à qualifier par une preuve documentaire individuelle.",
+        "certainty": "medium",
+        "evidence_ids": []
+      },
+      "new": {
+        "type": "opposes",
+        "source_id": "actor_0039",
+        "target_id": "project_pennes_mirabeau",
+        "summary": "Le collectif Le Nuage était sous nos pieds relaie et soutient les recours environnementaux contre Telehouse.",
+        "evidence_ids": [
+          "evidence_pennes_20261107_024"
+        ]
+      }
+    },
+    {
+      "id": "relation_0039",
+      "old": {
+        "type": "associated_with",
+        "source_id": "project_pennes_mirabeau",
+        "target_id": "actor_0040",
+        "summary": "position / rôle — relation représentée dans le réseau source des Pennes-Mirabeau ; la nature précise du lien reste à qualifier par une preuve documentaire individuelle.",
+        "certainty": "medium",
+        "evidence_ids": []
+      },
+      "new": {
+        "type": "opposes",
+        "source_id": "actor_0040",
+        "target_id": "project_pennes_mirabeau",
+        "summary": "Data for Good figure parmi les requérants contre l'autorisation environnementale du site Telehouse.",
+        "evidence_ids": [
+          "evidence_pennes_20261107_025"
+        ]
+      }
+    }
+  ],
+  "modified_actors": [
+    {
+      "id": "actor_0010",
+      "old_display_in_cards": true,
+      "new_display_in_cards": false,
+      "reason": "Pas de prise de position individuelle suffisamment documentée sur le projet Cézanne dans le lot"
+    },
+    {
+      "id": "actor_0011",
+      "old_display_in_cards": true,
+      "new_display_in_cards": false,
+      "reason": "Pas de prise de position individuelle suffisamment documentée sur le projet Cézanne dans le lot"
+    },
+    {
+      "id": "actor_0012",
+      "old_display_in_cards": true,
+      "new_display_in_cards": false,
+      "reason": "Pas de prise de position individuelle suffisamment documentée sur le projet Cézanne dans le lot"
+    },
+    {
+      "id": "actor_0013",
+      "old_display_in_cards": true,
+      "new_display_in_cards": false,
+      "reason": "Pas de prise de position individuelle suffisamment documentée sur le projet Cézanne dans le lot"
+    },
+    {
+      "id": "actor_0014",
+      "old_display_in_cards": true,
+      "new_display_in_cards": false,
+      "reason": "Pas de prise de position individuelle suffisamment documentée sur le projet Cézanne dans le lot"
+    },
+    {
+      "id": "actor_0015",
+      "old_display_in_cards": true,
+      "new_display_in_cards": false,
+      "reason": "Pas de prise de position individuelle suffisamment documentée sur le projet Cézanne dans le lot"
+    },
+    {
+      "id": "actor_0016",
+      "old_display_in_cards": true,
+      "new_display_in_cards": false,
+      "reason": "Pas de prise de position individuelle suffisamment documentée sur le projet Cézanne dans le lot"
+    },
+    {
+      "id": "actor_0042",
+      "old_display_in_cards": true,
+      "new_display_in_cards": false,
+      "reason": "Pas de prise de position individuelle suffisamment documentée sur le projet Cézanne dans le lot"
+    },
+    {
+      "id": "actor_0043",
+      "old_display_in_cards": true,
+      "new_display_in_cards": false,
+      "reason": "Pas de prise de position individuelle suffisamment documentée sur le projet Cézanne dans le lot"
+    },
+    {
+      "id": "actor_0044",
+      "old_display_in_cards": true,
+      "new_display_in_cards": false,
+      "reason": "Pas de prise de position individuelle suffisamment documentée sur le projet Cézanne dans le lot"
+    },
+    {
+      "id": "actor_0052",
+      "old_display_in_cards": true,
+      "new_display_in_cards": false,
+      "reason": "Pas de prise de position individuelle suffisamment documentée sur le projet Cézanne dans le lot"
+    },
+    {
+      "id": "actor_0053",
+      "old_display_in_cards": true,
+      "new_display_in_cards": false,
+      "reason": "Pas de prise de position individuelle suffisamment documentée sur le projet Cézanne dans le lot"
+    },
+    {
+      "id": "actor_0054",
+      "old_display_in_cards": true,
+      "new_display_in_cards": false,
+      "reason": "Pas de prise de position individuelle suffisamment documentée sur le projet Cézanne dans le lot"
+    },
+    {
+      "id": "actor_0055",
+      "old_display_in_cards": true,
+      "new_display_in_cards": false,
+      "reason": "Pas de prise de position individuelle suffisamment documentée sur le projet Cézanne dans le lot"
+    },
+    {
+      "id": "actor_0056",
+      "old_display_in_cards": true,
+      "new_display_in_cards": false,
+      "reason": "Pas de prise de position individuelle suffisamment documentée sur le projet Cézanne dans le lot"
+    },
+    {
+      "id": "actor_0057",
+      "old_display_in_cards": true,
+      "new_display_in_cards": false,
+      "reason": "Pas de prise de position individuelle suffisamment documentée sur le projet Cézanne dans le lot"
+    },
+    {
+      "id": "actor_0058",
+      "old_display_in_cards": true,
+      "new_display_in_cards": false,
+      "reason": "Pas de prise de position individuelle suffisamment documentée sur le projet Cézanne dans le lot"
+    },
+    {
+      "id": "actor_0059",
+      "old_display_in_cards": true,
+      "new_display_in_cards": false,
+      "reason": "Pas de prise de position individuelle suffisamment documentée sur le projet Cézanne dans le lot"
+    },
+    {
+      "id": "actor_0060",
+      "old_display_in_cards": true,
+      "new_display_in_cards": false,
+      "reason": "Pas de prise de position individuelle suffisamment documentée sur le projet Cézanne dans le lot"
+    },
+    {
+      "id": "actor_0061",
+      "old_display_in_cards": true,
+      "new_display_in_cards": false,
+      "reason": "Pas de prise de position individuelle suffisamment documentée sur le projet Cézanne dans le lot"
+    },
+    {
+      "id": "actor_0062",
+      "old_display_in_cards": true,
+      "new_display_in_cards": false,
+      "reason": "Pas de prise de position individuelle suffisamment documentée sur le projet Cézanne dans le lot"
+    }
+  ],
+  "vigilances": [
+    "La preuve originalement portée par un lien Google News pour le dépôt de recours de Saint-Victoret n'est pas qualifiée en URL canonique; seule l'intention de recours est qualifiée via DCD.",
+    "La revue de presse Excel donne des dates de trouvaille qui ne sont pas nécessairement des dates de publication; ces dates ne sont pas injectées comme dates d'événements.",
+    "Les 9 sources anciennes sans URL sont remplacées par les sources consultables; une partie des preuves existantes reste en attente.",
+    "Les positions antérieures non étayées et leurs relations génériques subsistent dans le JSON historique mais sont écartées de la vue réseau/documentée à mettre en place.",
+    "Les rubriques de positions de l'ARS, de l'ADEME, du gouvernement ou d'autres acteurs ne sauraient être déduites de simples mentions.",
+    "Le nombre de modules annoncé (huit) et la surface du bâtiment de 22 177 m² au dossier décrivent des périmètres distincts à ne pas confondre."
+  ]
+}
